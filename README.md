@@ -66,3 +66,7 @@ python app.py --device cuda
 This will open a application in your brower through http://127.0.0.1:7860/ , where you can quickly view different voice.
 
 Just edit the voice code as you like :D
+
+## Publish your VITS voice MOD
+
+use `Left 4 Dead 2 Authoring Tools`, you can google its usage.
