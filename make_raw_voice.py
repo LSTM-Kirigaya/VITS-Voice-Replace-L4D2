@@ -1,10 +1,10 @@
-import time
 import os
 import gradio as gr
 import utils
 import argparse
 import commons
 
+import yaml
 from models import SynthesizerTrn
 from text import text_to_sequence
 import torch
@@ -65,13 +65,8 @@ def vits(text, language, speaker_id, noise_scale, noise_scale_w, length_scale):
 
     return 22050, audio
 
-
-make_config = {
-    'producer': (torch.tensor([132]), 0.3, 0.668, 1.0),     # 申鹤
-    'gambler':  (torch.tensor([228]), 0.6, 0.668, 1.0),     # 胡桃
-    'mechanic': (torch.tensor([91]), 0.4, 0.668, 1.0),      # 荧
-    'coach':    (torch.tensor([115]), 0.3, 0.668, 1.0),     # 刻晴
-}
+with open('./config/voice.yaml', 'r', encoding='utf-8') as fp:
+    config = yaml.load(fp, Loader=yaml.FullLoader)
 
 lang_code = {
     'zh': 0,
@@ -85,13 +80,13 @@ if __name__ == '__main__':
     with open(f'transcription/{name}_{lang}.json', 'r', encoding='utf-8') as fp:
         transcription = json.load(fp)
     
-    root = os.path.join('sound', name)
+    root = os.path.join('dist', config[name]['mod_name'], 'sound', 'player', 'survivor', 'voice', name)
     if not os.path.exists(root):
-        os.mkdir(root)
+        os.makedirs(root)
     
     for wave_file in tqdm.tqdm(transcription):
         target_file = os.path.join(root, wave_file)
         words = transcription[wave_file].strip()
         if len(words) > 0:
-            sr, audio = vits(words, lang_code, *make_config[name])
+            sr, audio = vits(words, lang_code, *config[name]['config'])
             sf.write(target_file, audio, samplerate=sr)

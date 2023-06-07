@@ -14,22 +14,30 @@ import logging
 import gradio.processing_utils as gr_processing_utils
 
 logging.getLogger('numba').setLevel(logging.WARNING)
-limitation = os.getenv("SYSTEM") == "spaces"  # limit text and audio length in huggingface spaces
+# limit text and audio length in huggingface spaces
+limitation = os.getenv("SYSTEM") == "spaces"
 
 audio_postprocess_ori = gr.Audio.postprocess
+
+
 def audio_postprocess(self, y):
     data = audio_postprocess_ori(self, y)
     if data is None:
         return None
     return gr_processing_utils.encode_url_or_file_to_base64(data["name"])
+
+
 gr.Audio.postprocess = audio_postprocess
 
+
 def get_text(text, hps):
-    text_norm, clean_text = text_to_sequence(text, hps.symbols, hps.data.text_cleaners)
+    text_norm, clean_text = text_to_sequence(
+        text, hps.symbols, hps.data.text_cleaners)
     if hps.data.add_blank:
         text_norm = commons.intersperse(text_norm, 0)
     text_norm = LongTensor(text_norm)
     return text_norm, clean_text
+
 
 def vits(text, language, speaker_id, noise_scale, noise_scale_w, length_scale):
     start = time.perf_counter()
@@ -56,6 +64,7 @@ def vits(text, language, speaker_id, noise_scale, noise_scale_w, length_scale):
 
     return "生成成功!", (22050, audio), f"生成耗时 {round(time.perf_counter()-start, 2)} s"
 
+
 def search_speaker(search_value):
     for s in speakers:
         if search_value == s:
@@ -64,11 +73,13 @@ def search_speaker(search_value):
         if search_value in s:
             return s
 
+
 def change_lang(language):
     if language == 0:
         return 0.6, 0.668, 1.2
     else:
         return 0.6, 0.668, 1.1
+
 
 download_audio_js = """
 () =>{{
@@ -96,11 +107,13 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--device', type=str, default='cpu')
     parser.add_argument('--api', action="store_true", default=False)
-    parser.add_argument("--share", action="store_true", default=False, help="share gradio app")
-    parser.add_argument("--colab", action="store_true", default=False, help="share gradio app")
+    parser.add_argument("--share", action="store_true",
+                        default=False, help="share gradio app")
+    parser.add_argument("--colab", action="store_true",
+                        default=False, help="share gradio app")
     args = parser.parse_args()
     device = torch.device(args.device)
-    
+
     hps_ms = utils.get_hparams_from_file(r'./model/config.json')
     net_g_ms = SynthesizerTrn(
         len(hps_ms.symbols),
@@ -110,8 +123,9 @@ if __name__ == '__main__':
         **hps_ms.model)
     _ = net_g_ms.eval().to(device)
     speakers = hps_ms.speakers
-    model, optimizer, learning_rate, epochs = utils.load_checkpoint(r'./model/G_953000.pth', net_g_ms, None)
-    
+    model, optimizer, learning_rate, epochs = utils.load_checkpoint(
+        r'./model/G_953000.pth', net_g_ms, None)
+
     with gr.Blocks() as app:
         gr.Markdown(
             "# <center> VITS语音在线合成demo\n"
@@ -125,29 +139,40 @@ if __name__ == '__main__':
             with gr.TabItem("vits"):
                 with gr.Row():
                     with gr.Column():
-                        input_text = gr.Textbox(label="Text (100 words limitation) " if limitation else "Text", lines=5, value="今天晚上吃啥好呢。", elem_id=f"input-text")
+                        input_text = gr.Textbox(
+                            label="Text (100 words limitation) " if limitation else "Text", lines=5, value="今天晚上吃啥好呢。", elem_id=f"input-text")
                         lang = gr.Dropdown(label="Language", choices=["中文", "日语", "中日混合（中文用[ZH][ZH]包裹起来，日文用[JA][JA]包裹起来）"],
-                                    type="index", value="中文")
+                                           type="index", value="中文")
                         btn = gr.Button(value="Submit")
                         with gr.Row():
-                            search = gr.Textbox(label="Search Speaker", lines=1)
+                            search = gr.Textbox(
+                                label="Search Speaker", lines=1)
                             btn2 = gr.Button(value="Search")
-                        sid = gr.Dropdown(label="Speaker", choices=speakers, type="index", value=speakers[228])
+                        sid = gr.Dropdown(
+                            label="Speaker", choices=speakers, type="index", value=speakers[228])
                         with gr.Row():
-                            ns = gr.Slider(label="noise_scale(控制感情变化程度)", minimum=0.1, maximum=1.0, step=0.1, value=0.6, interactive=True)
-                            nsw = gr.Slider(label="noise_scale_w(控制音素发音长度)", minimum=0.1, maximum=1.0, step=0.1, value=0.668, interactive=True)
-                            ls = gr.Slider(label="length_scale(控制整体语速)", minimum=0.1, maximum=2.0, step=0.1, value=1.2, interactive=True)
+                            ns = gr.Slider(label="noise_scale(控制感情变化程度)", minimum=0.1,
+                                           maximum=1.0, step=0.1, value=0.6, interactive=True)
+                            nsw = gr.Slider(label="noise_scale_w(控制音素发音长度)", minimum=0.1,
+                                            maximum=1.0, step=0.1, value=0.668, interactive=True)
+                            ls = gr.Slider(label="length_scale(控制整体语速)", minimum=0.1,
+                                           maximum=2.0, step=0.1, value=1.2, interactive=True)
                     with gr.Column():
                         o1 = gr.Textbox(label="Output Message")
-                        o2 = gr.Audio(label="Output Audio", elem_id=f"tts-audio")
+                        o2 = gr.Audio(label="Output Audio",
+                                      elem_id=f"tts-audio")
                         o3 = gr.Textbox(label="Extra Info")
                         download = gr.Button("Download Audio")
-                    btn.click(vits, inputs=[input_text, lang, sid, ns, nsw, ls], outputs=[o1, o2, o3])
-                    download.click(None, [], [], _js=download_audio_js.format())
+                    btn.click(vits, inputs=[
+                              input_text, lang, sid, ns, nsw, ls], outputs=[o1, o2, o3])
+                    download.click(
+                        None, [], [], _js=download_audio_js.format())
                     btn2.click(search_speaker, inputs=[search], outputs=[sid])
-                    lang.change(change_lang, inputs=[lang], outputs=[ns, nsw, ls])
+                    lang.change(change_lang, inputs=[
+                                lang], outputs=[ns, nsw, ls])
             with gr.TabItem("可用人物一览"):
-                gr.Radio(label="Speaker", choices=speakers, interactive=False, type="index")
+                gr.Radio(label="Speaker", choices=speakers,
+                         interactive=False, type="index")
     if args.colab:
         webbrowser.open("http://127.0.0.1:7860")
     app.queue(concurrency_count=1, api_open=args.api).launch(share=args.share)

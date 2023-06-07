@@ -24,11 +24,6 @@ from tqdm import tqdm
 names = ['producer', 'coach', 'gambler', 'mechanic']
 root = r'D:\Download\steam\steam\steamapps\common\Left 4 Dead 2\left4dead2\sound\player\survivor\voice'
 
-def need_align_length(wav_name: str) -> bool:
-    for k in align_length_keywords:
-        if k in wav_name:
-            return True
-    return False
 
 def align_audio_two_folders(src_folder: str, out_folder: str):
     assert os.path.exists(src_folder)

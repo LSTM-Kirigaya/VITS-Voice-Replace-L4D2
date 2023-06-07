@@ -1,0 +1,8362 @@
+{
+    "adrenaline01.wav": {
+        "length": 1215,
+        "sr": 22050
+    },
+    "adrenaline02.wav": {
+        "length": 1020,
+        "sr": 22050
+    },
+    "adrenaline03.wav": {
+        "length": 1317,
+        "sr": 22050
+    },
+    "adrenaline04.wav": {
+        "length": 1394,
+        "sr": 44100
+    },
+    "adrenaline05.wav": {
+        "length": 1777,
+        "sr": 22050
+    },
+    "adrenaline06.wav": {
+        "length": 1155,
+        "sr": 22050
+    },
+    "alertgiveitem01.wav": {
+        "length": 1085,
+        "sr": 22050
+    },
+    "alertgiveitem02.wav": {
+        "length": 1333,
+        "sr": 22050
+    },
+    "alertgiveitem03.wav": {
+        "length": 1257,
+        "sr": 22050
+    },
+    "alertgiveitem04.wav": {
+        "length": 1133,
+        "sr": 22050
+    },
+    "alertgiveitem05.wav": {
+        "length": 1537,
+        "sr": 22050
+    },
+    "alertgiveitemc101.wav": {
+        "length": 1144,
+        "sr": 22050
+    },
+    "alertgiveitemcombat01.wav": {
+        "length": 490,
+        "sr": 22050
+    },
+    "alertgiveitemcombat02.wav": {
+        "length": 629,
+        "sr": 22050
+    },
+    "alertgiveitemcombat03.wav": {
+        "length": 681,
+        "sr": 22050
+    },
+    "alertgiveitemcombat04.wav": {
+        "length": 933,
+        "sr": 22050
+    },
+    "alertgiveitemcombat05.wav": {
+        "length": 1167,
+        "sr": 22050
+    },
+    "alertgiveitemcombat06.wav": {
+        "length": 1133,
+        "sr": 22050
+    },
+    "alertgiveitemstop01.wav": {
+        "length": 1330,
+        "sr": 22050
+    },
+    "alertgiveitemstop02.wav": {
+        "length": 1324,
+        "sr": 22050
+    },
+    "alertgiveitemstop03.wav": {
+        "length": 2168,
+        "sr": 22050
+    },
+    "alertgiveitemstopc101.wav": {
+        "length": 3846,
+        "sr": 22050
+    },
+    "askready01.wav": {
+        "length": 1175,
+        "sr": 22050
+    },
+    "askready02.wav": {
+        "length": 424,
+        "sr": 22050
+    },
+    "askready03.wav": {
+        "length": 1167,
+        "sr": 22050
+    },
+    "backup01.wav": {
+        "length": 861,
+        "sr": 22050
+    },
+    "backup02.wav": {
+        "length": 1280,
+        "sr": 22050
+    },
+    "backup03.wav": {
+        "length": 910,
+        "sr": 22050
+    },
+    "backup04.wav": {
+        "length": 720,
+        "sr": 22050
+    },
+    "backupquiet01.wav": {
+        "length": 526,
+        "sr": 22050
+    },
+    "backupquiet02.wav": {
+        "length": 596,
+        "sr": 22050
+    },
+    "backupquiet03.wav": {
+        "length": 539,
+        "sr": 22050
+    },
+    "backupquiet04.wav": {
+        "length": 904,
+        "sr": 22050
+    },
+    "battlecry01.wav": {
+        "length": 1179,
+        "sr": 22050
+    },
+    "battlecry02.wav": {
+        "length": 1426,
+        "sr": 22050
+    },
+    "battlecrytank01.wav": {
+        "length": 1527,
+        "sr": 22050
+    },
+    "battlecrytank02.wav": {
+        "length": 1641,
+        "sr": 44100
+    },
+    "battlecrytank03.wav": {
+        "length": 1364,
+        "sr": 44100
+    },
+    "battlecrytank04.wav": {
+        "length": 747,
+        "sr": 22050
+    },
+    "battlecrytank05.wav": {
+        "length": 1312,
+        "sr": 22050
+    },
+    "battlecrytank06.wav": {
+        "length": 1198,
+        "sr": 22050
+    },
+    "battlecrytank07.wav": {
+        "length": 1731,
+        "sr": 22050
+    },
+    "battlecrytank08.wav": {
+        "length": 1700,
+        "sr": 22050
+    },
+    "blank.wav": {
+        "length": 53,
+        "sr": 22050
+    },
+    "boomerjar01.wav": {
+        "length": 2412,
+        "sr": 22050
+    },
+    "boomerjar02.wav": {
+        "length": 2207,
+        "sr": 22050
+    },
+    "boomerjar03.wav": {
+        "length": 1135,
+        "sr": 22050
+    },
+    "boomerjar04.wav": {
+        "length": 1135,
+        "sr": 22050
+    },
+    "boomerjar05.wav": {
+        "length": 1520,
+        "sr": 22050
+    },
+    "boomerjar06.wav": {
+        "length": 1286,
+        "sr": 22050
+    },
+    "boomerjar07.wav": {
+        "length": 1702,
+        "sr": 22050
+    },
+    "boomerjar08.wav": {
+        "length": 1165,
+        "sr": 22050
+    },
+    "boomerjar09.wav": {
+        "length": 1530,
+        "sr": 22050
+    },
+    "boomerreaction01.wav": {
+        "length": 3346,
+        "sr": 22050
+    },
+    "boomerreaction02.wav": {
+        "length": 2222,
+        "sr": 22050
+    },
+    "boomerreaction03.wav": {
+        "length": 3653,
+        "sr": 22050
+    },
+    "boomerreaction04.wav": {
+        "length": 3162,
+        "sr": 22050
+    },
+    "boomerreaction05.wav": {
+        "length": 3730,
+        "sr": 22050
+    },
+    "callforrescue01.wav": {
+        "length": 4699,
+        "sr": 22050
+    },
+    "callforrescue02.wav": {
+        "length": 4654,
+        "sr": 22050
+    },
+    "callforrescue03.wav": {
+        "length": 1772,
+        "sr": 22050
+    },
+    "callforrescue04.wav": {
+        "length": 1106,
+        "sr": 22050
+    },
+    "callforrescue05.wav": {
+        "length": 1205,
+        "sr": 22050
+    },
+    "callforrescue06.wav": {
+        "length": 1452,
+        "sr": 22050
+    },
+    "callforrescue07.wav": {
+        "length": 2799,
+        "sr": 22050
+    },
+    "callforrescue08.wav": {
+        "length": 1427,
+        "sr": 22050
+    },
+    "callforrescue09.wav": {
+        "length": 1965,
+        "sr": 22050
+    },
+    "callforrescue10.wav": {
+        "length": 4848,
+        "sr": 22050
+    },
+    "callforrescue11.wav": {
+        "length": 1932,
+        "sr": 22050
+    },
+    "callforrescue12.wav": {
+        "length": 1688,
+        "sr": 22050
+    },
+    "chargerrunningwithplayer01.wav": {
+        "length": 859,
+        "sr": 44100
+    },
+    "chargerrunningwithplayer02.wav": {
+        "length": 1757,
+        "sr": 44100
+    },
+    "chargerrunningwithplayer03.wav": {
+        "length": 1965,
+        "sr": 44100
+    },
+    "choke01.wav": {
+        "length": 1996,
+        "sr": 22050
+    },
+    "choke02.wav": {
+        "length": 2232,
+        "sr": 22050
+    },
+    "choke03.wav": {
+        "length": 2479,
+        "sr": 22050
+    },
+    "choke04.wav": {
+        "length": 1568,
+        "sr": 22050
+    },
+    "choke05.wav": {
+        "length": 2396,
+        "sr": 22050
+    },
+    "choke06.wav": {
+        "length": 1850,
+        "sr": 22050
+    },
+    "closethedoor01.wav": {
+        "length": 748,
+        "sr": 22050
+    },
+    "closethedoor02.wav": {
+        "length": 1131,
+        "sr": 22050
+    },
+    "closethedoor03.wav": {
+        "length": 5662,
+        "sr": 44100
+    },
+    "closethedoor04.wav": {
+        "length": 831,
+        "sr": 22050
+    },
+    "closethedoor05.wav": {
+        "length": 1511,
+        "sr": 22050
+    },
+    "closethedoorc101.wav": {
+        "length": 1641,
+        "sr": 22050
+    },
+    "closethedoorc102.wav": {
+        "length": 1509,
+        "sr": 22050
+    },
+    "closethedoorc103.wav": {
+        "length": 1103,
+        "sr": 22050
+    },
+    "closethedoorc104.wav": {
+        "length": 1438,
+        "sr": 22050
+    },
+    "cough01.wav": {
+        "length": 2638,
+        "sr": 22050
+    },
+    "cough02.wav": {
+        "length": 1859,
+        "sr": 22050
+    },
+    "cough03.wav": {
+        "length": 1533,
+        "sr": 22050
+    },
+    "cough04.wav": {
+        "length": 1290,
+        "sr": 22050
+    },
+    "cough05.wav": {
+        "length": 1169,
+        "sr": 22050
+    },
+    "cough06.wav": {
+        "length": 1467,
+        "sr": 22050
+    },
+    "cough07.wav": {
+        "length": 1762,
+        "sr": 22050
+    },
+    "coverme01.wav": {
+        "length": 2114,
+        "sr": 22050
+    },
+    "coverme02.wav": {
+        "length": 2262,
+        "sr": 22050
+    },
+    "coverme03.wav": {
+        "length": 1848,
+        "sr": 22050
+    },
+    "coverme04.wav": {
+        "length": 875,
+        "sr": 22050
+    },
+    "coverme05.wav": {
+        "length": 1848,
+        "sr": 22050
+    },
+    "coverme06.wav": {
+        "length": 2916,
+        "sr": 22050
+    },
+    "covermec101.wav": {
+        "length": 2619,
+        "sr": 22050
+    },
+    "covermec102.wav": {
+        "length": 1516,
+        "sr": 22050
+    },
+    "covermec103.wav": {
+        "length": 2089,
+        "sr": 22050
+    },
+    "deathscream01.wav": {
+        "length": 2011,
+        "sr": 22050
+    },
+    "deathscream02.wav": {
+        "length": 3381,
+        "sr": 22050
+    },
+    "defibrillator01.wav": {
+        "length": 1004,
+        "sr": 22050
+    },
+    "defibrillator02.wav": {
+        "length": 1213,
+        "sr": 22050
+    },
+    "defibrillator03.wav": {
+        "length": 1229,
+        "sr": 22050
+    },
+    "defibrillator04.wav": {
+        "length": 1302,
+        "sr": 22050
+    },
+    "defibrillator05.wav": {
+        "length": 1093,
+        "sr": 22050
+    },
+    "defibrillator06.wav": {
+        "length": 1009,
+        "sr": 22050
+    },
+    "defibrillator07.wav": {
+        "length": 611,
+        "sr": 22050
+    },
+    "defibrillator08.wav": {
+        "length": 927,
+        "sr": 22050
+    },
+    "defibrillator09.wav": {
+        "length": 1381,
+        "sr": 22050
+    },
+    "defibrillator10.wav": {
+        "length": 1961,
+        "sr": 22050
+    },
+    "defibrillator11.wav": {
+        "length": 2700,
+        "sr": 22050
+    },
+    "defibrillator12.wav": {
+        "length": 1934,
+        "sr": 44100
+    },
+    "defibrillator13.wav": {
+        "length": 2372,
+        "sr": 22050
+    },
+    "defibrillator14.wav": {
+        "length": 1863,
+        "sr": 22050
+    },
+    "defibrillator15.wav": {
+        "length": 2731,
+        "sr": 22050
+    },
+    "defibrillator16.wav": {
+        "length": 651,
+        "sr": 22050
+    },
+    "defibrillator17.wav": {
+        "length": 1192,
+        "sr": 22050
+    },
+    "defibrillator18.wav": {
+        "length": 2935,
+        "sr": 22050
+    },
+    "doubledeathresponse01.wav": {
+        "length": 3385,
+        "sr": 22050
+    },
+    "doubledeathresponse02.wav": {
+        "length": 2988,
+        "sr": 22050
+    },
+    "doubledeathresponse03.wav": {
+        "length": 4513,
+        "sr": 22050
+    },
+    "ellisinterrupt01.wav": {
+        "length": 622,
+        "sr": 44100
+    },
+    "ellisinterrupt02.wav": {
+        "length": 794,
+        "sr": 44100
+    },
+    "ellisinterrupt03.wav": {
+        "length": 1278,
+        "sr": 44100
+    },
+    "ellisinterrupt04.wav": {
+        "length": 926,
+        "sr": 44100
+    },
+    "ellisinterrupt05.wav": {
+        "length": 4201,
+        "sr": 44100
+    },
+    "ellisinterrupt06.wav": {
+        "length": 1646,
+        "sr": 22050
+    },
+    "ellisinterrupt07.wav": {
+        "length": 2196,
+        "sr": 44100
+    },
+    "ellisinterrupt08.wav": {
+        "length": 708,
+        "sr": 44100
+    },
+    "ellisinterrupt09.wav": {
+        "length": 780,
+        "sr": 44100
+    },
+    "ellisinterrupt10.wav": {
+        "length": 1074,
+        "sr": 44100
+    },
+    "ellisinterrupt11.wav": {
+        "length": 1327,
+        "sr": 44100
+    },
+    "ellisinterrupt12.wav": {
+        "length": 1632,
+        "sr": 44100
+    },
+    "ellisinterrupt13.wav": {
+        "length": 1776,
+        "sr": 44100
+    },
+    "ellisinterrupt14.wav": {
+        "length": 1977,
+        "sr": 44100
+    },
+    "ellisinterrupt15.wav": {
+        "length": 3842,
+        "sr": 44100
+    },
+    "emphaticgo01.wav": {
+        "length": 1659,
+        "sr": 22050
+    },
+    "emphaticgo02.wav": {
+        "length": 1460,
+        "sr": 22050
+    },
+    "emphaticgo03.wav": {
+        "length": 1059,
+        "sr": 22050
+    },
+    "emphaticgo04.wav": {
+        "length": 999,
+        "sr": 22050
+    },
+    "emphaticgo05.wav": {
+        "length": 648,
+        "sr": 22050
+    },
+    "emphaticgo06.wav": {
+        "length": 287,
+        "sr": 22050
+    },
+    "emphaticgo07.wav": {
+        "length": 589,
+        "sr": 22050
+    },
+    "emphaticgoquiet01.wav": {
+        "length": 974,
+        "sr": 22050
+    },
+    "emphaticgoquiet02.wav": {
+        "length": 636,
+        "sr": 22050
+    },
+    "emphaticgoquiet03.wav": {
+        "length": 697,
+        "sr": 22050
+    },
+    "explosiveammo01.wav": {
+        "length": 1406,
+        "sr": 22050
+    },
+    "explosiveammo02.wav": {
+        "length": 1363,
+        "sr": 22050
+    },
+    "explosiveammo03.wav": {
+        "length": 1443,
+        "sr": 22050
+    },
+    "explosiveammo04.wav": {
+        "length": 992,
+        "sr": 22050
+    },
+    "explosiveammo05.wav": {
+        "length": 1744,
+        "sr": 44100
+    },
+    "explosiveammo06.wav": {
+        "length": 1343,
+        "sr": 22050
+    },
+    "explosiveammo07.wav": {
+        "length": 1822,
+        "sr": 22050
+    },
+    "explosiveammo08.wav": {
+        "length": 1870,
+        "sr": 22050
+    },
+    "fall01.wav": {
+        "length": 4020,
+        "sr": 22050
+    },
+    "fall02.wav": {
+        "length": 5669,
+        "sr": 22050
+    },
+    "fall03.wav": {
+        "length": 4020,
+        "sr": 22050
+    },
+    "fall04.wav": {
+        "length": 5669,
+        "sr": 22050
+    },
+    "followme01.wav": {
+        "length": 1253,
+        "sr": 22050
+    },
+    "followme02.wav": {
+        "length": 1111,
+        "sr": 22050
+    },
+    "followme03.wav": {
+        "length": 471,
+        "sr": 22050
+    },
+    "followme04.wav": {
+        "length": 754,
+        "sr": 22050
+    },
+    "followme05.wav": {
+        "length": 535,
+        "sr": 22050
+    },
+    "friendlyfire01.wav": {
+        "length": 1839,
+        "sr": 22050
+    },
+    "friendlyfire02.wav": {
+        "length": 1789,
+        "sr": 22050
+    },
+    "friendlyfire03.wav": {
+        "length": 2306,
+        "sr": 22050
+    },
+    "friendlyfire04.wav": {
+        "length": 1159,
+        "sr": 22050
+    },
+    "friendlyfire05.wav": {
+        "length": 2030,
+        "sr": 22050
+    },
+    "friendlyfire06.wav": {
+        "length": 843,
+        "sr": 22050
+    },
+    "friendlyfire07.wav": {
+        "length": 1698,
+        "sr": 22050
+    },
+    "friendlyfire08.wav": {
+        "length": 1304,
+        "sr": 22050
+    },
+    "friendlyfire09.wav": {
+        "length": 1665,
+        "sr": 22050
+    },
+    "friendlyfire10.wav": {
+        "length": 1547,
+        "sr": 22050
+    },
+    "friendlyfire11.wav": {
+        "length": 1010,
+        "sr": 22050
+    },
+    "friendlyfire12.wav": {
+        "length": 2710,
+        "sr": 22050
+    },
+    "friendlyfire13.wav": {
+        "length": 1616,
+        "sr": 22050
+    },
+    "friendlyfire14.wav": {
+        "length": 960,
+        "sr": 22050
+    },
+    "friendlyfire15.wav": {
+        "length": 2658,
+        "sr": 22050
+    },
+    "friendlyfire16.wav": {
+        "length": 1561,
+        "sr": 22050
+    },
+    "friendlyfire17.wav": {
+        "length": 1124,
+        "sr": 22050
+    },
+    "friendlyfire18.wav": {
+        "length": 1835,
+        "sr": 22050
+    },
+    "friendlyfire19.wav": {
+        "length": 1268,
+        "sr": 22050
+    },
+    "friendlyfire20.wav": {
+        "length": 1218,
+        "sr": 22050
+    },
+    "friendlyfire21.wav": {
+        "length": 1420,
+        "sr": 22050
+    },
+    "friendlyfire22.wav": {
+        "length": 1656,
+        "sr": 22050
+    },
+    "friendlyfire23.wav": {
+        "length": 1566,
+        "sr": 22050
+    },
+    "friendlyfire24.wav": {
+        "length": 1601,
+        "sr": 22050
+    },
+    "friendlyfire25.wav": {
+        "length": 1756,
+        "sr": 22050
+    },
+    "friendlyfire26.wav": {
+        "length": 2427,
+        "sr": 22050
+    },
+    "friendlyfirebile01.wav": {
+        "length": 2238,
+        "sr": 44100
+    },
+    "friendlyfirebile02.wav": {
+        "length": 3271,
+        "sr": 44100
+    },
+    "friendlyfirebile03.wav": {
+        "length": 1857,
+        "sr": 44100
+    },
+    "friendlyfirec101.wav": {
+        "length": 3799,
+        "sr": 22050
+    },
+    "friendlyfirec102.wav": {
+        "length": 2276,
+        "sr": 22050
+    },
+    "friendlyfirec1nick01.wav": {
+        "length": 3008,
+        "sr": 22050
+    },
+    "friendlyfiretank01.wav": {
+        "length": 2103,
+        "sr": 22050
+    },
+    "friendlyfiretank02.wav": {
+        "length": 1881,
+        "sr": 44100
+    },
+    "friendlyfiretank03.wav": {
+        "length": 2360,
+        "sr": 44100
+    },
+    "friendlyfiretank04.wav": {
+        "length": 1987,
+        "sr": 44100
+    },
+    "friendlyfiretank05.wav": {
+        "length": 1488,
+        "sr": 22050
+    },
+    "friendlyfiretank06.wav": {
+        "length": 2109,
+        "sr": 44100
+    },
+    "friendlyfiretank07.wav": {
+        "length": 2420,
+        "sr": 22050
+    },
+    "friendlyfiretank08.wav": {
+        "length": 2253,
+        "sr": 44100
+    },
+    "generic01.wav": {
+        "length": 2653,
+        "sr": 44100
+    },
+    "generic02.wav": {
+        "length": 3329,
+        "sr": 44100
+    },
+    "gettingrevived01.wav": {
+        "length": 3838,
+        "sr": 44100
+    },
+    "gettingrevived02.wav": {
+        "length": 1860,
+        "sr": 22050
+    },
+    "gettingrevived03.wav": {
+        "length": 909,
+        "sr": 22050
+    },
+    "gettingrevived04.wav": {
+        "length": 1412,
+        "sr": 22050
+    },
+    "gettingrevived05.wav": {
+        "length": 1820,
+        "sr": 22050
+    },
+    "gettingrevived06.wav": {
+        "length": 715,
+        "sr": 22050
+    },
+    "gettingrevived07.wav": {
+        "length": 780,
+        "sr": 22050
+    },
+    "gettingrevived08.wav": {
+        "length": 1165,
+        "sr": 22050
+    },
+    "gettingrevived09.wav": {
+        "length": 2365,
+        "sr": 22050
+    },
+    "gettingrevived10.wav": {
+        "length": 1793,
+        "sr": 22050
+    },
+    "gettingrevived11.wav": {
+        "length": 780,
+        "sr": 22050
+    },
+    "gettingrevived12.wav": {
+        "length": 1563,
+        "sr": 22050
+    },
+    "gettingrevived13.wav": {
+        "length": 1887,
+        "sr": 44100
+    },
+    "gettingrevived14.wav": {
+        "length": 2237,
+        "sr": 22050
+    },
+    "gettingrevived15.wav": {
+        "length": 3152,
+        "sr": 22050
+    },
+    "gettingrevived16.wav": {
+        "length": 1438,
+        "sr": 22050
+    },
+    "gettingrevived17.wav": {
+        "length": 1675,
+        "sr": 22050
+    },
+    "gettingrevived18.wav": {
+        "length": 1914,
+        "sr": 22050
+    },
+    "gettingrevived19.wav": {
+        "length": 1393,
+        "sr": 22050
+    },
+    "gettingrevived20.wav": {
+        "length": 1121,
+        "sr": 22050
+    },
+    "gettingrevived21.wav": {
+        "length": 1488,
+        "sr": 22050
+    },
+    "gettingrevived22.wav": {
+        "length": 1143,
+        "sr": 22050
+    },
+    "gettingrevived23.wav": {
+        "length": 1212,
+        "sr": 22050
+    },
+    "goingtodie01.wav": {
+        "length": 2113,
+        "sr": 22050
+    },
+    "goingtodie02.wav": {
+        "length": 4582,
+        "sr": 22050
+    },
+    "goingtodie03.wav": {
+        "length": 2272,
+        "sr": 22050
+    },
+    "goingtodie04.wav": {
+        "length": 2390,
+        "sr": 22050
+    },
+    "goingtodie05.wav": {
+        "length": 2725,
+        "sr": 22050
+    },
+    "goingtodie06.wav": {
+        "length": 3163,
+        "sr": 22050
+    },
+    "goingtodie07.wav": {
+        "length": 3841,
+        "sr": 44100
+    },
+    "goingtodie08.wav": {
+        "length": 4719,
+        "sr": 22050
+    },
+    "goingtodie09.wav": {
+        "length": 2072,
+        "sr": 22050
+    },
+    "goingtodie10.wav": {
+        "length": 2768,
+        "sr": 22050
+    },
+    "goingtodie11.wav": {
+        "length": 1966,
+        "sr": 22050
+    },
+    "goingtodie13.wav": {
+        "length": 1397,
+        "sr": 22050
+    },
+    "goingtodie14.wav": {
+        "length": 2497,
+        "sr": 22050
+    },
+    "goingtodie15.wav": {
+        "length": 1498,
+        "sr": 22050
+    },
+    "goingtodie16.wav": {
+        "length": 2471,
+        "sr": 22050
+    },
+    "goingtodie17.wav": {
+        "length": 3352,
+        "sr": 22050
+    },
+    "goingtodie18.wav": {
+        "length": 2789,
+        "sr": 22050
+    },
+    "goingtodie19.wav": {
+        "length": 2378,
+        "sr": 44100
+    },
+    "goingtodie20.wav": {
+        "length": 1714,
+        "sr": 22050
+    },
+    "goingtodie21.wav": {
+        "length": 1901,
+        "sr": 22050
+    },
+    "goingtodie22.wav": {
+        "length": 2115,
+        "sr": 22050
+    },
+    "goingtodie23.wav": {
+        "length": 2262,
+        "sr": 22050
+    },
+    "goingtodie24.wav": {
+        "length": 1605,
+        "sr": 22050
+    },
+    "goingtodie25.wav": {
+        "length": 2346,
+        "sr": 22050
+    },
+    "goingtodie26.wav": {
+        "length": 2524,
+        "sr": 22050
+    },
+    "goingtodie27.wav": {
+        "length": 4857,
+        "sr": 22050
+    },
+    "goingtodie301.wav": {
+        "length": 4942,
+        "sr": 22050
+    },
+    "goingtodie302.wav": {
+        "length": 3286,
+        "sr": 22050
+    },
+    "goingtodie303.wav": {
+        "length": 5710,
+        "sr": 44100
+    },
+    "goingtodie304.wav": {
+        "length": 2740,
+        "sr": 22050
+    },
+    "goingtodie305.wav": {
+        "length": 1539,
+        "sr": 22050
+    },
+    "goingtodie306.wav": {
+        "length": 5275,
+        "sr": 22050
+    },
+    "gooedbyspitter01.wav": {
+        "length": 1237,
+        "sr": 22050
+    },
+    "gooedbyspitter02.wav": {
+        "length": 863,
+        "sr": 22050
+    },
+    "gooedbyspitter03.wav": {
+        "length": 906,
+        "sr": 22050
+    },
+    "gooedbyspitter04.wav": {
+        "length": 1944,
+        "sr": 22050
+    },
+    "gooedbyspitter05.wav": {
+        "length": 2010,
+        "sr": 22050
+    },
+    "gooedbyspitterc101.wav": {
+        "length": 3791,
+        "sr": 22050
+    },
+    "gooedbyspitterc102.wav": {
+        "length": 1393,
+        "sr": 22050
+    },
+    "gooedbyspitterc103.wav": {
+        "length": 1160,
+        "sr": 22050
+    },
+    "grabbedbycharger01.wav": {
+        "length": 1734,
+        "sr": 22050
+    },
+    "grabbedbycharger02.wav": {
+        "length": 2738,
+        "sr": 22050
+    },
+    "grabbedbycharger03.wav": {
+        "length": 3294,
+        "sr": 22050
+    },
+    "grabbedbycharger04.wav": {
+        "length": 1267,
+        "sr": 22050
+    },
+    "grabbedbycharger05.wav": {
+        "length": 1920,
+        "sr": 22050
+    },
+    "grabbedbycharger06.wav": {
+        "length": 2236,
+        "sr": 22050
+    },
+    "grabbedbycharger07.wav": {
+        "length": 1776,
+        "sr": 22050
+    },
+    "grabbedbycharger08.wav": {
+        "length": 3038,
+        "sr": 22050
+    },
+    "grabbedbycharger09.wav": {
+        "length": 2474,
+        "sr": 22050
+    },
+    "grabbedbyjockey01.wav": {
+        "length": 3462,
+        "sr": 22050
+    },
+    "grabbedbyjockey02.wav": {
+        "length": 2482,
+        "sr": 22050
+    },
+    "grabbedbyjockey03.wav": {
+        "length": 2016,
+        "sr": 22050
+    },
+    "grabbedbyjockey04.wav": {
+        "length": 2067,
+        "sr": 22050
+    },
+    "grabbedbyjockey05.wav": {
+        "length": 4060,
+        "sr": 22050
+    },
+    "grabbedbyjockey06.wav": {
+        "length": 1807,
+        "sr": 22050
+    },
+    "grabbedbyjockey07.wav": {
+        "length": 1859,
+        "sr": 22050
+    },
+    "grabbedbyjockey08.wav": {
+        "length": 2083,
+        "sr": 22050
+    },
+    "grabbedbyjockeyr01.wav": {
+        "length": 2495,
+        "sr": 22050
+    },
+    "grabbedbyjockeyr02.wav": {
+        "length": 1480,
+        "sr": 22050
+    },
+    "grabbedbysmoker01.wav": {
+        "length": 1327,
+        "sr": 22050
+    },
+    "grabbedbysmoker02.wav": {
+        "length": 508,
+        "sr": 22050
+    },
+    "grabbedbysmoker02a.wav": {
+        "length": 490,
+        "sr": 22050
+    },
+    "grabbedbysmoker02b.wav": {
+        "length": 526,
+        "sr": 22050
+    },
+    "grabbedbysmoker02c.wav": {
+        "length": 607,
+        "sr": 22050
+    },
+    "grabbedbysmoker02d.wav": {
+        "length": 491,
+        "sr": 22050
+    },
+    "grabbedbysmoker02e.wav": {
+        "length": 862,
+        "sr": 22050
+    },
+    "grabbedbysmoker03.wav": {
+        "length": 429,
+        "sr": 22050
+    },
+    "grabbedbysmoker03a.wav": {
+        "length": 748,
+        "sr": 22050
+    },
+    "grabbedbysmoker03b.wav": {
+        "length": 1273,
+        "sr": 22050
+    },
+    "grabbedbysmoker04.wav": {
+        "length": 1594,
+        "sr": 22050
+    },
+    "grabbedbysmokerc101.wav": {
+        "length": 917,
+        "sr": 22050
+    },
+    "grabbedbysmokerc102.wav": {
+        "length": 1065,
+        "sr": 22050
+    },
+    "grabbedbysmokerc103.wav": {
+        "length": 1131,
+        "sr": 22050
+    },
+    "grabbedbysmokerc104.wav": {
+        "length": 2160,
+        "sr": 22050
+    },
+    "grenade01.wav": {
+        "length": 642,
+        "sr": 22050
+    },
+    "grenade02.wav": {
+        "length": 1197,
+        "sr": 22050
+    },
+    "grenade03.wav": {
+        "length": 1119,
+        "sr": 22050
+    },
+    "grenade04.wav": {
+        "length": 1392,
+        "sr": 22050
+    },
+    "grenade05.wav": {
+        "length": 996,
+        "sr": 22050
+    },
+    "grenade06.wav": {
+        "length": 870,
+        "sr": 22050
+    },
+    "grenade07.wav": {
+        "length": 712,
+        "sr": 22050
+    },
+    "grenadelauncher01.wav": {
+        "length": 1123,
+        "sr": 22050
+    },
+    "grenadelauncher02.wav": {
+        "length": 1084,
+        "sr": 22050
+    },
+    "grenadelauncher03.wav": {
+        "length": 1115,
+        "sr": 22050
+    },
+    "grenadelauncher04.wav": {
+        "length": 1143,
+        "sr": 22050
+    },
+    "grenadelauncher05.wav": {
+        "length": 798,
+        "sr": 22050
+    },
+    "grenadelauncher06.wav": {
+        "length": 1374,
+        "sr": 22050
+    },
+    "healother01.wav": {
+        "length": 3564,
+        "sr": 22050
+    },
+    "healother02.wav": {
+        "length": 1813,
+        "sr": 22050
+    },
+    "healother03.wav": {
+        "length": 2708,
+        "sr": 22050
+    },
+    "healother04.wav": {
+        "length": 1561,
+        "sr": 22050
+    },
+    "healothercombat01.wav": {
+        "length": 1977,
+        "sr": 22050
+    },
+    "healothercombat02.wav": {
+        "length": 1984,
+        "sr": 22050
+    },
+    "healothercombat03.wav": {
+        "length": 2152,
+        "sr": 22050
+    },
+    "healothercombat04.wav": {
+        "length": 591,
+        "sr": 22050
+    },
+    "healothercombat05.wav": {
+        "length": 736,
+        "sr": 22050
+    },
+    "heardboomer01.wav": {
+        "length": 2671,
+        "sr": 22050
+    },
+    "heardboomer02.wav": {
+        "length": 1432,
+        "sr": 22050
+    },
+    "heardboomer03.wav": {
+        "length": 1156,
+        "sr": 22050
+    },
+    "heardcharger01.wav": {
+        "length": 2263,
+        "sr": 22050
+    },
+    "heardcharger02.wav": {
+        "length": 1025,
+        "sr": 22050
+    },
+    "heardcharger03.wav": {
+        "length": 1665,
+        "sr": 22050
+    },
+    "heardcharger04.wav": {
+        "length": 1107,
+        "sr": 22050
+    },
+    "heardcharger05.wav": {
+        "length": 1413,
+        "sr": 22050
+    },
+    "heardhulk01.wav": {
+        "length": 2824,
+        "sr": 22050
+    },
+    "heardhulk02.wav": {
+        "length": 1449,
+        "sr": 22050
+    },
+    "heardhulk03.wav": {
+        "length": 540,
+        "sr": 22050
+    },
+    "heardhulk04.wav": {
+        "length": 1109,
+        "sr": 22050
+    },
+    "heardhunter01.wav": {
+        "length": 1784,
+        "sr": 22050
+    },
+    "heardhunter02.wav": {
+        "length": 2171,
+        "sr": 22050
+    },
+    "heardhunter03.wav": {
+        "length": 1646,
+        "sr": 22050
+    },
+    "heardhunter04.wav": {
+        "length": 1395,
+        "sr": 22050
+    },
+    "heardhunter05.wav": {
+        "length": 2199,
+        "sr": 22050
+    },
+    "heardhunter06.wav": {
+        "length": 980,
+        "sr": 22050
+    },
+    "heardjockey01.wav": {
+        "length": 1090,
+        "sr": 22050
+    },
+    "heardjockey02.wav": {
+        "length": 1423,
+        "sr": 22050
+    },
+    "heardjockey03.wav": {
+        "length": 1360,
+        "sr": 22050
+    },
+    "heardjockey04.wav": {
+        "length": 1307,
+        "sr": 22050
+    },
+    "heardjockeyc101.wav": {
+        "length": 2900,
+        "sr": 22050
+    },
+    "heardsmoker01.wav": {
+        "length": 1448,
+        "sr": 22050
+    },
+    "heardsmoker02.wav": {
+        "length": 1266,
+        "sr": 22050
+    },
+    "heardsmoker03.wav": {
+        "length": 1388,
+        "sr": 22050
+    },
+    "heardsmoker04.wav": {
+        "length": 2553,
+        "sr": 22050
+    },
+    "heardsmoker05.wav": {
+        "length": 909,
+        "sr": 22050
+    },
+    "heardsmokertoo01.wav": {
+        "length": 3465,
+        "sr": 44100
+    },
+    "heardspecialc101.wav": {
+        "length": 2083,
+        "sr": 22050
+    },
+    "heardspecialc102.wav": {
+        "length": 1515,
+        "sr": 22050
+    },
+    "heardspecialc103.wav": {
+        "length": 1575,
+        "sr": 22050
+    },
+    "heardspecialc104.wav": {
+        "length": 2438,
+        "sr": 22050
+    },
+    "heardspecialc105.wav": {
+        "length": 2579,
+        "sr": 22050
+    },
+    "heardspecialc106.wav": {
+        "length": 3148,
+        "sr": 22050
+    },
+    "heardspitter01.wav": {
+        "length": 1219,
+        "sr": 22050
+    },
+    "heardspitter02.wav": {
+        "length": 859,
+        "sr": 22050
+    },
+    "heardspitter03.wav": {
+        "length": 1987,
+        "sr": 22050
+    },
+    "heardspitter04.wav": {
+        "length": 858,
+        "sr": 22050
+    },
+    "heardspitter05.wav": {
+        "length": 822,
+        "sr": 22050
+    },
+    "heardspitter06.wav": {
+        "length": 1806,
+        "sr": 22050
+    },
+    "heardtanklc101.wav": {
+        "length": 3556,
+        "sr": 22050
+    },
+    "heardtanklc102.wav": {
+        "length": 1129,
+        "sr": 22050
+    },
+    "heardtanklc103.wav": {
+        "length": 1133,
+        "sr": 22050
+    },
+    "heardwitch01.wav": {
+        "length": 1093,
+        "sr": 22050
+    },
+    "heardwitch02.wav": {
+        "length": 1542,
+        "sr": 22050
+    },
+    "heardwitch03.wav": {
+        "length": 2327,
+        "sr": 22050
+    },
+    "heardwitch04.wav": {
+        "length": 1363,
+        "sr": 22050
+    },
+    "heardwitchc101.wav": {
+        "length": 2238,
+        "sr": 22050
+    },
+    "heardwitchc102.wav": {
+        "length": 2020,
+        "sr": 22050
+    },
+    "heardwitchc103.wav": {
+        "length": 2366,
+        "sr": 22050
+    },
+    "heardwitchtoo01.wav": {
+        "length": 5237,
+        "sr": 44100
+    },
+    "help01.wav": {
+        "length": 2586,
+        "sr": 22050
+    },
+    "help02.wav": {
+        "length": 2039,
+        "sr": 22050
+    },
+    "help03.wav": {
+        "length": 1717,
+        "sr": 22050
+    },
+    "help04.wav": {
+        "length": 1004,
+        "sr": 22050
+    },
+    "help05.wav": {
+        "length": 779,
+        "sr": 22050
+    },
+    "help06.wav": {
+        "length": 856,
+        "sr": 22050
+    },
+    "help07.wav": {
+        "length": 1683,
+        "sr": 22050
+    },
+    "help08.wav": {
+        "length": 2357,
+        "sr": 22050
+    },
+    "huntercoachpounced01.wav": {
+        "length": 1149,
+        "sr": 22050
+    },
+    "huntercoachpounced02.wav": {
+        "length": 970,
+        "sr": 22050
+    },
+    "hunterellispounced01.wav": {
+        "length": 876,
+        "sr": 22050
+    },
+    "hunterellispounced02.wav": {
+        "length": 1004,
+        "sr": 22050
+    },
+    "hunternickpounced01.wav": {
+        "length": 941,
+        "sr": 22050
+    },
+    "hunternickpounced02.wav": {
+        "length": 1082,
+        "sr": 22050
+    },
+    "hunterpouncedc101.wav": {
+        "length": 928,
+        "sr": 44100
+    },
+    "hunterpouncedc102.wav": {
+        "length": 1130,
+        "sr": 44100
+    },
+    "hunterpouncedc103.wav": {
+        "length": 938,
+        "sr": 44100
+    },
+    "hunterpouncedc104.wav": {
+        "length": 978,
+        "sr": 44100
+    },
+    "hunterpouncedc105.wav": {
+        "length": 1025,
+        "sr": 44100
+    },
+    "hunterpouncedc106.wav": {
+        "length": 1366,
+        "sr": 22050
+    },
+    "hunterpouncedc107.wav": {
+        "length": 1243,
+        "sr": 22050
+    },
+    "hunterpouncedc108.wav": {
+        "length": 1012,
+        "sr": 44100
+    },
+    "hurrah01.wav": {
+        "length": 2941,
+        "sr": 22050
+    },
+    "hurrah02.wav": {
+        "length": 3037,
+        "sr": 22050
+    },
+    "hurrah03.wav": {
+        "length": 2561,
+        "sr": 22050
+    },
+    "hurrah04.wav": {
+        "length": 2611,
+        "sr": 22050
+    },
+    "hurrah05.wav": {
+        "length": 2361,
+        "sr": 22050
+    },
+    "hurrah06.wav": {
+        "length": 1895,
+        "sr": 22050
+    },
+    "hurrah07.wav": {
+        "length": 1518,
+        "sr": 22050
+    },
+    "hurrah08.wav": {
+        "length": 1902,
+        "sr": 22050
+    },
+    "hurrah09.wav": {
+        "length": 2610,
+        "sr": 22050
+    },
+    "hurrah10.wav": {
+        "length": 2702,
+        "sr": 22050
+    },
+    "hurrah11.wav": {
+        "length": 2921,
+        "sr": 22050
+    },
+    "hurrah12.wav": {
+        "length": 3452,
+        "sr": 22050
+    },
+    "hurrah13.wav": {
+        "length": 1482,
+        "sr": 44100
+    },
+    "hurrah14.wav": {
+        "length": 2108,
+        "sr": 44100
+    },
+    "hurrah15.wav": {
+        "length": 2349,
+        "sr": 22050
+    },
+    "hurryup01.wav": {
+        "length": 1207,
+        "sr": 22050
+    },
+    "hurryup02.wav": {
+        "length": 1328,
+        "sr": 22050
+    },
+    "hurryup03.wav": {
+        "length": 897,
+        "sr": 22050
+    },
+    "hurryup04.wav": {
+        "length": 1035,
+        "sr": 22050
+    },
+    "hurtcritical01.wav": {
+        "length": 1801,
+        "sr": 22050
+    },
+    "hurtcritical02.wav": {
+        "length": 1541,
+        "sr": 22050
+    },
+    "hurtcritical03.wav": {
+        "length": 802,
+        "sr": 22050
+    },
+    "hurtcritical04.wav": {
+        "length": 1386,
+        "sr": 22050
+    },
+    "hurtmajor01.wav": {
+        "length": 598,
+        "sr": 22050
+    },
+    "hurtmajor02.wav": {
+        "length": 299,
+        "sr": 22050
+    },
+    "hurtmajor03.wav": {
+        "length": 364,
+        "sr": 22050
+    },
+    "hurtmajor04.wav": {
+        "length": 820,
+        "sr": 22050
+    },
+    "hurtminor01.wav": {
+        "length": 444,
+        "sr": 22050
+    },
+    "hurtminor02.wav": {
+        "length": 335,
+        "sr": 22050
+    },
+    "hurtminor03.wav": {
+        "length": 451,
+        "sr": 22050
+    },
+    "hurtminor04.wav": {
+        "length": 484,
+        "sr": 22050
+    },
+    "hurtminor05.wav": {
+        "length": 563,
+        "sr": 22050
+    },
+    "hurtminor06.wav": {
+        "length": 566,
+        "sr": 22050
+    },
+    "imwithyou01.wav": {
+        "length": 752,
+        "sr": 22050
+    },
+    "imwithyou02.wav": {
+        "length": 782,
+        "sr": 22050
+    },
+    "imwithyou03.wav": {
+        "length": 1139,
+        "sr": 22050
+    },
+    "imwithyou04.wav": {
+        "length": 1163,
+        "sr": 22050
+    },
+    "imwithyou05.wav": {
+        "length": 1700,
+        "sr": 22050
+    },
+    "imwithyou06.wav": {
+        "length": 1585,
+        "sr": 22050
+    },
+    "incapacitatedinitial01.wav": {
+        "length": 814,
+        "sr": 22050
+    },
+    "incapacitatedinitial02.wav": {
+        "length": 1717,
+        "sr": 22050
+    },
+    "incapacitatedinitial03.wav": {
+        "length": 1568,
+        "sr": 22050
+    },
+    "incapacitatedinitial04.wav": {
+        "length": 1317,
+        "sr": 22050
+    },
+    "incapacitatedinjury01.wav": {
+        "length": 1760,
+        "sr": 22050
+    },
+    "incapacitatedinjury02.wav": {
+        "length": 3195,
+        "sr": 22050
+    },
+    "incapacitatedinjury03.wav": {
+        "length": 2712,
+        "sr": 22050
+    },
+    "incapacitatedinjury04.wav": {
+        "length": 1819,
+        "sr": 22050
+    },
+    "incendammo01.wav": {
+        "length": 1506,
+        "sr": 44100
+    },
+    "incendammo02.wav": {
+        "length": 1548,
+        "sr": 22050
+    },
+    "incendammo03.wav": {
+        "length": 1395,
+        "sr": 22050
+    },
+    "incendammo04.wav": {
+        "length": 1658,
+        "sr": 22050
+    },
+    "incendammo05.wav": {
+        "length": 1652,
+        "sr": 22050
+    },
+    "incendammo06.wav": {
+        "length": 1810,
+        "sr": 22050
+    },
+    "incendammo07.wav": {
+        "length": 1842,
+        "sr": 22050
+    },
+    "incendammo08.wav": {
+        "length": 2406,
+        "sr": 22050
+    },
+    "incendammo09.wav": {
+        "length": 1907,
+        "sr": 44100
+    },
+    "incendammo10.wav": {
+        "length": 1729,
+        "sr": 22050
+    },
+    "incendammo11.wav": {
+        "length": 1577,
+        "sr": 22050
+    },
+    "incoming01.wav": {
+        "length": 1363,
+        "sr": 22050
+    },
+    "incoming02.wav": {
+        "length": 809,
+        "sr": 22050
+    },
+    "incoming03.wav": {
+        "length": 1236,
+        "sr": 22050
+    },
+    "incoming04.wav": {
+        "length": 1835,
+        "sr": 22050
+    },
+    "incoming05.wav": {
+        "length": 988,
+        "sr": 22050
+    },
+    "incoming06.wav": {
+        "length": 1827,
+        "sr": 22050
+    },
+    "incoming07.wav": {
+        "length": 815,
+        "sr": 22050
+    },
+    "incoming08.wav": {
+        "length": 732,
+        "sr": 22050
+    },
+    "killconfirmation01.wav": {
+        "length": 465,
+        "sr": 22050
+    },
+    "killconfirmation02.wav": {
+        "length": 976,
+        "sr": 22050
+    },
+    "killconfirmation03.wav": {
+        "length": 940,
+        "sr": 22050
+    },
+    "killconfirmation04.wav": {
+        "length": 630,
+        "sr": 22050
+    },
+    "killconfirmation05.wav": {
+        "length": 730,
+        "sr": 22050
+    },
+    "killconfirmation06.wav": {
+        "length": 1380,
+        "sr": 22050
+    },
+    "killconfirmation07.wav": {
+        "length": 886,
+        "sr": 22050
+    },
+    "killconfirmation08.wav": {
+        "length": 931,
+        "sr": 22050
+    },
+    "killconfirmationellis01.wav": {
+        "length": 1279,
+        "sr": 44100
+    },
+    "killthatlight01.wav": {
+        "length": 1301,
+        "sr": 22050
+    },
+    "killthatlight02.wav": {
+        "length": 1016,
+        "sr": 22050
+    },
+    "killthatlight03.wav": {
+        "length": 794,
+        "sr": 22050
+    },
+    "killthatlight04.wav": {
+        "length": 875,
+        "sr": 22050
+    },
+    "killthatlight05.wav": {
+        "length": 637,
+        "sr": 22050
+    },
+    "killthatlight06.wav": {
+        "length": 1078,
+        "sr": 22050
+    },
+    "killthatlight07.wav": {
+        "length": 2420,
+        "sr": 22050
+    },
+    "lasersights01.wav": {
+        "length": 1078,
+        "sr": 22050
+    },
+    "lasersights02.wav": {
+        "length": 1138,
+        "sr": 22050
+    },
+    "lasersights03.wav": {
+        "length": 1226,
+        "sr": 22050
+    },
+    "laughter01.wav": {
+        "length": 2899,
+        "sr": 22050
+    },
+    "laughter02.wav": {
+        "length": 3350,
+        "sr": 44100
+    },
+    "laughter03.wav": {
+        "length": 4456,
+        "sr": 44100
+    },
+    "laughter04.wav": {
+        "length": 5705,
+        "sr": 22050
+    },
+    "laughter05.wav": {
+        "length": 3008,
+        "sr": 44100
+    },
+    "laughter06.wav": {
+        "length": 2068,
+        "sr": 44100
+    },
+    "laughter07.wav": {
+        "length": 1728,
+        "sr": 44100
+    },
+    "laughter08.wav": {
+        "length": 3558,
+        "sr": 44100
+    },
+    "laughter09.wav": {
+        "length": 1501,
+        "sr": 44100
+    },
+    "laughter10.wav": {
+        "length": 1285,
+        "sr": 44100
+    },
+    "laughter11.wav": {
+        "length": 3871,
+        "sr": 44100
+    },
+    "laughter12.wav": {
+        "length": 4047,
+        "sr": 22050
+    },
+    "laughter13.wav": {
+        "length": 5658,
+        "sr": 22050
+    },
+    "laughter14.wav": {
+        "length": 2978,
+        "sr": 22050
+    },
+    "laughter15.wav": {
+        "length": 3976,
+        "sr": 44100
+    },
+    "laughter16.wav": {
+        "length": 3115,
+        "sr": 44100
+    },
+    "laughter17.wav": {
+        "length": 623,
+        "sr": 22050
+    },
+    "leadon01.wav": {
+        "length": 1455,
+        "sr": 22050
+    },
+    "leadon02.wav": {
+        "length": 1128,
+        "sr": 22050
+    },
+    "leadon03.wav": {
+        "length": 910,
+        "sr": 22050
+    },
+    "leadon04.wav": {
+        "length": 1380,
+        "sr": 22050
+    },
+    "leadon05.wav": {
+        "length": 1438,
+        "sr": 22050
+    },
+    "leadon06.wav": {
+        "length": 1387,
+        "sr": 22050
+    },
+    "leadon07.wav": {
+        "length": 985,
+        "sr": 22050
+    },
+    "leadon08.wav": {
+        "length": 1169,
+        "sr": 22050
+    },
+    "leadon09.wav": {
+        "length": 786,
+        "sr": 22050
+    },
+    "leadon10.wav": {
+        "length": 656,
+        "sr": 22050
+    },
+    "ledgehangend01.wav": {
+        "length": 3443,
+        "sr": 22050
+    },
+    "ledgehangend02.wav": {
+        "length": 1058,
+        "sr": 22050
+    },
+    "ledgehangend03.wav": {
+        "length": 1478,
+        "sr": 22050
+    },
+    "ledgehangend04.wav": {
+        "length": 1417,
+        "sr": 22050
+    },
+    "ledgehangend05.wav": {
+        "length": 914,
+        "sr": 22050
+    },
+    "ledgehangfall01.wav": {
+        "length": 4020,
+        "sr": 22050
+    },
+    "ledgehangfall02.wav": {
+        "length": 5669,
+        "sr": 22050
+    },
+    "ledgehangmiddle01.wav": {
+        "length": 2397,
+        "sr": 22050
+    },
+    "ledgehangmiddle02.wav": {
+        "length": 2008,
+        "sr": 22050
+    },
+    "ledgehangmiddle03.wav": {
+        "length": 1922,
+        "sr": 22050
+    },
+    "ledgehangmiddle04.wav": {
+        "length": 3744,
+        "sr": 22050
+    },
+    "ledgehangslip01.wav": {
+        "length": 608,
+        "sr": 22050
+    },
+    "ledgehangslip02.wav": {
+        "length": 600,
+        "sr": 22050
+    },
+    "ledgehangslip03.wav": {
+        "length": 1061,
+        "sr": 22050
+    },
+    "ledgehangstart01.wav": {
+        "length": 7576,
+        "sr": 22050
+    },
+    "ledgehangstart02.wav": {
+        "length": 1299,
+        "sr": 22050
+    },
+    "ledgehangstart03.wav": {
+        "length": 1135,
+        "sr": 22050
+    },
+    "ledgehangstart04.wav": {
+        "length": 1977,
+        "sr": 22050
+    },
+    "ledgehangstart05.wav": {
+        "length": 3621,
+        "sr": 22050
+    },
+    "ledgesave01.wav": {
+        "length": 3574,
+        "sr": 22050
+    },
+    "ledgesave02.wav": {
+        "length": 2646,
+        "sr": 22050
+    },
+    "ledgesave03.wav": {
+        "length": 2359,
+        "sr": 22050
+    },
+    "ledgesave04.wav": {
+        "length": 2017,
+        "sr": 22050
+    },
+    "ledgesave05.wav": {
+        "length": 2828,
+        "sr": 22050
+    },
+    "look01.wav": {
+        "length": 519,
+        "sr": 22050
+    },
+    "look02.wav": {
+        "length": 519,
+        "sr": 22050
+    },
+    "look03.wav": {
+        "length": 427,
+        "sr": 22050
+    },
+    "look04.wav": {
+        "length": 400,
+        "sr": 22050
+    },
+    "look05.wav": {
+        "length": 621,
+        "sr": 22050
+    },
+    "look06.wav": {
+        "length": 441,
+        "sr": 22050
+    },
+    "lookhere01.wav": {
+        "length": 1004,
+        "sr": 22050
+    },
+    "lookhere02.wav": {
+        "length": 833,
+        "sr": 22050
+    },
+    "lookhere03.wav": {
+        "length": 1084,
+        "sr": 22050
+    },
+    "lookhere04.wav": {
+        "length": 1875,
+        "sr": 22050
+    },
+    "lookhere05.wav": {
+        "length": 599,
+        "sr": 22050
+    },
+    "lookout01.wav": {
+        "length": 452,
+        "sr": 22050
+    },
+    "lookout02.wav": {
+        "length": 469,
+        "sr": 22050
+    },
+    "lookout03.wav": {
+        "length": 403,
+        "sr": 22050
+    },
+    "lostcall01.wav": {
+        "length": 1354,
+        "sr": 22050
+    },
+    "lostcall02.wav": {
+        "length": 934,
+        "sr": 22050
+    },
+    "lostcall03.wav": {
+        "length": 1154,
+        "sr": 22050
+    },
+    "lostcall04.wav": {
+        "length": 1176,
+        "sr": 22050
+    },
+    "lostcall05.wav": {
+        "length": 1195,
+        "sr": 22050
+    },
+    "meleeresponse01.wav": {
+        "length": 556,
+        "sr": 44100
+    },
+    "meleeresponse02.wav": {
+        "length": 1248,
+        "sr": 22050
+    },
+    "meleeresponse03.wav": {
+        "length": 683,
+        "sr": 44100
+    },
+    "meleeswing01.wav": {
+        "length": 1049,
+        "sr": 44100
+    },
+    "meleeswing02.wav": {
+        "length": 694,
+        "sr": 44100
+    },
+    "meleeswing03.wav": {
+        "length": 845,
+        "sr": 44100
+    },
+    "meleeswing04.wav": {
+        "length": 764,
+        "sr": 44100
+    },
+    "meleeswing05.wav": {
+        "length": 868,
+        "sr": 44100
+    },
+    "meleeswing06.wav": {
+        "length": 854,
+        "sr": 44100
+    },
+    "meleeswing07.wav": {
+        "length": 834,
+        "sr": 44100
+    },
+    "meleeswing08.wav": {
+        "length": 769,
+        "sr": 44100
+    },
+    "meleeswing09.wav": {
+        "length": 783,
+        "sr": 44100
+    },
+    "meleeweapons01.wav": {
+        "length": 872,
+        "sr": 44100
+    },
+    "meleeweapons02.wav": {
+        "length": 873,
+        "sr": 22050
+    },
+    "meleeweapons03.wav": {
+        "length": 898,
+        "sr": 22050
+    },
+    "meleeweapons04.wav": {
+        "length": 858,
+        "sr": 22050
+    },
+    "meleeweapons05.wav": {
+        "length": 898,
+        "sr": 22050
+    },
+    "meleeweapons06.wav": {
+        "length": 866,
+        "sr": 22050
+    },
+    "meleeweapons07.wav": {
+        "length": 1109,
+        "sr": 22050
+    },
+    "meleeweapons08.wav": {
+        "length": 820,
+        "sr": 22050
+    },
+    "meleeweapons09.wav": {
+        "length": 973,
+        "sr": 22050
+    },
+    "meleeweapons10.wav": {
+        "length": 994,
+        "sr": 22050
+    },
+    "meleeweapons11.wav": {
+        "length": 784,
+        "sr": 22050
+    },
+    "meleeweapons12.wav": {
+        "length": 864,
+        "sr": 22050
+    },
+    "meleeweapons13.wav": {
+        "length": 732,
+        "sr": 22050
+    },
+    "meleeweapons14.wav": {
+        "length": 1047,
+        "sr": 22050
+    },
+    "meleeweapons15.wav": {
+        "length": 924,
+        "sr": 22050
+    },
+    "meleeweapons16.wav": {
+        "length": 850,
+        "sr": 22050
+    },
+    "meleeweapons17.wav": {
+        "length": 1041,
+        "sr": 22050
+    },
+    "meleeweapons18.wav": {
+        "length": 1246,
+        "sr": 22050
+    },
+    "meleeweapons19.wav": {
+        "length": 1687,
+        "sr": 22050
+    },
+    "meleeweapons20.wav": {
+        "length": 716,
+        "sr": 22050
+    },
+    "meleeweapons21.wav": {
+        "length": 1242,
+        "sr": 22050
+    },
+    "meleeweapons22.wav": {
+        "length": 983,
+        "sr": 22050
+    },
+    "meleeweapons23.wav": {
+        "length": 1057,
+        "sr": 22050
+    },
+    "miscdirectional01.wav": {
+        "length": 525,
+        "sr": 22050
+    },
+    "miscdirectional02.wav": {
+        "length": 549,
+        "sr": 22050
+    },
+    "miscdirectional03.wav": {
+        "length": 565,
+        "sr": 22050
+    },
+    "miscdirectional04.wav": {
+        "length": 628,
+        "sr": 22050
+    },
+    "miscdirectional05.wav": {
+        "length": 539,
+        "sr": 22050
+    },
+    "miscdirectional06.wav": {
+        "length": 793,
+        "sr": 44100
+    },
+    "miscdirectional07.wav": {
+        "length": 811,
+        "sr": 22050
+    },
+    "miscdirectional08.wav": {
+        "length": 732,
+        "sr": 44100
+    },
+    "miscdirectional09.wav": {
+        "length": 770,
+        "sr": 44100
+    },
+    "miscdirectional10.wav": {
+        "length": 747,
+        "sr": 44100
+    },
+    "miscdirectional11.wav": {
+        "length": 921,
+        "sr": 22050
+    },
+    "miscdirectional12.wav": {
+        "length": 875,
+        "sr": 44100
+    },
+    "miscdirectional13.wav": {
+        "length": 677,
+        "sr": 22050
+    },
+    "miscdirectional14.wav": {
+        "length": 672,
+        "sr": 44100
+    },
+    "miscdirectional15.wav": {
+        "length": 1330,
+        "sr": 44100
+    },
+    "miscdirectional16.wav": {
+        "length": 870,
+        "sr": 22050
+    },
+    "miscdirectional17.wav": {
+        "length": 778,
+        "sr": 44100
+    },
+    "miscdirectional18.wav": {
+        "length": 821,
+        "sr": 22050
+    },
+    "miscdirectional19.wav": {
+        "length": 840,
+        "sr": 44100
+    },
+    "miscdirectional20.wav": {
+        "length": 729,
+        "sr": 44100
+    },
+    "miscdirectional21.wav": {
+        "length": 983,
+        "sr": 22050
+    },
+    "miscdirectional22.wav": {
+        "length": 1000,
+        "sr": 44100
+    },
+    "miscdirectional23.wav": {
+        "length": 774,
+        "sr": 44100
+    },
+    "miscdirectional24.wav": {
+        "length": 1066,
+        "sr": 22050
+    },
+    "miscdirectional25.wav": {
+        "length": 962,
+        "sr": 44100
+    },
+    "miscdirectional26.wav": {
+        "length": 974,
+        "sr": 22050
+    },
+    "miscdirectional27.wav": {
+        "length": 1005,
+        "sr": 44100
+    },
+    "miscdirectional28.wav": {
+        "length": 1068,
+        "sr": 44100
+    },
+    "miscdirectional29.wav": {
+        "length": 1022,
+        "sr": 44100
+    },
+    "miscdirectional30.wav": {
+        "length": 1304,
+        "sr": 44100
+    },
+    "miscdirectional31.wav": {
+        "length": 1329,
+        "sr": 22050
+    },
+    "miscdirectional32.wav": {
+        "length": 382,
+        "sr": 44100
+    },
+    "miscdirectional33.wav": {
+        "length": 705,
+        "sr": 22050
+    },
+    "miscdirectional34.wav": {
+        "length": 334,
+        "sr": 44100
+    },
+    "miscdirectional35.wav": {
+        "length": 723,
+        "sr": 44100
+    },
+    "miscdirectional36.wav": {
+        "length": 700,
+        "sr": 22050
+    },
+    "miscdirectional37.wav": {
+        "length": 652,
+        "sr": 44100
+    },
+    "miscdirectional38.wav": {
+        "length": 639,
+        "sr": 44100
+    },
+    "miscdirectional39.wav": {
+        "length": 857,
+        "sr": 22050
+    },
+    "miscdirectional40.wav": {
+        "length": 688,
+        "sr": 44100
+    },
+    "miscdirectional41.wav": {
+        "length": 1014,
+        "sr": 44100
+    },
+    "miscdirectional42.wav": {
+        "length": 960,
+        "sr": 44100
+    },
+    "miscdirectional43.wav": {
+        "length": 877,
+        "sr": 44100
+    },
+    "miscdirectional44.wav": {
+        "length": 684,
+        "sr": 22050
+    },
+    "miscdirectional45.wav": {
+        "length": 994,
+        "sr": 22050
+    },
+    "miscdirectional46.wav": {
+        "length": 1299,
+        "sr": 44100
+    },
+    "miscdirectional47.wav": {
+        "length": 1513,
+        "sr": 22050
+    },
+    "miscdirectional48.wav": {
+        "length": 836,
+        "sr": 44100
+    },
+    "miscdirectional49.wav": {
+        "length": 728,
+        "sr": 22050
+    },
+    "miscdirectional50.wav": {
+        "length": 1141,
+        "sr": 22050
+    },
+    "miscdirectional51.wav": {
+        "length": 826,
+        "sr": 44100
+    },
+    "miscdirectional52.wav": {
+        "length": 1347,
+        "sr": 22050
+    },
+    "miscdirectional53.wav": {
+        "length": 1383,
+        "sr": 44100
+    },
+    "miscdirectional54.wav": {
+        "length": 1413,
+        "sr": 44100
+    },
+    "miscdirectional55.wav": {
+        "length": 657,
+        "sr": 22050
+    },
+    "miscdirectional56.wav": {
+        "length": 2000,
+        "sr": 44100
+    },
+    "miscdirectional57.wav": {
+        "length": 2088,
+        "sr": 44100
+    },
+    "miscdirectional58.wav": {
+        "length": 1720,
+        "sr": 22050
+    },
+    "miscdirectional59.wav": {
+        "length": 960,
+        "sr": 22050
+    },
+    "miscdirectional60.wav": {
+        "length": 864,
+        "sr": 22050
+    },
+    "miscdirectional61.wav": {
+        "length": 1565,
+        "sr": 44100
+    },
+    "miscdirectional62.wav": {
+        "length": 985,
+        "sr": 22050
+    },
+    "miscdirectional63.wav": {
+        "length": 1522,
+        "sr": 22050
+    },
+    "miscdirectional64.wav": {
+        "length": 950,
+        "sr": 22050
+    },
+    "miscdirectional65.wav": {
+        "length": 1729,
+        "sr": 22050
+    },
+    "miscdirectional66.wav": {
+        "length": 2200,
+        "sr": 22050
+    },
+    "moveon01.wav": {
+        "length": 1215,
+        "sr": 22050
+    },
+    "moveon02.wav": {
+        "length": 1116,
+        "sr": 22050
+    },
+    "moveon03.wav": {
+        "length": 1359,
+        "sr": 22050
+    },
+    "moveon04.wav": {
+        "length": 1346,
+        "sr": 22050
+    },
+    "moveon05.wav": {
+        "length": 861,
+        "sr": 22050
+    },
+    "namecoach01.wav": {
+        "length": 828,
+        "sr": 22050
+    },
+    "namecoach02.wav": {
+        "length": 1585,
+        "sr": 44100
+    },
+    "namecoach03.wav": {
+        "length": 679,
+        "sr": 22050
+    },
+    "namecoach04.wav": {
+        "length": 678,
+        "sr": 22050
+    },
+    "namecoach05.wav": {
+        "length": 844,
+        "sr": 22050
+    },
+    "namecoach06.wav": {
+        "length": 541,
+        "sr": 22050
+    },
+    "namecoach07.wav": {
+        "length": 895,
+        "sr": 44100
+    },
+    "namecoach08.wav": {
+        "length": 1319,
+        "sr": 44100
+    },
+    "namecoach09.wav": {
+        "length": 1293,
+        "sr": 44100
+    },
+    "namecoach10.wav": {
+        "length": 649,
+        "sr": 22050
+    },
+    "namecoach11.wav": {
+        "length": 1043,
+        "sr": 44100
+    },
+    "namecoach12.wav": {
+        "length": 716,
+        "sr": 22050
+    },
+    "namecoach13.wav": {
+        "length": 937,
+        "sr": 44100
+    },
+    "namecoach14.wav": {
+        "length": 936,
+        "sr": 44100
+    },
+    "namecoach15.wav": {
+        "length": 1104,
+        "sr": 44100
+    },
+    "namecoach16.wav": {
+        "length": 536,
+        "sr": 22050
+    },
+    "namecoach17.wav": {
+        "length": 649,
+        "sr": 44100
+    },
+    "namecoach18.wav": {
+        "length": 674,
+        "sr": 22050
+    },
+    "namecoach19.wav": {
+        "length": 642,
+        "sr": 22050
+    },
+    "namecoach201.wav": {
+        "length": 1322,
+        "sr": 44100
+    },
+    "namecoach202.wav": {
+        "length": 2660,
+        "sr": 44100
+    },
+    "nameellis01.wav": {
+        "length": 614,
+        "sr": 22050
+    },
+    "nameellis02.wav": {
+        "length": 942,
+        "sr": 44100
+    },
+    "nameellis03.wav": {
+        "length": 484,
+        "sr": 44100
+    },
+    "nameellis04.wav": {
+        "length": 918,
+        "sr": 22050
+    },
+    "nameellis05.wav": {
+        "length": 679,
+        "sr": 22050
+    },
+    "nameellis06.wav": {
+        "length": 877,
+        "sr": 22050
+    },
+    "nameellis07.wav": {
+        "length": 1047,
+        "sr": 22050
+    },
+    "namegamblerc101.wav": {
+        "length": 587,
+        "sr": 22050
+    },
+    "namegamblerc102.wav": {
+        "length": 1157,
+        "sr": 22050
+    },
+    "namegamblerc103.wav": {
+        "length": 1123,
+        "sr": 44100
+    },
+    "namegamblerc104.wav": {
+        "length": 1428,
+        "sr": 44100
+    },
+    "namegamblerc105.wav": {
+        "length": 760,
+        "sr": 22050
+    },
+    "namegamblerc106.wav": {
+        "length": 667,
+        "sr": 22050
+    },
+    "namegamblerc107.wav": {
+        "length": 620,
+        "sr": 22050
+    },
+    "namegamblerc108.wav": {
+        "length": 1075,
+        "sr": 22050
+    },
+    "namegamblerc109.wav": {
+        "length": 1015,
+        "sr": 44100
+    },
+    "namegamblerc110.wav": {
+        "length": 1172,
+        "sr": 22050
+    },
+    "namegamblerc111.wav": {
+        "length": 1149,
+        "sr": 22050
+    },
+    "namegamblerc112.wav": {
+        "length": 1181,
+        "sr": 22050
+    },
+    "namemechanicc101.wav": {
+        "length": 660,
+        "sr": 22050
+    },
+    "namemechanicc102.wav": {
+        "length": 666,
+        "sr": 22050
+    },
+    "namemechanicc103.wav": {
+        "length": 577,
+        "sr": 22050
+    },
+    "namemechanicc104.wav": {
+        "length": 854,
+        "sr": 22050
+    },
+    "namemechanicc105.wav": {
+        "length": 883,
+        "sr": 22050
+    },
+    "namemechanicc106.wav": {
+        "length": 1245,
+        "sr": 22050
+    },
+    "namemechanicc107.wav": {
+        "length": 925,
+        "sr": 22050
+    },
+    "namemechanicc108.wav": {
+        "length": 802,
+        "sr": 22050
+    },
+    "namemechanicc109.wav": {
+        "length": 1035,
+        "sr": 22050
+    },
+    "namemechanicc110.wav": {
+        "length": 659,
+        "sr": 22050
+    },
+    "namemechanicc111.wav": {
+        "length": 991,
+        "sr": 22050
+    },
+    "namemechanicc112.wav": {
+        "length": 949,
+        "sr": 22050
+    },
+    "namemechanicc113.wav": {
+        "length": 969,
+        "sr": 22050
+    },
+    "namenick01.wav": {
+        "length": 365,
+        "sr": 22050
+    },
+    "namenick02.wav": {
+        "length": 866,
+        "sr": 22050
+    },
+    "namenick03.wav": {
+        "length": 883,
+        "sr": 22050
+    },
+    "namenick04.wav": {
+        "length": 552,
+        "sr": 22050
+    },
+    "namenick05.wav": {
+        "length": 370,
+        "sr": 22050
+    },
+    "namenick06.wav": {
+        "length": 876,
+        "sr": 22050
+    },
+    "namenick07.wav": {
+        "length": 764,
+        "sr": 44100
+    },
+    "namenick08.wav": {
+        "length": 723,
+        "sr": 44100
+    },
+    "namenick09.wav": {
+        "length": 528,
+        "sr": 22050
+    },
+    "namenick10.wav": {
+        "length": 420,
+        "sr": 22050
+    },
+    "nameproducerresponse01.wav": {
+        "length": 1135,
+        "sr": 44100
+    },
+    "nameproducerresponse02.wav": {
+        "length": 893,
+        "sr": 44100
+    },
+    "nameproducerresponse03.wav": {
+        "length": 1220,
+        "sr": 44100
+    },
+    "nameproducerresponse04.wav": {
+        "length": 1059,
+        "sr": 44100
+    },
+    "nameproducerresponse05.wav": {
+        "length": 739,
+        "sr": 44100
+    },
+    "nameproducerresponse06.wav": {
+        "length": 1030,
+        "sr": 44100
+    },
+    "nicejob01.wav": {
+        "length": 757,
+        "sr": 22050
+    },
+    "nicejob02.wav": {
+        "length": 1658,
+        "sr": 22050
+    },
+    "nicejob03.wav": {
+        "length": 1186,
+        "sr": 22050
+    },
+    "nicejob04.wav": {
+        "length": 1625,
+        "sr": 22050
+    },
+    "nicejob05.wav": {
+        "length": 1140,
+        "sr": 22050
+    },
+    "nicejob06.wav": {
+        "length": 1115,
+        "sr": 22050
+    },
+    "nicejob07.wav": {
+        "length": 1478,
+        "sr": 22050
+    },
+    "nicejob08.wav": {
+        "length": 972,
+        "sr": 22050
+    },
+    "nicejob09.wav": {
+        "length": 2042,
+        "sr": 22050
+    },
+    "nicejob10.wav": {
+        "length": 2550,
+        "sr": 22050
+    },
+    "nicejob11.wav": {
+        "length": 1324,
+        "sr": 22050
+    },
+    "nicejob12.wav": {
+        "length": 1354,
+        "sr": 22050
+    },
+    "nicejob13.wav": {
+        "length": 840,
+        "sr": 22050
+    },
+    "nicejobmechanic01.wav": {
+        "length": 3017,
+        "sr": 44100
+    },
+    "nicejobmechanic02.wav": {
+        "length": 3119,
+        "sr": 44100
+    },
+    "niceshot01.wav": {
+        "length": 746,
+        "sr": 22050
+    },
+    "niceshot02.wav": {
+        "length": 578,
+        "sr": 22050
+    },
+    "niceshot03.wav": {
+        "length": 863,
+        "sr": 22050
+    },
+    "niceshot04.wav": {
+        "length": 1621,
+        "sr": 22050
+    },
+    "niceshot05.wav": {
+        "length": 701,
+        "sr": 22050
+    },
+    "niceshotcoach01.wav": {
+        "length": 1463,
+        "sr": 22050
+    },
+    "niceshotellis01.wav": {
+        "length": 1991,
+        "sr": 44100
+    },
+    "niceshotellis02.wav": {
+        "length": 2392,
+        "sr": 44100
+    },
+    "nickocd01.wav": {
+        "length": 3676,
+        "sr": 44100
+    },
+    "nickocd02.wav": {
+        "length": 3092,
+        "sr": 44100
+    },
+    "nickocd03.wav": {
+        "length": 3314,
+        "sr": 44100
+    },
+    "nickocd04.wav": {
+        "length": 2049,
+        "sr": 44100
+    },
+    "nickocd05.wav": {
+        "length": 5654,
+        "sr": 22050
+    },
+    "no01.wav": {
+        "length": 635,
+        "sr": 22050
+    },
+    "no02.wav": {
+        "length": 972,
+        "sr": 22050
+    },
+    "no03.wav": {
+        "length": 1284,
+        "sr": 22050
+    },
+    "no04.wav": {
+        "length": 885,
+        "sr": 22050
+    },
+    "no05.wav": {
+        "length": 1218,
+        "sr": 22050
+    },
+    "no06.wav": {
+        "length": 1429,
+        "sr": 22050
+    },
+    "no07.wav": {
+        "length": 947,
+        "sr": 22050
+    },
+    "no08.wav": {
+        "length": 1905,
+        "sr": 22050
+    },
+    "no09.wav": {
+        "length": 3525,
+        "sr": 22050
+    },
+    "no10.wav": {
+        "length": 1581,
+        "sr": 22050
+    },
+    "no11.wav": {
+        "length": 691,
+        "sr": 22050
+    },
+    "no12.wav": {
+        "length": 593,
+        "sr": 22050
+    },
+    "painrelieftfirstaid01.wav": {
+        "length": 1232,
+        "sr": 22050
+    },
+    "painrelieftfirstaid02.wav": {
+        "length": 1367,
+        "sr": 22050
+    },
+    "painrelieftfirstaid03.wav": {
+        "length": 1257,
+        "sr": 22050
+    },
+    "painrelieftfirstaid04.wav": {
+        "length": 2185,
+        "sr": 22050
+    },
+    "painrelieftfirstaid05.wav": {
+        "length": 1583,
+        "sr": 22050
+    },
+    "painrelieftpills01.wav": {
+        "length": 1328,
+        "sr": 22050
+    },
+    "painrelieftpills02.wav": {
+        "length": 942,
+        "sr": 22050
+    },
+    "painrelieftpills03.wav": {
+        "length": 2168,
+        "sr": 22050
+    },
+    "painrelieftpills04.wav": {
+        "length": 941,
+        "sr": 22050
+    },
+    "painrelieftpills05.wav": {
+        "length": 744,
+        "sr": 22050
+    },
+    "positivenoise01.wav": {
+        "length": 546,
+        "sr": 22050
+    },
+    "positivenoise02.wav": {
+        "length": 447,
+        "sr": 44100
+    },
+    "positivenoise03.wav": {
+        "length": 479,
+        "sr": 44100
+    },
+    "positivenoise04.wav": {
+        "length": 1034,
+        "sr": 22050
+    },
+    "positivenoise05.wav": {
+        "length": 794,
+        "sr": 44100
+    },
+    "positivenoise06.wav": {
+        "length": 529,
+        "sr": 44100
+    },
+    "positivenoise07.wav": {
+        "length": 501,
+        "sr": 44100
+    },
+    "positivenoise08.wav": {
+        "length": 441,
+        "sr": 44100
+    },
+    "positivenoise09.wav": {
+        "length": 1015,
+        "sr": 44100
+    },
+    "reactionnegative01.wav": {
+        "length": 1282,
+        "sr": 22050
+    },
+    "reactionnegative02.wav": {
+        "length": 1008,
+        "sr": 22050
+    },
+    "reactionnegative03.wav": {
+        "length": 1606,
+        "sr": 22050
+    },
+    "reactionnegative04.wav": {
+        "length": 967,
+        "sr": 22050
+    },
+    "reactionnegative05.wav": {
+        "length": 1171,
+        "sr": 22050
+    },
+    "reactionnegative06.wav": {
+        "length": 1917,
+        "sr": 22050
+    },
+    "reactionnegative08.wav": {
+        "length": 1509,
+        "sr": 22050
+    },
+    "reactionnegative09.wav": {
+        "length": 1568,
+        "sr": 22050
+    },
+    "reactionnegative10.wav": {
+        "length": 598,
+        "sr": 22050
+    },
+    "reactionnegative11.wav": {
+        "length": 3924,
+        "sr": 22050
+    },
+    "reactionnegative12.wav": {
+        "length": 1575,
+        "sr": 22050
+    },
+    "reactionnegative13.wav": {
+        "length": 1395,
+        "sr": 22050
+    },
+    "reactionnegative14.wav": {
+        "length": 1911,
+        "sr": 22050
+    },
+    "reactionnegative15.wav": {
+        "length": 2429,
+        "sr": 22050
+    },
+    "reactionnegative16.wav": {
+        "length": 2142,
+        "sr": 22050
+    },
+    "reactionnegative17.wav": {
+        "length": 1562,
+        "sr": 22050
+    },
+    "reactionnegative18.wav": {
+        "length": 1290,
+        "sr": 22050
+    },
+    "reactionnegative19.wav": {
+        "length": 2368,
+        "sr": 22050
+    },
+    "reactionnegative20.wav": {
+        "length": 998,
+        "sr": 22050
+    },
+    "reactionnegative21.wav": {
+        "length": 1148,
+        "sr": 22050
+    },
+    "reloading01.wav": {
+        "length": 504,
+        "sr": 22050
+    },
+    "reloading02.wav": {
+        "length": 536,
+        "sr": 22050
+    },
+    "reloading03.wav": {
+        "length": 756,
+        "sr": 22050
+    },
+    "reloading04.wav": {
+        "length": 652,
+        "sr": 22050
+    },
+    "reloading05.wav": {
+        "length": 812,
+        "sr": 44100
+    },
+    "reloading06.wav": {
+        "length": 721,
+        "sr": 44100
+    },
+    "reloadingquiet01.wav": {
+        "length": 590,
+        "sr": 22050
+    },
+    "reloadingquiet02.wav": {
+        "length": 532,
+        "sr": 22050
+    },
+    "reloadingquiet03.wav": {
+        "length": 841,
+        "sr": 22050
+    },
+    "reloadingquiet04.wav": {
+        "length": 790,
+        "sr": 22050
+    },
+    "reloadingquiet05.wav": {
+        "length": 619,
+        "sr": 22050
+    },
+    "reloadintense01.wav": {
+        "length": 811,
+        "sr": 22050
+    },
+    "reloadintense02.wav": {
+        "length": 850,
+        "sr": 22050
+    },
+    "reloadintense03.wav": {
+        "length": 970,
+        "sr": 22050
+    },
+    "revivecriticalfriend01.wav": {
+        "length": 4833,
+        "sr": 22050
+    },
+    "revivecriticalfriend02.wav": {
+        "length": 5576,
+        "sr": 22050
+    },
+    "revivecriticalfriend03.wav": {
+        "length": 5950,
+        "sr": 22050
+    },
+    "revivecriticalfriend04.wav": {
+        "length": 4597,
+        "sr": 22050
+    },
+    "revivecriticalfriend05.wav": {
+        "length": 5665,
+        "sr": 22050
+    },
+    "revivefriend01.wav": {
+        "length": 3597,
+        "sr": 22050
+    },
+    "revivefriend02.wav": {
+        "length": 3058,
+        "sr": 22050
+    },
+    "revivefriend03.wav": {
+        "length": 3385,
+        "sr": 22050
+    },
+    "revivefriend04.wav": {
+        "length": 3815,
+        "sr": 22050
+    },
+    "revivefriend05.wav": {
+        "length": 3772,
+        "sr": 22050
+    },
+    "revivefriend06.wav": {
+        "length": 2641,
+        "sr": 22050
+    },
+    "revivefriend07.wav": {
+        "length": 3601,
+        "sr": 22050
+    },
+    "revivefriend08.wav": {
+        "length": 3495,
+        "sr": 22050
+    },
+    "revivefriend09.wav": {
+        "length": 4182,
+        "sr": 22050
+    },
+    "revivefriend10.wav": {
+        "length": 4358,
+        "sr": 22050
+    },
+    "revivefriend11.wav": {
+        "length": 2711,
+        "sr": 22050
+    },
+    "revivefriend12.wav": {
+        "length": 6533,
+        "sr": 22050
+    },
+    "revivefriend13.wav": {
+        "length": 2961,
+        "sr": 22050
+    },
+    "revivefriend14.wav": {
+        "length": 4366,
+        "sr": 22050
+    },
+    "revivefrienda01.wav": {
+        "length": 633,
+        "sr": 22050
+    },
+    "revivefrienda02.wav": {
+        "length": 899,
+        "sr": 22050
+    },
+    "revivefrienda03.wav": {
+        "length": 661,
+        "sr": 22050
+    },
+    "revivefrienda04.wav": {
+        "length": 883,
+        "sr": 22050
+    },
+    "revivefrienda05.wav": {
+        "length": 573,
+        "sr": 22050
+    },
+    "revivefrienda06.wav": {
+        "length": 1225,
+        "sr": 44100
+    },
+    "revivefrienda07.wav": {
+        "length": 1501,
+        "sr": 22050
+    },
+    "revivefrienda08.wav": {
+        "length": 811,
+        "sr": 22050
+    },
+    "revivefrienda09.wav": {
+        "length": 1017,
+        "sr": 22050
+    },
+    "revivefrienda10.wav": {
+        "length": 1392,
+        "sr": 22050
+    },
+    "revivefrienda11.wav": {
+        "length": 688,
+        "sr": 22050
+    },
+    "revivefrienda12.wav": {
+        "length": 1771,
+        "sr": 22050
+    },
+    "revivefrienda13.wav": {
+        "length": 936,
+        "sr": 22050
+    },
+    "revivefrienda14.wav": {
+        "length": 1458,
+        "sr": 22050
+    },
+    "revivefrienda15.wav": {
+        "length": 840,
+        "sr": 22050
+    },
+    "revivefrienda16.wav": {
+        "length": 897,
+        "sr": 22050
+    },
+    "revivefrienda17.wav": {
+        "length": 901,
+        "sr": 22050
+    },
+    "revivefrienda18.wav": {
+        "length": 781,
+        "sr": 22050
+    },
+    "revivefrienda19.wav": {
+        "length": 1409,
+        "sr": 22050
+    },
+    "revivefrienda20.wav": {
+        "length": 775,
+        "sr": 22050
+    },
+    "revivefrienda21.wav": {
+        "length": 1127,
+        "sr": 22050
+    },
+    "revivefrienda22.wav": {
+        "length": 1043,
+        "sr": 22050
+    },
+    "revivefriendb01.wav": {
+        "length": 969,
+        "sr": 22050
+    },
+    "revivefriendb02.wav": {
+        "length": 1023,
+        "sr": 22050
+    },
+    "revivefriendb03.wav": {
+        "length": 1595,
+        "sr": 22050
+    },
+    "revivefriendb04.wav": {
+        "length": 1176,
+        "sr": 22050
+    },
+    "revivefriendb05.wav": {
+        "length": 1371,
+        "sr": 22050
+    },
+    "revivefriendb06.wav": {
+        "length": 1691,
+        "sr": 22050
+    },
+    "revivefriendb07.wav": {
+        "length": 1040,
+        "sr": 22050
+    },
+    "revivefriendb08.wav": {
+        "length": 1768,
+        "sr": 22050
+    },
+    "revivefriendb09.wav": {
+        "length": 1413,
+        "sr": 22050
+    },
+    "revivefriendb10.wav": {
+        "length": 2013,
+        "sr": 22050
+    },
+    "revivefriendb11.wav": {
+        "length": 1415,
+        "sr": 22050
+    },
+    "revivefriendb12.wav": {
+        "length": 1168,
+        "sr": 22050
+    },
+    "revivefriendb13.wav": {
+        "length": 1393,
+        "sr": 22050
+    },
+    "revivefriendloud01.wav": {
+        "length": 1585,
+        "sr": 22050
+    },
+    "revivefriendloud02.wav": {
+        "length": 2153,
+        "sr": 22050
+    },
+    "revivefriendloud03.wav": {
+        "length": 1384,
+        "sr": 22050
+    },
+    "revivefriendloud04.wav": {
+        "length": 1663,
+        "sr": 22050
+    },
+    "revivefriendloud05.wav": {
+        "length": 2930,
+        "sr": 22050
+    },
+    "revivefriendloud06.wav": {
+        "length": 1998,
+        "sr": 22050
+    },
+    "revivefriendloud07.wav": {
+        "length": 1948,
+        "sr": 22050
+    },
+    "revivefriendloud08.wav": {
+        "length": 1442,
+        "sr": 22050
+    },
+    "safespotahead01.wav": {
+        "length": 1112,
+        "sr": 22050
+    },
+    "safespotahead02.wav": {
+        "length": 1141,
+        "sr": 22050
+    },
+    "safespotahead03.wav": {
+        "length": 1159,
+        "sr": 22050
+    },
+    "safespotahead04.wav": {
+        "length": 1334,
+        "sr": 22050
+    },
+    "safespotahead05.wav": {
+        "length": 1148,
+        "sr": 22050
+    },
+    "safespotahead06.wav": {
+        "length": 1921,
+        "sr": 22050
+    },
+    "scenariojoin01.wav": {
+        "length": 535,
+        "sr": 44100
+    },
+    "scenariojoin02.wav": {
+        "length": 539,
+        "sr": 44100
+    },
+    "scenariojoin03.wav": {
+        "length": 820,
+        "sr": 44100
+    },
+    "scenariojoin04.wav": {
+        "length": 442,
+        "sr": 44100
+    },
+    "scenariojoin05.wav": {
+        "length": 1129,
+        "sr": 44100
+    },
+    "scenariojoin06.wav": {
+        "length": 966,
+        "sr": 44100
+    },
+    "scenariojoin07.wav": {
+        "length": 939,
+        "sr": 44100
+    },
+    "scenariojoin08.wav": {
+        "length": 821,
+        "sr": 44100
+    },
+    "scenariojoin09.wav": {
+        "length": 602,
+        "sr": 44100
+    },
+    "scenariojoinlast01.wav": {
+        "length": 1064,
+        "sr": 44100
+    },
+    "scenariojoinlast02.wav": {
+        "length": 1118,
+        "sr": 44100
+    },
+    "screamwhilepounced01.wav": {
+        "length": 1595,
+        "sr": 22050
+    },
+    "screamwhilepounced01a.wav": {
+        "length": 1617,
+        "sr": 22050
+    },
+    "screamwhilepounced02.wav": {
+        "length": 1020,
+        "sr": 22050
+    },
+    "screamwhilepounced02a.wav": {
+        "length": 972,
+        "sr": 22050
+    },
+    "screamwhilepounced02b.wav": {
+        "length": 1470,
+        "sr": 22050
+    },
+    "screamwhilepounced03.wav": {
+        "length": 1329,
+        "sr": 22050
+    },
+    "screamwhilepounced03a.wav": {
+        "length": 1434,
+        "sr": 22050
+    },
+    "screamwhilepounced03b.wav": {
+        "length": 1114,
+        "sr": 22050
+    },
+    "screamwhilepounced03c.wav": {
+        "length": 940,
+        "sr": 22050
+    },
+    "screamwhilepounced04.wav": {
+        "length": 2177,
+        "sr": 22050
+    },
+    "screamwhilepounced04a.wav": {
+        "length": 1686,
+        "sr": 22050
+    },
+    "screamwhilepounced04b.wav": {
+        "length": 1609,
+        "sr": 22050
+    },
+    "screamwhilepounced05.wav": {
+        "length": 1995,
+        "sr": 22050
+    },
+    "screamwhilepounced05a.wav": {
+        "length": 1646,
+        "sr": 44100
+    },
+    "seearmored01.wav": {
+        "length": 1240,
+        "sr": 22050
+    },
+    "seearmored02.wav": {
+        "length": 1563,
+        "sr": 22050
+    },
+    "seeclowns01.wav": {
+        "length": 1326,
+        "sr": 22050
+    },
+    "seeclowns02.wav": {
+        "length": 1719,
+        "sr": 44100
+    },
+    "seeclowns03.wav": {
+        "length": 1720,
+        "sr": 44100
+    },
+    "seeclowns04.wav": {
+        "length": 1642,
+        "sr": 22050
+    },
+    "seeclowns05.wav": {
+        "length": 1065,
+        "sr": 22050
+    },
+    "seeclowns06.wav": {
+        "length": 837,
+        "sr": 22050
+    },
+    "seeclowns07.wav": {
+        "length": 1376,
+        "sr": 22050
+    },
+    "seefallen01.wav": {
+        "length": 1778,
+        "sr": 44100
+    },
+    "seefallen02.wav": {
+        "length": 1717,
+        "sr": 44100
+    },
+    "seefallen03.wav": {
+        "length": 1509,
+        "sr": 44100
+    },
+    "seehazmat01.wav": {
+        "length": 3195,
+        "sr": 22050
+    },
+    "seehazmat02.wav": {
+        "length": 1834,
+        "sr": 22050
+    },
+    "seehazmat03.wav": {
+        "length": 2931,
+        "sr": 22050
+    },
+    "seemudmen01.wav": {
+        "length": 1550,
+        "sr": 44100
+    },
+    "seemudmen02.wav": {
+        "length": 2296,
+        "sr": 22050
+    },
+    "seemudmen03.wav": {
+        "length": 1007,
+        "sr": 22050
+    },
+    "seemudmen04.wav": {
+        "length": 1110,
+        "sr": 22050
+    },
+    "seemudmen05.wav": {
+        "length": 737,
+        "sr": 22050
+    },
+    "seemudmen06.wav": {
+        "length": 709,
+        "sr": 44100
+    },
+    "sorry01.wav": {
+        "length": 888,
+        "sr": 22050
+    },
+    "sorry02.wav": {
+        "length": 1647,
+        "sr": 22050
+    },
+    "sorry03.wav": {
+        "length": 1309,
+        "sr": 22050
+    },
+    "sorry04.wav": {
+        "length": 1365,
+        "sr": 22050
+    },
+    "sorry05.wav": {
+        "length": 1309,
+        "sr": 22050
+    },
+    "sorry06.wav": {
+        "length": 1691,
+        "sr": 22050
+    },
+    "sorry07.wav": {
+        "length": 2516,
+        "sr": 22050
+    },
+    "sorry08.wav": {
+        "length": 1785,
+        "sr": 22050
+    },
+    "sound212.wav": {
+        "length": 949,
+        "sr": 22050
+    },
+    "spotammo01.wav": {
+        "length": 600,
+        "sr": 22050
+    },
+    "spotammo02.wav": {
+        "length": 741,
+        "sr": 22050
+    },
+    "spotammo03.wav": {
+        "length": 808,
+        "sr": 22050
+    },
+    "spotammo04.wav": {
+        "length": 686,
+        "sr": 22050
+    },
+    "spotammo05.wav": {
+        "length": 823,
+        "sr": 22050
+    },
+    "spotfirstaid01.wav": {
+        "length": 1048,
+        "sr": 22050
+    },
+    "spotfirstaid02.wav": {
+        "length": 678,
+        "sr": 22050
+    },
+    "spotfirstaid03.wav": {
+        "length": 858,
+        "sr": 22050
+    },
+    "spotfirstaid04.wav": {
+        "length": 754,
+        "sr": 22050
+    },
+    "spotfirstaid05.wav": {
+        "length": 1159,
+        "sr": 22050
+    },
+    "spotfirstaids01.wav": {
+        "length": 1282,
+        "sr": 44100
+    },
+    "spotfirstaids02.wav": {
+        "length": 1328,
+        "sr": 44100
+    },
+    "spotfirstaids03.wav": {
+        "length": 1231,
+        "sr": 44100
+    },
+    "spotgrenades01.wav": {
+        "length": 871,
+        "sr": 22050
+    },
+    "spotgrenades02.wav": {
+        "length": 1025,
+        "sr": 22050
+    },
+    "spotgrenades03.wav": {
+        "length": 734,
+        "sr": 22050
+    },
+    "spotpills01.wav": {
+        "length": 802,
+        "sr": 22050
+    },
+    "spotpills02.wav": {
+        "length": 697,
+        "sr": 22050
+    },
+    "spotpills03.wav": {
+        "length": 695,
+        "sr": 22050
+    },
+    "spotpills04.wav": {
+        "length": 635,
+        "sr": 22050
+    },
+    "spotweapons01.wav": {
+        "length": 992,
+        "sr": 22050
+    },
+    "spotweapons02.wav": {
+        "length": 1013,
+        "sr": 22050
+    },
+    "spotweapons03.wav": {
+        "length": 1578,
+        "sr": 22050
+    },
+    "spotweapons04.wav": {
+        "length": 1157,
+        "sr": 22050
+    },
+    "staytogether01.wav": {
+        "length": 913,
+        "sr": 22050
+    },
+    "staytogether02.wav": {
+        "length": 1037,
+        "sr": 22050
+    },
+    "staytogether03.wav": {
+        "length": 1119,
+        "sr": 22050
+    },
+    "staytogether04.wav": {
+        "length": 833,
+        "sr": 22050
+    },
+    "staytogether05.wav": {
+        "length": 913,
+        "sr": 22050
+    },
+    "staytogetherinside01.wav": {
+        "length": 1498,
+        "sr": 22050
+    },
+    "staytogetherinside02.wav": {
+        "length": 2430,
+        "sr": 22050
+    },
+    "staytogetherinside03.wav": {
+        "length": 914,
+        "sr": 22050
+    },
+    "staytogetherinside04.wav": {
+        "length": 994,
+        "sr": 22050
+    },
+    "staytogetherinside05.wav": {
+        "length": 1122,
+        "sr": 22050
+    },
+    "staytogetherinside06.wav": {
+        "length": 4100,
+        "sr": 44100
+    },
+    "suggesthealth01.wav": {
+        "length": 859,
+        "sr": 44100
+    },
+    "suggesthealth02.wav": {
+        "length": 923,
+        "sr": 22050
+    },
+    "suggesthealth03.wav": {
+        "length": 852,
+        "sr": 44100
+    },
+    "suggesthealth04.wav": {
+        "length": 781,
+        "sr": 22050
+    },
+    "suggesthealth05.wav": {
+        "length": 918,
+        "sr": 22050
+    },
+    "suggesthealth06.wav": {
+        "length": 1102,
+        "sr": 22050
+    },
+    "suggesthealth07.wav": {
+        "length": 542,
+        "sr": 22050
+    },
+    "suggesthealth08.wav": {
+        "length": 860,
+        "sr": 22050
+    },
+    "suggesthealth09.wav": {
+        "length": 1070,
+        "sr": 44100
+    },
+    "suggesthealthcoach01.wav": {
+        "length": 1354,
+        "sr": 22050
+    },
+    "suggesthealthcoach02.wav": {
+        "length": 2344,
+        "sr": 22050
+    },
+    "suggesthealthcoach03.wav": {
+        "length": 1350,
+        "sr": 22050
+    },
+    "suggesthealthellis01.wav": {
+        "length": 2169,
+        "sr": 22050
+    },
+    "suggesthealthellis02.wav": {
+        "length": 2730,
+        "sr": 22050
+    },
+    "suggesthealthellis03.wav": {
+        "length": 2339,
+        "sr": 22050
+    },
+    "suggesthealthnick01.wav": {
+        "length": 2090,
+        "sr": 22050
+    },
+    "suggesthealthnick02.wav": {
+        "length": 1394,
+        "sr": 22050
+    },
+    "suggesthealthnick03.wav": {
+        "length": 1484,
+        "sr": 22050
+    },
+    "suggesthealthnick04.wav": {
+        "length": 1432,
+        "sr": 22050
+    },
+    "survivormourncoach01.wav": {
+        "length": 1220,
+        "sr": 22050
+    },
+    "survivormourncoach02.wav": {
+        "length": 2524,
+        "sr": 22050
+    },
+    "survivormourncoach03.wav": {
+        "length": 1103,
+        "sr": 22050
+    },
+    "survivormourncoach04.wav": {
+        "length": 2968,
+        "sr": 22050
+    },
+    "survivormournellis01.wav": {
+        "length": 1578,
+        "sr": 22050
+    },
+    "survivormournellis02.wav": {
+        "length": 3231,
+        "sr": 22050
+    },
+    "survivormournellis03.wav": {
+        "length": 2721,
+        "sr": 22050
+    },
+    "survivormourngamblerc101.wav": {
+        "length": 3720,
+        "sr": 22050
+    },
+    "survivormournmechanicc101.wav": {
+        "length": 1724,
+        "sr": 22050
+    },
+    "survivormournnick01.wav": {
+        "length": 4053,
+        "sr": 22050
+    },
+    "survivormournnick02.wav": {
+        "length": 2745,
+        "sr": 22050
+    },
+    "takeassaultrifle01.wav": {
+        "length": 1137,
+        "sr": 22050
+    },
+    "takeassaultrifle02.wav": {
+        "length": 1053,
+        "sr": 22050
+    },
+    "takeassaultrifle03.wav": {
+        "length": 1091,
+        "sr": 22050
+    },
+    "takeautoshotgun01.wav": {
+        "length": 1177,
+        "sr": 22050
+    },
+    "takeautoshotgun02.wav": {
+        "length": 1673,
+        "sr": 22050
+    },
+    "takeautoshotgun03.wav": {
+        "length": 1330,
+        "sr": 22050
+    },
+    "takefirstaid01.wav": {
+        "length": 937,
+        "sr": 22050
+    },
+    "takefirstaid02.wav": {
+        "length": 1048,
+        "sr": 22050
+    },
+    "takefirstaid03.wav": {
+        "length": 2143,
+        "sr": 22050
+    },
+    "takefryingaxe01.wav": {
+        "length": 2456,
+        "sr": 22050
+    },
+    "takefryingaxe02.wav": {
+        "length": 825,
+        "sr": 22050
+    },
+    "takefryingpan01.wav": {
+        "length": 2347,
+        "sr": 22050
+    },
+    "takefryingpan02.wav": {
+        "length": 907,
+        "sr": 22050
+    },
+    "takefryingpan03.wav": {
+        "length": 910,
+        "sr": 22050
+    },
+    "takemelee01.wav": {
+        "length": 2015,
+        "sr": 22050
+    },
+    "takemelee02.wav": {
+        "length": 1305,
+        "sr": 22050
+    },
+    "takemelee03.wav": {
+        "length": 3489,
+        "sr": 22050
+    },
+    "takemelee04.wav": {
+        "length": 1971,
+        "sr": 22050
+    },
+    "takemelee05.wav": {
+        "length": 1807,
+        "sr": 22050
+    },
+    "takemelee06.wav": {
+        "length": 3089,
+        "sr": 22050
+    },
+    "takemelee07.wav": {
+        "length": 2019,
+        "sr": 22050
+    },
+    "takemelee08.wav": {
+        "length": 2147,
+        "sr": 22050
+    },
+    "takemolotov01.wav": {
+        "length": 2959,
+        "sr": 22050
+    },
+    "takemolotov02.wav": {
+        "length": 1566,
+        "sr": 22050
+    },
+    "takemolotov03.wav": {
+        "length": 1013,
+        "sr": 22050
+    },
+    "takemolotov04.wav": {
+        "length": 1107,
+        "sr": 22050
+    },
+    "takepills01.wav": {
+        "length": 1508,
+        "sr": 22050
+    },
+    "takepills02.wav": {
+        "length": 1035,
+        "sr": 22050
+    },
+    "takepills03.wav": {
+        "length": 975,
+        "sr": 22050
+    },
+    "takepills04.wav": {
+        "length": 1223,
+        "sr": 22050
+    },
+    "takepipebomb01.wav": {
+        "length": 1052,
+        "sr": 22050
+    },
+    "takepipebomb02.wav": {
+        "length": 865,
+        "sr": 22050
+    },
+    "takepistol01.wav": {
+        "length": 1184,
+        "sr": 22050
+    },
+    "takepistol02.wav": {
+        "length": 652,
+        "sr": 22050
+    },
+    "takepistol03.wav": {
+        "length": 1414,
+        "sr": 22050
+    },
+    "takepistol04.wav": {
+        "length": 1303,
+        "sr": 22050
+    },
+    "takeshotgun01.wav": {
+        "length": 1262,
+        "sr": 22050
+    },
+    "takeshotgun02.wav": {
+        "length": 1034,
+        "sr": 22050
+    },
+    "takeshotgun03.wav": {
+        "length": 1119,
+        "sr": 22050
+    },
+    "takesniper01.wav": {
+        "length": 1647,
+        "sr": 22050
+    },
+    "takesniper02.wav": {
+        "length": 707,
+        "sr": 22050
+    },
+    "takesubmachinegun01.wav": {
+        "length": 1180,
+        "sr": 22050
+    },
+    "takesubmachinegun02.wav": {
+        "length": 1165,
+        "sr": 22050
+    },
+    "tankpound01.wav": {
+        "length": 3602,
+        "sr": 22050
+    },
+    "tankpound02.wav": {
+        "length": 3055,
+        "sr": 22050
+    },
+    "tankpound03.wav": {
+        "length": 5025,
+        "sr": 22050
+    },
+    "tankpound04.wav": {
+        "length": 1922,
+        "sr": 22050
+    },
+    "tankpound05.wav": {
+        "length": 2182,
+        "sr": 22050
+    },
+    "taunt01.wav": {
+        "length": 1841,
+        "sr": 22050
+    },
+    "taunt02.wav": {
+        "length": 1687,
+        "sr": 22050
+    },
+    "taunt03.wav": {
+        "length": 883,
+        "sr": 22050
+    },
+    "taunt04.wav": {
+        "length": 3414,
+        "sr": 44100
+    },
+    "taunt05.wav": {
+        "length": 1180,
+        "sr": 22050
+    },
+    "taunt06.wav": {
+        "length": 1336,
+        "sr": 22050
+    },
+    "taunt07.wav": {
+        "length": 1295,
+        "sr": 22050
+    },
+    "taunt08.wav": {
+        "length": 1662,
+        "sr": 22050
+    },
+    "teamkillaccident01.wav": {
+        "length": 1947,
+        "sr": 22050
+    },
+    "teamkillaccident02.wav": {
+        "length": 2069,
+        "sr": 22050
+    },
+    "teamkillaccident03.wav": {
+        "length": 2935,
+        "sr": 22050
+    },
+    "teamkillaccident04.wav": {
+        "length": 599,
+        "sr": 22050
+    },
+    "test.wav": {
+        "length": 2493,
+        "sr": 44100
+    },
+    "thanks01.wav": {
+        "length": 1249,
+        "sr": 22050
+    },
+    "thanks02.wav": {
+        "length": 1852,
+        "sr": 22050
+    },
+    "thanks03.wav": {
+        "length": 814,
+        "sr": 22050
+    },
+    "thanks04.wav": {
+        "length": 1195,
+        "sr": 22050
+    },
+    "thanks05.wav": {
+        "length": 1906,
+        "sr": 22050
+    },
+    "thanks06.wav": {
+        "length": 1535,
+        "sr": 44100
+    },
+    "thanks07.wav": {
+        "length": 1581,
+        "sr": 44100
+    },
+    "thankscoach01.wav": {
+        "length": 1124,
+        "sr": 44100
+    },
+    "thankscoach02.wav": {
+        "length": 1042,
+        "sr": 44100
+    },
+    "thanksellis01.wav": {
+        "length": 3281,
+        "sr": 22050
+    },
+    "thanksnick01.wav": {
+        "length": 4368,
+        "sr": 22050
+    },
+    "totherescue01.wav": {
+        "length": 1720,
+        "sr": 22050
+    },
+    "totherescue02.wav": {
+        "length": 1497,
+        "sr": 22050
+    },
+    "totherescue03.wav": {
+        "length": 1083,
+        "sr": 22050
+    },
+    "totherescue04.wav": {
+        "length": 1386,
+        "sr": 22050
+    },
+    "totherescue05.wav": {
+        "length": 833,
+        "sr": 22050
+    },
+    "totherescue06.wav": {
+        "length": 1964,
+        "sr": 22050
+    },
+    "transitionclose01.wav": {
+        "length": 1660,
+        "sr": 22050
+    },
+    "transitionclose02.wav": {
+        "length": 2064,
+        "sr": 22050
+    },
+    "transitionclose03.wav": {
+        "length": 2300,
+        "sr": 22050
+    },
+    "transitionclose04.wav": {
+        "length": 1283,
+        "sr": 22050
+    },
+    "transitionclose05.wav": {
+        "length": 816,
+        "sr": 22050
+    },
+    "transitionclose06.wav": {
+        "length": 1629,
+        "sr": 22050
+    },
+    "transitionclose07.wav": {
+        "length": 2215,
+        "sr": 22050
+    },
+    "transitionclose08.wav": {
+        "length": 6431,
+        "sr": 22050
+    },
+    "transitionclose10.wav": {
+        "length": 2612,
+        "sr": 22050
+    },
+    "transitionclose11.wav": {
+        "length": 1827,
+        "sr": 22050
+    },
+    "transitionclose12.wav": {
+        "length": 1371,
+        "sr": 22050
+    },
+    "transitionclose13.wav": {
+        "length": 1840,
+        "sr": 22050
+    },
+    "transitionclose14.wav": {
+        "length": 2571,
+        "sr": 44100
+    },
+    "transitionclose15.wav": {
+        "length": 1259,
+        "sr": 22050
+    },
+    "waithere01.wav": {
+        "length": 538,
+        "sr": 22050
+    },
+    "waithere02.wav": {
+        "length": 996,
+        "sr": 22050
+    },
+    "waithere03.wav": {
+        "length": 578,
+        "sr": 22050
+    },
+    "waithere04.wav": {
+        "length": 789,
+        "sr": 22050
+    },
+    "warnboomer01.wav": {
+        "length": 543,
+        "sr": 22050
+    },
+    "warnboomer02.wav": {
+        "length": 625,
+        "sr": 22050
+    },
+    "warnboomer03.wav": {
+        "length": 637,
+        "sr": 22050
+    },
+    "warnboomerc101.wav": {
+        "length": 1433,
+        "sr": 22050
+    },
+    "warnboomerc102.wav": {
+        "length": 696,
+        "sr": 22050
+    },
+    "warnboomerc103.wav": {
+        "length": 925,
+        "sr": 22050
+    },
+    "warnboomerc104.wav": {
+        "length": 979,
+        "sr": 22050
+    },
+    "warnboomerc105.wav": {
+        "length": 1228,
+        "sr": 22050
+    },
+    "warnboomerc106.wav": {
+        "length": 953,
+        "sr": 22050
+    },
+    "warnboomerc107.wav": {
+        "length": 770,
+        "sr": 22050
+    },
+    "warncareful01.wav": {
+        "length": 1458,
+        "sr": 22050
+    },
+    "warncareful02.wav": {
+        "length": 1083,
+        "sr": 22050
+    },
+    "warncareful03.wav": {
+        "length": 1448,
+        "sr": 22050
+    },
+    "warncharger01.wav": {
+        "length": 803,
+        "sr": 22050
+    },
+    "warncharger02.wav": {
+        "length": 709,
+        "sr": 22050
+    },
+    "warncharger03.wav": {
+        "length": 570,
+        "sr": 22050
+    },
+    "warnchargerc101.wav": {
+        "length": 1318,
+        "sr": 22050
+    },
+    "warnchargerc102.wav": {
+        "length": 1807,
+        "sr": 22050
+    },
+    "warnchargerc103.wav": {
+        "length": 1515,
+        "sr": 22050
+    },
+    "warnhunter01.wav": {
+        "length": 480,
+        "sr": 22050
+    },
+    "warnhunter02.wav": {
+        "length": 578,
+        "sr": 22050
+    },
+    "warnhunter03.wav": {
+        "length": 437,
+        "sr": 22050
+    },
+    "warnhunterc101.wav": {
+        "length": 1587,
+        "sr": 22050
+    },
+    "warnhunterc102.wav": {
+        "length": 725,
+        "sr": 22050
+    },
+    "warnhunterc103.wav": {
+        "length": 1071,
+        "sr": 22050
+    },
+    "warnhunterc104.wav": {
+        "length": 536,
+        "sr": 22050
+    },
+    "warnhunterc105.wav": {
+        "length": 841,
+        "sr": 22050
+    },
+    "warnhunterc1p01.wav": {
+        "length": 3153,
+        "sr": 44100
+    },
+    "warnhunterc1p02.wav": {
+        "length": 1171,
+        "sr": 22050
+    },
+    "warnhunterc1p03.wav": {
+        "length": 1428,
+        "sr": 22050
+    },
+    "warnjockey01.wav": {
+        "length": 499,
+        "sr": 22050
+    },
+    "warnjockey02.wav": {
+        "length": 488,
+        "sr": 44100
+    },
+    "warnjockey03.wav": {
+        "length": 879,
+        "sr": 22050
+    },
+    "warnjockey04.wav": {
+        "length": 662,
+        "sr": 44100
+    },
+    "warnsmoker01.wav": {
+        "length": 758,
+        "sr": 22050
+    },
+    "warnsmoker02.wav": {
+        "length": 1000,
+        "sr": 22050
+    },
+    "warnsmoker03.wav": {
+        "length": 718,
+        "sr": 22050
+    },
+    "warnsmokerc101.wav": {
+        "length": 683,
+        "sr": 22050
+    },
+    "warnsmokerc102.wav": {
+        "length": 549,
+        "sr": 22050
+    },
+    "warnsmokerc103.wav": {
+        "length": 1413,
+        "sr": 22050
+    },
+    "warnsmokerc104.wav": {
+        "length": 1583,
+        "sr": 22050
+    },
+    "warnsmokerc105.wav": {
+        "length": 882,
+        "sr": 22050
+    },
+    "warnsmokerc106.wav": {
+        "length": 754,
+        "sr": 22050
+    },
+    "warnspitter01.wav": {
+        "length": 658,
+        "sr": 22050
+    },
+    "warnspitter02.wav": {
+        "length": 827,
+        "sr": 22050
+    },
+    "warnspitter03.wav": {
+        "length": 854,
+        "sr": 22050
+    },
+    "warnspitterc101.wav": {
+        "length": 754,
+        "sr": 22050
+    },
+    "warnspitterc102.wav": {
+        "length": 850,
+        "sr": 22050
+    },
+    "warnspitterc103.wav": {
+        "length": 1294,
+        "sr": 22050
+    },
+    "warnspitterincoming01.wav": {
+        "length": 870,
+        "sr": 22050
+    },
+    "warnspitterincoming02.wav": {
+        "length": 996,
+        "sr": 22050
+    },
+    "warnspitterincoming03.wav": {
+        "length": 908,
+        "sr": 22050
+    },
+    "warnspitterincoming04.wav": {
+        "length": 1237,
+        "sr": 22050
+    },
+    "warnspitterincoming05.wav": {
+        "length": 1552,
+        "sr": 22050
+    },
+    "warntank01.wav": {
+        "length": 594,
+        "sr": 22050
+    },
+    "warntank02.wav": {
+        "length": 584,
+        "sr": 22050
+    },
+    "warntank03.wav": {
+        "length": 491,
+        "sr": 22050
+    },
+    "warntank04.wav": {
+        "length": 686,
+        "sr": 22050
+    },
+    "warntankc101.wav": {
+        "length": 1843,
+        "sr": 22050
+    },
+    "warntankc102.wav": {
+        "length": 1542,
+        "sr": 22050
+    },
+    "warntankc103.wav": {
+        "length": 1772,
+        "sr": 22050
+    },
+    "warntankc104.wav": {
+        "length": 3536,
+        "sr": 22050
+    },
+    "warntankc1a01.wav": {
+        "length": 2444,
+        "sr": 44100
+    },
+    "warnwitch01.wav": {
+        "length": 559,
+        "sr": 22050
+    },
+    "warnwitch02.wav": {
+        "length": 812,
+        "sr": 22050
+    },
+    "warnwitch03.wav": {
+        "length": 509,
+        "sr": 22050
+    },
+    "warnwitch04.wav": {
+        "length": 990,
+        "sr": 22050
+    },
+    "watchoutbehind01.wav": {
+        "length": 1000,
+        "sr": 22050
+    },
+    "watchoutbehind02.wav": {
+        "length": 840,
+        "sr": 22050
+    },
+    "watchoutbehind03.wav": {
+        "length": 1070,
+        "sr": 22050
+    },
+    "witchchasing01.wav": {
+        "length": 2017,
+        "sr": 22050
+    },
+    "witchchasing02.wav": {
+        "length": 1093,
+        "sr": 22050
+    },
+    "witchchasing03.wav": {
+        "length": 606,
+        "sr": 22050
+    },
+    "witchchasing04.wav": {
+        "length": 1096,
+        "sr": 22050
+    },
+    "witchchasing05.wav": {
+        "length": 1095,
+        "sr": 22050
+    },
+    "witchchasing06.wav": {
+        "length": 798,
+        "sr": 22050
+    },
+    "witchchasing07.wav": {
+        "length": 1609,
+        "sr": 22050
+    },
+    "witchchasing08.wav": {
+        "length": 669,
+        "sr": 22050
+    },
+    "witchchasing09.wav": {
+        "length": 1379,
+        "sr": 22050
+    },
+    "witchgettingangry01.wav": {
+        "length": 3424,
+        "sr": 22050
+    },
+    "witchgettingangry02.wav": {
+        "length": 1315,
+        "sr": 22050
+    },
+    "witchgettingangry03.wav": {
+        "length": 1271,
+        "sr": 22050
+    },
+    "witchgettingangry04.wav": {
+        "length": 1317,
+        "sr": 22050
+    },
+    "witchgettingangry05.wav": {
+        "length": 1030,
+        "sr": 22050
+    },
+    "world01.wav": {
+        "length": 3089,
+        "sr": 22050
+    },
+    "world02.wav": {
+        "length": 2594,
+        "sr": 22050
+    },
+    "world03.wav": {
+        "length": 2594,
+        "sr": 22050
+    },
+    "world04.wav": {
+        "length": 7214,
+        "sr": 22050
+    },
+    "world05.wav": {
+        "length": 2701,
+        "sr": 22050
+    },
+    "world06.wav": {
+        "length": 1242,
+        "sr": 44100
+    },
+    "world07.wav": {
+        "length": 1446,
+        "sr": 22050
+    },
+    "world08.wav": {
+        "length": 2419,
+        "sr": 22050
+    },
+    "world09.wav": {
+        "length": 3700,
+        "sr": 44100
+    },
+    "world10.wav": {
+        "length": 635,
+        "sr": 22050
+    },
+    "world11.wav": {
+        "length": 1689,
+        "sr": 44100
+    },
+    "world12.wav": {
+        "length": 761,
+        "sr": 22050
+    },
+    "world13.wav": {
+        "length": 588,
+        "sr": 22050
+    },
+    "world14.wav": {
+        "length": 600,
+        "sr": 44100
+    },
+    "world15.wav": {
+        "length": 2215,
+        "sr": 44100
+    },
+    "world16.wav": {
+        "length": 960,
+        "sr": 44100
+    },
+    "worldc1m1b01.wav": {
+        "length": 2578,
+        "sr": 22050
+    },
+    "worldc1m1b02.wav": {
+        "length": 2071,
+        "sr": 22050
+    },
+    "worldc1m1b03.wav": {
+        "length": 2313,
+        "sr": 44100
+    },
+    "worldc1m1b04.wav": {
+        "length": 2165,
+        "sr": 22050
+    },
+    "worldc1m1b05.wav": {
+        "length": 4448,
+        "sr": 22050
+    },
+    "worldc1m1b06.wav": {
+        "length": 2934,
+        "sr": 44100
+    },
+    "worldc1m1b07.wav": {
+        "length": 2179,
+        "sr": 44100
+    },
+    "worldc1m1b08.wav": {
+        "length": 3084,
+        "sr": 44100
+    },
+    "worldc1m1b09.wav": {
+        "length": 6130,
+        "sr": 22050
+    },
+    "worldc1m1b10.wav": {
+        "length": 3439,
+        "sr": 22050
+    },
+    "worldc1m1b11.wav": {
+        "length": 2701,
+        "sr": 22050
+    },
+    "worldc1m1b12.wav": {
+        "length": 3492,
+        "sr": 44100
+    },
+    "worldc1m1b13.wav": {
+        "length": 2170,
+        "sr": 22050
+    },
+    "worldc1m1b14.wav": {
+        "length": 2968,
+        "sr": 44100
+    },
+    "worldc1m1b15.wav": {
+        "length": 2850,
+        "sr": 22050
+    },
+    "worldc1m1b16.wav": {
+        "length": 2119,
+        "sr": 44100
+    },
+    "worldc1m1b17.wav": {
+        "length": 2062,
+        "sr": 22050
+    },
+    "worldc1m1b18.wav": {
+        "length": 1648,
+        "sr": 22050
+    },
+    "worldc1m1b19.wav": {
+        "length": 7319,
+        "sr": 22050
+    },
+    "worldc1m1b20.wav": {
+        "length": 2531,
+        "sr": 22050
+    },
+    "worldc1m1b21.wav": {
+        "length": 3333,
+        "sr": 22050
+    },
+    "worldc1m1b22.wav": {
+        "length": 2345,
+        "sr": 44100
+    },
+    "worldc1m1b23.wav": {
+        "length": 4015,
+        "sr": 44100
+    },
+    "worldc1m1b24.wav": {
+        "length": 3083,
+        "sr": 44100
+    },
+    "worldc1m1b25.wav": {
+        "length": 1583,
+        "sr": 44100
+    },
+    "worldc1m1b26.wav": {
+        "length": 1701,
+        "sr": 44100
+    },
+    "worldc1m1b27.wav": {
+        "length": 6139,
+        "sr": 22050
+    },
+    "worldc1m1b28.wav": {
+        "length": 5868,
+        "sr": 22050
+    },
+    "worldc1m1b29.wav": {
+        "length": 1824,
+        "sr": 44100
+    },
+    "worldc1m1b30.wav": {
+        "length": 1622,
+        "sr": 22050
+    },
+    "worldc1m1b31.wav": {
+        "length": 563,
+        "sr": 44100
+    },
+    "worldc1m1b32.wav": {
+        "length": 769,
+        "sr": 44100
+    },
+    "worldc1m1b33.wav": {
+        "length": 884,
+        "sr": 44100
+    },
+    "worldc1m1b34.wav": {
+        "length": 1224,
+        "sr": 22050
+    },
+    "worldc1m1b35.wav": {
+        "length": 2843,
+        "sr": 22050
+    },
+    "worldc1m1b36.wav": {
+        "length": 1043,
+        "sr": 44100
+    },
+    "worldc1m1b37.wav": {
+        "length": 1321,
+        "sr": 44100
+    },
+    "worldc1m1b38.wav": {
+        "length": 2762,
+        "sr": 44100
+    },
+    "worldc1m1b39.wav": {
+        "length": 3569,
+        "sr": 22050
+    },
+    "worldc1m1b40.wav": {
+        "length": 4800,
+        "sr": 22050
+    },
+    "worldc1m1b41.wav": {
+        "length": 3376,
+        "sr": 22050
+    },
+    "worldc1m1b42.wav": {
+        "length": 8009,
+        "sr": 44100
+    },
+    "worldc1m1b43.wav": {
+        "length": 1718,
+        "sr": 22050
+    },
+    "worldc1m1b44.wav": {
+        "length": 8141,
+        "sr": 44100
+    },
+    "worldc1m1b45.wav": {
+        "length": 1970,
+        "sr": 44100
+    },
+    "worldc1m1b46.wav": {
+        "length": 2106,
+        "sr": 22050
+    },
+    "worldc1m1b47.wav": {
+        "length": 4509,
+        "sr": 44100
+    },
+    "worldc1m1b48.wav": {
+        "length": 1794,
+        "sr": 22050
+    },
+    "worldc1m1b49.wav": {
+        "length": 6517,
+        "sr": 22050
+    },
+    "worldc1m1b50.wav": {
+        "length": 3844,
+        "sr": 22050
+    },
+    "worldc1m1b51.wav": {
+        "length": 1728,
+        "sr": 22050
+    },
+    "worldc1m1b52.wav": {
+        "length": 4030,
+        "sr": 22050
+    },
+    "worldc1m1b53.wav": {
+        "length": 3719,
+        "sr": 22050
+    },
+    "worldc1m2b01.wav": {
+        "length": 5008,
+        "sr": 22050
+    },
+    "worldc1m2b02.wav": {
+        "length": 3590,
+        "sr": 22050
+    },
+    "worldc1m2b03.wav": {
+        "length": 5345,
+        "sr": 22050
+    },
+    "worldc1m2b04.wav": {
+        "length": 2505,
+        "sr": 22050
+    },
+    "worldc1m2b05.wav": {
+        "length": 2661,
+        "sr": 22050
+    },
+    "worldc1m2b06.wav": {
+        "length": 4725,
+        "sr": 22050
+    },
+    "worldc1m2b07.wav": {
+        "length": 6154,
+        "sr": 22050
+    },
+    "worldc1m2b08.wav": {
+        "length": 1818,
+        "sr": 22050
+    },
+    "worldc1m2b09.wav": {
+        "length": 3073,
+        "sr": 44100
+    },
+    "worldc1m2b10.wav": {
+        "length": 924,
+        "sr": 44100
+    },
+    "worldc1m2b11.wav": {
+        "length": 1086,
+        "sr": 22050
+    },
+    "worldc1m2b12.wav": {
+        "length": 958,
+        "sr": 22050
+    },
+    "worldc1m2b13.wav": {
+        "length": 1590,
+        "sr": 44100
+    },
+    "worldc1m2b14.wav": {
+        "length": 2237,
+        "sr": 44100
+    },
+    "worldc1m2b15.wav": {
+        "length": 1912,
+        "sr": 22050
+    },
+    "worldc1m2b16.wav": {
+        "length": 2198,
+        "sr": 22050
+    },
+    "worldc1m2b17.wav": {
+        "length": 2816,
+        "sr": 44100
+    },
+    "worldc1m2b18.wav": {
+        "length": 1376,
+        "sr": 22050
+    },
+    "worldc1m2b19.wav": {
+        "length": 3631,
+        "sr": 22050
+    },
+    "worldc1m2b20.wav": {
+        "length": 3405,
+        "sr": 44100
+    },
+    "worldc1m2b21.wav": {
+        "length": 2519,
+        "sr": 22050
+    },
+    "worldc1m2b22.wav": {
+        "length": 4103,
+        "sr": 44100
+    },
+    "worldc1m2b23.wav": {
+        "length": 3319,
+        "sr": 44100
+    },
+    "worldc1m2b24.wav": {
+        "length": 7257,
+        "sr": 44100
+    },
+    "worldc1m2b25.wav": {
+        "length": 3572,
+        "sr": 44100
+    },
+    "worldc1m2b26.wav": {
+        "length": 8221,
+        "sr": 44100
+    },
+    "worldc1m2b27.wav": {
+        "length": 1631,
+        "sr": 44100
+    },
+    "worldc1m2b28.wav": {
+        "length": 2016,
+        "sr": 44100
+    },
+    "worldc1m2b29.wav": {
+        "length": 2401,
+        "sr": 22050
+    },
+    "worldc1m2b30.wav": {
+        "length": 3812,
+        "sr": 22050
+    },
+    "worldc1m2b31.wav": {
+        "length": 1303,
+        "sr": 22050
+    },
+    "worldc1m2b32.wav": {
+        "length": 1955,
+        "sr": 44100
+    },
+    "worldc1m2b33.wav": {
+        "length": 2391,
+        "sr": 44100
+    },
+    "worldc1m2b34.wav": {
+        "length": 1395,
+        "sr": 44100
+    },
+    "worldc1m2b35.wav": {
+        "length": 1121,
+        "sr": 44100
+    },
+    "worldc1m2b36.wav": {
+        "length": 577,
+        "sr": 44100
+    },
+    "worldc1m2b37.wav": {
+        "length": 1282,
+        "sr": 44100
+    },
+    "worldc1m2b38.wav": {
+        "length": 3003,
+        "sr": 44100
+    },
+    "worldc1m2b39.wav": {
+        "length": 1898,
+        "sr": 44100
+    },
+    "worldc1m2b40.wav": {
+        "length": 1676,
+        "sr": 44100
+    },
+    "worldc1m2b41.wav": {
+        "length": 1564,
+        "sr": 44100
+    },
+    "worldc1m2b42.wav": {
+        "length": 2214,
+        "sr": 44100
+    },
+    "worldc1m2b43.wav": {
+        "length": 2752,
+        "sr": 44100
+    },
+    "worldc1m2b44.wav": {
+        "length": 2369,
+        "sr": 44100
+    },
+    "worldc1m2b45.wav": {
+        "length": 1637,
+        "sr": 22050
+    },
+    "worldc1m2b46.wav": {
+        "length": 2476,
+        "sr": 22050
+    },
+    "worldc1m2b47.wav": {
+        "length": 1769,
+        "sr": 44100
+    },
+    "worldc1m2b48.wav": {
+        "length": 1609,
+        "sr": 44100
+    },
+    "worldc1m2b49.wav": {
+        "length": 3231,
+        "sr": 44100
+    },
+    "worldc1m2b50.wav": {
+        "length": 1506,
+        "sr": 22050
+    },
+    "worldc1m2b51.wav": {
+        "length": 1483,
+        "sr": 44100
+    },
+    "worldc1m2b52.wav": {
+        "length": 3694,
+        "sr": 44100
+    },
+    "worldc1m2b53.wav": {
+        "length": 1994,
+        "sr": 44100
+    },
+    "worldc1m2b54.wav": {
+        "length": 834,
+        "sr": 44100
+    },
+    "worldc1m2b55.wav": {
+        "length": 1746,
+        "sr": 44100
+    },
+    "worldc1m2b56.wav": {
+        "length": 5962,
+        "sr": 22050
+    },
+    "worldc1m2b57.wav": {
+        "length": 8657,
+        "sr": 44100
+    },
+    "worldc1m2b58.wav": {
+        "length": 833,
+        "sr": 44100
+    },
+    "worldc1m2b59.wav": {
+        "length": 2351,
+        "sr": 44100
+    },
+    "worldc1m2b60.wav": {
+        "length": 3014,
+        "sr": 44100
+    },
+    "worldc1m2b61.wav": {
+        "length": 1526,
+        "sr": 44100
+    },
+    "worldc1m2b62.wav": {
+        "length": 4974,
+        "sr": 22050
+    },
+    "worldc1m2b63.wav": {
+        "length": 701,
+        "sr": 22050
+    },
+    "worldc1m2b64.wav": {
+        "length": 1416,
+        "sr": 22050
+    },
+    "worldc1m2b65.wav": {
+        "length": 2179,
+        "sr": 22050
+    },
+    "worldc1m2b66.wav": {
+        "length": 871,
+        "sr": 22050
+    },
+    "worldc1m2b67.wav": {
+        "length": 965,
+        "sr": 22050
+    },
+    "worldc1m2b68.wav": {
+        "length": 1893,
+        "sr": 22050
+    },
+    "worldc1m2b69.wav": {
+        "length": 1749,
+        "sr": 22050
+    },
+    "worldc1m2b70.wav": {
+        "length": 6009,
+        "sr": 22050
+    },
+    "worldc1m2b71.wav": {
+        "length": 2985,
+        "sr": 22050
+    },
+    "worldc1m2b72.wav": {
+        "length": 1984,
+        "sr": 22050
+    },
+    "worldc1m2b73.wav": {
+        "length": 4392,
+        "sr": 22050
+    },
+    "worldc1m2b74.wav": {
+        "length": 2465,
+        "sr": 44100
+    },
+    "worldc1m3b01.wav": {
+        "length": 3646,
+        "sr": 22050
+    },
+    "worldc1m3b02.wav": {
+        "length": 4084,
+        "sr": 22050
+    },
+    "worldc1m3b03.wav": {
+        "length": 907,
+        "sr": 22050
+    },
+    "worldc1m3b04.wav": {
+        "length": 876,
+        "sr": 44100
+    },
+    "worldc1m3b05.wav": {
+        "length": 3126,
+        "sr": 22050
+    },
+    "worldc1m3b06.wav": {
+        "length": 958,
+        "sr": 22050
+    },
+    "worldc1m3b07.wav": {
+        "length": 1046,
+        "sr": 44100
+    },
+    "worldc1m3b08.wav": {
+        "length": 1136,
+        "sr": 44100
+    },
+    "worldc1m3b09.wav": {
+        "length": 1060,
+        "sr": 22050
+    },
+    "worldc1m3b10.wav": {
+        "length": 2626,
+        "sr": 44100
+    },
+    "worldc1m3b11.wav": {
+        "length": 1089,
+        "sr": 44100
+    },
+    "worldc1m3b12.wav": {
+        "length": 1037,
+        "sr": 44100
+    },
+    "worldc1m3b13.wav": {
+        "length": 950,
+        "sr": 44100
+    },
+    "worldc1m3b14.wav": {
+        "length": 1823,
+        "sr": 22050
+    },
+    "worldc1m3b15.wav": {
+        "length": 4645,
+        "sr": 44100
+    },
+    "worldc1m3b16.wav": {
+        "length": 2719,
+        "sr": 22050
+    },
+    "worldc1m3b17.wav": {
+        "length": 1781,
+        "sr": 44100
+    },
+    "worldc1m3b18.wav": {
+        "length": 2199,
+        "sr": 44100
+    },
+    "worldc1m3b19.wav": {
+        "length": 1618,
+        "sr": 22050
+    },
+    "worldc1m3b20.wav": {
+        "length": 668,
+        "sr": 22050
+    },
+    "worldc1m3b21.wav": {
+        "length": 1420,
+        "sr": 22050
+    },
+    "worldc1m3b22.wav": {
+        "length": 1434,
+        "sr": 22050
+    },
+    "worldc1m3b23.wav": {
+        "length": 420,
+        "sr": 22050
+    },
+    "worldc1m3b24.wav": {
+        "length": 1846,
+        "sr": 22050
+    },
+    "worldc1m3b25.wav": {
+        "length": 2262,
+        "sr": 44100
+    },
+    "worldc1m3b26.wav": {
+        "length": 4844,
+        "sr": 44100
+    },
+    "worldc1m3b27.wav": {
+        "length": 2253,
+        "sr": 22050
+    },
+    "worldc1m3b28.wav": {
+        "length": 1687,
+        "sr": 22050
+    },
+    "worldc1m3b29.wav": {
+        "length": 1930,
+        "sr": 22050
+    },
+    "worldc1m3b30.wav": {
+        "length": 3525,
+        "sr": 22050
+    },
+    "worldc1m3b31.wav": {
+        "length": 1692,
+        "sr": 22050
+    },
+    "worldc1m3b32.wav": {
+        "length": 2095,
+        "sr": 22050
+    },
+    "worldc1m3b33.wav": {
+        "length": 3073,
+        "sr": 22050
+    },
+    "worldc1m3b34.wav": {
+        "length": 1621,
+        "sr": 22050
+    },
+    "worldc1m4b01.wav": {
+        "length": 2333,
+        "sr": 22050
+    },
+    "worldc1m4b02.wav": {
+        "length": 4855,
+        "sr": 44100
+    },
+    "worldc1m4b03.wav": {
+        "length": 1118,
+        "sr": 22050
+    },
+    "worldc1m4b04.wav": {
+        "length": 3047,
+        "sr": 22050
+    },
+    "worldc1m4b05.wav": {
+        "length": 1640,
+        "sr": 22050
+    },
+    "worldc1m4b06.wav": {
+        "length": 5233,
+        "sr": 22050
+    },
+    "worldc1m4b07.wav": {
+        "length": 5045,
+        "sr": 44100
+    },
+    "worldc1m4b08.wav": {
+        "length": 1063,
+        "sr": 22050
+    },
+    "worldc1m4b09.wav": {
+        "length": 5805,
+        "sr": 22050
+    },
+    "worldc1m4b10.wav": {
+        "length": 1388,
+        "sr": 22050
+    },
+    "worldc1m4b11.wav": {
+        "length": 748,
+        "sr": 44100
+    },
+    "worldc1m4b12.wav": {
+        "length": 1066,
+        "sr": 22050
+    },
+    "worldc1m4b13.wav": {
+        "length": 1364,
+        "sr": 22050
+    },
+    "worldc1m4b14.wav": {
+        "length": 2317,
+        "sr": 22050
+    },
+    "worldc1m4b15.wav": {
+        "length": 2401,
+        "sr": 22050
+    },
+    "worldc1m4b16.wav": {
+        "length": 3391,
+        "sr": 22050
+    },
+    "worldc1m4b17.wav": {
+        "length": 2246,
+        "sr": 22050
+    },
+    "worldc1m4b18.wav": {
+        "length": 2442,
+        "sr": 44100
+    },
+    "worldc1m4b19.wav": {
+        "length": 1699,
+        "sr": 22050
+    },
+    "worldc1m4b20.wav": {
+        "length": 980,
+        "sr": 22050
+    },
+    "worldc1m4b21.wav": {
+        "length": 1092,
+        "sr": 22050
+    },
+    "worldc1m4b22.wav": {
+        "length": 868,
+        "sr": 22050
+    },
+    "worldc1m4b23.wav": {
+        "length": 1620,
+        "sr": 22050
+    },
+    "worldc1m4b24.wav": {
+        "length": 1303,
+        "sr": 22050
+    },
+    "worldc1m4b25.wav": {
+        "length": 1230,
+        "sr": 22050
+    },
+    "worldc1m4b26.wav": {
+        "length": 1345,
+        "sr": 22050
+    },
+    "worldc1m4b27.wav": {
+        "length": 860,
+        "sr": 22050
+    },
+    "worldc1m4b28.wav": {
+        "length": 691,
+        "sr": 22050
+    },
+    "worldc1m4b29.wav": {
+        "length": 915,
+        "sr": 44100
+    },
+    "worldc1m4b30.wav": {
+        "length": 1091,
+        "sr": 22050
+    },
+    "worldc1m4b31.wav": {
+        "length": 1094,
+        "sr": 22050
+    },
+    "worldc1m4b32.wav": {
+        "length": 1487,
+        "sr": 22050
+    },
+    "worldc1m4b33.wav": {
+        "length": 1000,
+        "sr": 22050
+    },
+    "worldc1m4b34.wav": {
+        "length": 1211,
+        "sr": 22050
+    },
+    "worldc1m4b35.wav": {
+        "length": 1566,
+        "sr": 22050
+    },
+    "worldc1m4b36.wav": {
+        "length": 1409,
+        "sr": 22050
+    },
+    "worldc1m4b37.wav": {
+        "length": 897,
+        "sr": 22050
+    },
+    "worldc1m4b38.wav": {
+        "length": 602,
+        "sr": 22050
+    },
+    "worldc1m4b39.wav": {
+        "length": 985,
+        "sr": 22050
+    },
+    "worldc2m101.wav": {
+        "length": 2533,
+        "sr": 22050
+    },
+    "worldc2m102.wav": {
+        "length": 1992,
+        "sr": 44100
+    },
+    "worldc2m103.wav": {
+        "length": 2909,
+        "sr": 44100
+    },
+    "worldc2m104.wav": {
+        "length": 1508,
+        "sr": 44100
+    },
+    "worldc2m105.wav": {
+        "length": 1107,
+        "sr": 44100
+    },
+    "worldc2m106.wav": {
+        "length": 3907,
+        "sr": 22050
+    },
+    "worldc2m107.wav": {
+        "length": 3129,
+        "sr": 44100
+    },
+    "worldc2m108.wav": {
+        "length": 579,
+        "sr": 22050
+    },
+    "worldc2m109.wav": {
+        "length": 1310,
+        "sr": 44100
+    },
+    "worldc2m110.wav": {
+        "length": 2289,
+        "sr": 44100
+    },
+    "worldc2m111.wav": {
+        "length": 5245,
+        "sr": 44100
+    },
+    "worldc2m112.wav": {
+        "length": 2185,
+        "sr": 44100
+    },
+    "worldc2m113.wav": {
+        "length": 1716,
+        "sr": 44100
+    },
+    "worldc2m114.wav": {
+        "length": 888,
+        "sr": 44100
+    },
+    "worldc2m115.wav": {
+        "length": 1705,
+        "sr": 44100
+    },
+    "worldc2m116.wav": {
+        "length": 1056,
+        "sr": 22050
+    },
+    "worldc2m117.wav": {
+        "length": 758,
+        "sr": 22050
+    },
+    "worldc2m118.wav": {
+        "length": 961,
+        "sr": 44100
+    },
+    "worldc2m119.wav": {
+        "length": 1620,
+        "sr": 44100
+    },
+    "worldc2m120.wav": {
+        "length": 2632,
+        "sr": 44100
+    },
+    "worldc2m121.wav": {
+        "length": 3229,
+        "sr": 44100
+    },
+    "worldc2m122.wav": {
+        "length": 1926,
+        "sr": 22050
+    },
+    "worldc2m123.wav": {
+        "length": 812,
+        "sr": 44100
+    },
+    "worldc2m124.wav": {
+        "length": 1129,
+        "sr": 22050
+    },
+    "worldc2m125.wav": {
+        "length": 4194,
+        "sr": 22050
+    },
+    "worldc2m126.wav": {
+        "length": 878,
+        "sr": 44100
+    },
+    "worldc2m127.wav": {
+        "length": 1287,
+        "sr": 44100
+    },
+    "worldc2m128.wav": {
+        "length": 1278,
+        "sr": 44100
+    },
+    "worldc2m129.wav": {
+        "length": 2372,
+        "sr": 22050
+    },
+    "worldc2m130.wav": {
+        "length": 1530,
+        "sr": 44100
+    },
+    "worldc2m131.wav": {
+        "length": 1927,
+        "sr": 44100
+    },
+    "worldc2m1b01.wav": {
+        "length": 1888,
+        "sr": 44100
+    },
+    "worldc2m1b02.wav": {
+        "length": 3365,
+        "sr": 44100
+    },
+    "worldc2m1b03.wav": {
+        "length": 3576,
+        "sr": 44100
+    },
+    "worldc2m1b04.wav": {
+        "length": 6566,
+        "sr": 44100
+    },
+    "worldc2m1b05.wav": {
+        "length": 1034,
+        "sr": 44100
+    },
+    "worldc2m1b06.wav": {
+        "length": 1432,
+        "sr": 44100
+    },
+    "worldc2m1b07.wav": {
+        "length": 9189,
+        "sr": 44100
+    },
+    "worldc2m1b08.wav": {
+        "length": 10541,
+        "sr": 44100
+    },
+    "worldc2m1b09.wav": {
+        "length": 2736,
+        "sr": 22050
+    },
+    "worldc2m1b10.wav": {
+        "length": 1412,
+        "sr": 44100
+    },
+    "worldc2m1b11.wav": {
+        "length": 1775,
+        "sr": 44100
+    },
+    "worldc2m1b12.wav": {
+        "length": 3307,
+        "sr": 44100
+    },
+    "worldc2m1b13.wav": {
+        "length": 5261,
+        "sr": 44100
+    },
+    "worldc2m1b14.wav": {
+        "length": 3131,
+        "sr": 22050
+    },
+    "worldc2m1b15.wav": {
+        "length": 2600,
+        "sr": 44100
+    },
+    "worldc2m1b16.wav": {
+        "length": 1068,
+        "sr": 22050
+    },
+    "worldc2m1b17.wav": {
+        "length": 1001,
+        "sr": 44100
+    },
+    "worldc2m1b18.wav": {
+        "length": 1903,
+        "sr": 22050
+    },
+    "worldc2m1b19.wav": {
+        "length": 2894,
+        "sr": 44100
+    },
+    "worldc2m1b20.wav": {
+        "length": 2516,
+        "sr": 22050
+    },
+    "worldc2m1b21.wav": {
+        "length": 1812,
+        "sr": 44100
+    },
+    "worldc2m1b22.wav": {
+        "length": 1516,
+        "sr": 22050
+    },
+    "worldc2m1b23.wav": {
+        "length": 1145,
+        "sr": 44100
+    },
+    "worldc2m1b24.wav": {
+        "length": 2724,
+        "sr": 22050
+    },
+    "worldc2m1b25.wav": {
+        "length": 1882,
+        "sr": 22050
+    },
+    "worldc2m1b26.wav": {
+        "length": 4337,
+        "sr": 44100
+    },
+    "worldc2m201.wav": {
+        "length": 1134,
+        "sr": 44100
+    },
+    "worldc2m202.wav": {
+        "length": 3444,
+        "sr": 22050
+    },
+    "worldc2m203.wav": {
+        "length": 3213,
+        "sr": 44100
+    },
+    "worldc2m2b01.wav": {
+        "length": 4900,
+        "sr": 44100
+    },
+    "worldc2m2b02.wav": {
+        "length": 5263,
+        "sr": 44100
+    },
+    "worldc2m2b03.wav": {
+        "length": 1738,
+        "sr": 22050
+    },
+    "worldc2m2b04.wav": {
+        "length": 7477,
+        "sr": 44100
+    },
+    "worldc2m2b05.wav": {
+        "length": 1260,
+        "sr": 44100
+    },
+    "worldc2m2b06.wav": {
+        "length": 508,
+        "sr": 44100
+    },
+    "worldc2m2b07.wav": {
+        "length": 4187,
+        "sr": 44100
+    },
+    "worldc2m2b08.wav": {
+        "length": 4059,
+        "sr": 44100
+    },
+    "worldc2m2b09.wav": {
+        "length": 2281,
+        "sr": 44100
+    },
+    "worldc2m2b10.wav": {
+        "length": 5341,
+        "sr": 44100
+    },
+    "worldc2m2b11.wav": {
+        "length": 2376,
+        "sr": 44100
+    },
+    "worldc2m2b12.wav": {
+        "length": 2225,
+        "sr": 44100
+    },
+    "worldc2m2b13.wav": {
+        "length": 6177,
+        "sr": 44100
+    },
+    "worldc2m2b14.wav": {
+        "length": 5789,
+        "sr": 44100
+    },
+    "worldc2m2b15.wav": {
+        "length": 9119,
+        "sr": 44100
+    },
+    "worldc2m2b16.wav": {
+        "length": 4432,
+        "sr": 44100
+    },
+    "worldc2m2b17.wav": {
+        "length": 3024,
+        "sr": 44100
+    },
+    "worldc2m2b18.wav": {
+        "length": 2838,
+        "sr": 44100
+    },
+    "worldc2m2b19.wav": {
+        "length": 2619,
+        "sr": 44100
+    },
+    "worldc2m2b20.wav": {
+        "length": 4660,
+        "sr": 44100
+    },
+    "worldc2m2b21.wav": {
+        "length": 1987,
+        "sr": 44100
+    },
+    "worldc2m2b22.wav": {
+        "length": 1313,
+        "sr": 22050
+    },
+    "worldc2m2b23.wav": {
+        "length": 2476,
+        "sr": 22050
+    },
+    "worldc2m2b24.wav": {
+        "length": 3465,
+        "sr": 22050
+    },
+    "worldc2m2b25.wav": {
+        "length": 2177,
+        "sr": 44100
+    },
+    "worldc2m2b26.wav": {
+        "length": 2877,
+        "sr": 44100
+    },
+    "worldc2m2b27.wav": {
+        "length": 1379,
+        "sr": 44100
+    },
+    "worldc2m2b28.wav": {
+        "length": 459,
+        "sr": 22050
+    },
+    "worldc2m2b29.wav": {
+        "length": 768,
+        "sr": 22050
+    },
+    "worldc2m2b30.wav": {
+        "length": 2923,
+        "sr": 22050
+    },
+    "worldc2m2b31.wav": {
+        "length": 889,
+        "sr": 22050
+    },
+    "worldc2m2b32.wav": {
+        "length": 1780,
+        "sr": 22050
+    },
+    "worldc2m2b33.wav": {
+        "length": 4112,
+        "sr": 22050
+    },
+    "worldc2m2b34.wav": {
+        "length": 6533,
+        "sr": 22050
+    },
+    "worldc2m3b01.wav": {
+        "length": 3783,
+        "sr": 44100
+    },
+    "worldc2m3b02.wav": {
+        "length": 8085,
+        "sr": 44100
+    },
+    "worldc2m3b03.wav": {
+        "length": 6746,
+        "sr": 44100
+    },
+    "worldc2m3b04.wav": {
+        "length": 7511,
+        "sr": 44100
+    },
+    "worldc2m3b05.wav": {
+        "length": 1809,
+        "sr": 44100
+    },
+    "worldc2m3b06.wav": {
+        "length": 1766,
+        "sr": 22050
+    },
+    "worldc2m3b07.wav": {
+        "length": 927,
+        "sr": 44100
+    },
+    "worldc2m3b08.wav": {
+        "length": 760,
+        "sr": 22050
+    },
+    "worldc2m3b09.wav": {
+        "length": 3062,
+        "sr": 44100
+    },
+    "worldc2m3b10.wav": {
+        "length": 6947,
+        "sr": 44100
+    },
+    "worldc2m3b11.wav": {
+        "length": 4641,
+        "sr": 44100
+    },
+    "worldc2m3b12.wav": {
+        "length": 1919,
+        "sr": 44100
+    },
+    "worldc2m3b13.wav": {
+        "length": 1626,
+        "sr": 22050
+    },
+    "worldc2m3b14.wav": {
+        "length": 1867,
+        "sr": 22050
+    },
+    "worldc2m3b15.wav": {
+        "length": 1972,
+        "sr": 22050
+    },
+    "worldc2m3b16.wav": {
+        "length": 2420,
+        "sr": 44100
+    },
+    "worldc2m3b17.wav": {
+        "length": 1373,
+        "sr": 22050
+    },
+    "worldc2m3b18.wav": {
+        "length": 945,
+        "sr": 22050
+    },
+    "worldc2m3b19.wav": {
+        "length": 1068,
+        "sr": 44100
+    },
+    "worldc2m3b20.wav": {
+        "length": 1402,
+        "sr": 44100
+    },
+    "worldc2m3b21.wav": {
+        "length": 873,
+        "sr": 44100
+    },
+    "worldc2m3b22.wav": {
+        "length": 1521,
+        "sr": 44100
+    },
+    "worldc2m3b23.wav": {
+        "length": 1304,
+        "sr": 44100
+    },
+    "worldc2m3b24.wav": {
+        "length": 1138,
+        "sr": 44100
+    },
+    "worldc2m3b25.wav": {
+        "length": 1826,
+        "sr": 44100
+    },
+    "worldc2m3b26.wav": {
+        "length": 1971,
+        "sr": 44100
+    },
+    "worldc2m3b27.wav": {
+        "length": 791,
+        "sr": 44100
+    },
+    "worldc2m3b28.wav": {
+        "length": 738,
+        "sr": 44100
+    },
+    "worldc2m3b29.wav": {
+        "length": 858,
+        "sr": 44100
+    },
+    "worldc2m3b30.wav": {
+        "length": 877,
+        "sr": 22050
+    },
+    "worldc2m3b31.wav": {
+        "length": 1057,
+        "sr": 44100
+    },
+    "worldc2m4b01.wav": {
+        "length": 854,
+        "sr": 22050
+    },
+    "worldc2m4b02.wav": {
+        "length": 1140,
+        "sr": 44100
+    },
+    "worldc2m4b03.wav": {
+        "length": 1741,
+        "sr": 44100
+    },
+    "worldc2m4b04.wav": {
+        "length": 1973,
+        "sr": 44100
+    },
+    "worldc2m4b05.wav": {
+        "length": 2152,
+        "sr": 44100
+    },
+    "worldc2m5b01.wav": {
+        "length": 1994,
+        "sr": 22050
+    },
+    "worldc2m5b02.wav": {
+        "length": 7185,
+        "sr": 22050
+    },
+    "worldc2m5b03.wav": {
+        "length": 1569,
+        "sr": 44100
+    },
+    "worldc2m5b04.wav": {
+        "length": 1898,
+        "sr": 44100
+    },
+    "worldc2m5b05.wav": {
+        "length": 1402,
+        "sr": 44100
+    },
+    "worldc2m5b06.wav": {
+        "length": 5023,
+        "sr": 44100
+    },
+    "worldc2m5b07.wav": {
+        "length": 2013,
+        "sr": 44100
+    },
+    "worldc2m5b08.wav": {
+        "length": 3049,
+        "sr": 22050
+    },
+    "worldc2m5b09.wav": {
+        "length": 6638,
+        "sr": 44100
+    },
+    "worldc2m5b10.wav": {
+        "length": 2359,
+        "sr": 44100
+    },
+    "worldc2m5b11.wav": {
+        "length": 1495,
+        "sr": 44100
+    },
+    "worldc2m5b12.wav": {
+        "length": 902,
+        "sr": 22050
+    },
+    "worldc2m5b13.wav": {
+        "length": 868,
+        "sr": 44100
+    },
+    "worldc2m5b14.wav": {
+        "length": 730,
+        "sr": 22050
+    },
+    "worldc2m5b15.wav": {
+        "length": 600,
+        "sr": 44100
+    },
+    "worldc2m5b16.wav": {
+        "length": 1765,
+        "sr": 44100
+    },
+    "worldc2m5b17.wav": {
+        "length": 1290,
+        "sr": 44100
+    },
+    "worldc2m5b18.wav": {
+        "length": 1259,
+        "sr": 44100
+    },
+    "worldc2m5b19.wav": {
+        "length": 1389,
+        "sr": 44100
+    },
+    "worldc2m5b20.wav": {
+        "length": 1371,
+        "sr": 44100
+    },
+    "worldc2m5b21.wav": {
+        "length": 946,
+        "sr": 44100
+    },
+    "worldc2m5b22.wav": {
+        "length": 1001,
+        "sr": 22050
+    },
+    "worldc2m5b23.wav": {
+        "length": 840,
+        "sr": 44100
+    },
+    "worldc2m5b24.wav": {
+        "length": 1081,
+        "sr": 44100
+    },
+    "worldc2m5b25.wav": {
+        "length": 1317,
+        "sr": 44100
+    },
+    "worldc2m5b26.wav": {
+        "length": 1481,
+        "sr": 44100
+    },
+    "worldc2m5b27.wav": {
+        "length": 1001,
+        "sr": 44100
+    },
+    "worldc2m5b28.wav": {
+        "length": 1973,
+        "sr": 44100
+    },
+    "worldc2m5b29.wav": {
+        "length": 1467,
+        "sr": 44100
+    },
+    "worldc2m5b30.wav": {
+        "length": 412,
+        "sr": 44100
+    },
+    "worldc2m5b31.wav": {
+        "length": 869,
+        "sr": 44100
+    },
+    "worldc2m5b32.wav": {
+        "length": 1037,
+        "sr": 44100
+    },
+    "worldc2m5b33.wav": {
+        "length": 1008,
+        "sr": 44100
+    },
+    "worldc2m5b34.wav": {
+        "length": 2768,
+        "sr": 22050
+    },
+    "worldc2m5b35.wav": {
+        "length": 935,
+        "sr": 22050
+    },
+    "worldc2m5b36.wav": {
+        "length": 1942,
+        "sr": 22050
+    },
+    "worldc2m5b37.wav": {
+        "length": 2105,
+        "sr": 44100
+    },
+    "worldc2m5b38.wav": {
+        "length": 823,
+        "sr": 22050
+    },
+    "worldc2m5b39.wav": {
+        "length": 2036,
+        "sr": 44100
+    },
+    "worldc2m5b40.wav": {
+        "length": 2718,
+        "sr": 44100
+    },
+    "worldc2m5b41.wav": {
+        "length": 3099,
+        "sr": 22050
+    },
+    "worldc2m5b42.wav": {
+        "length": 3723,
+        "sr": 22050
+    },
+    "worldc2m5b43.wav": {
+        "length": 2009,
+        "sr": 22050
+    },
+    "worldc2m5b44.wav": {
+        "length": 2394,
+        "sr": 44100
+    },
+    "worldc2m5b45.wav": {
+        "length": 1868,
+        "sr": 44100
+    },
+    "worldc2m5b46.wav": {
+        "length": 2170,
+        "sr": 44100
+    },
+    "worldc2m5b47.wav": {
+        "length": 871,
+        "sr": 44100
+    },
+    "worldc2m5b48.wav": {
+        "length": 1902,
+        "sr": 22050
+    },
+    "worldc2m5b49.wav": {
+        "length": 1519,
+        "sr": 22050
+    },
+    "worldc2m5b50.wav": {
+        "length": 2782,
+        "sr": 44100
+    },
+    "worldc2m5b51.wav": {
+        "length": 1564,
+        "sr": 44100
+    },
+    "worldc2m5b52.wav": {
+        "length": 1837,
+        "sr": 44100
+    },
+    "worldc3m101.wav": {
+        "length": 4802,
+        "sr": 22050
+    },
+    "worldc3m102.wav": {
+        "length": 3487,
+        "sr": 22050
+    },
+    "worldc3m103.wav": {
+        "length": 3278,
+        "sr": 22050
+    },
+    "worldc3m104.wav": {
+        "length": 2581,
+        "sr": 44100
+    },
+    "worldc3m105.wav": {
+        "length": 2306,
+        "sr": 22050
+    },
+    "worldc3m106.wav": {
+        "length": 1875,
+        "sr": 22050
+    },
+    "worldc3m107.wav": {
+        "length": 1530,
+        "sr": 22050
+    },
+    "worldc3m108.wav": {
+        "length": 5363,
+        "sr": 22050
+    },
+    "worldc3m109.wav": {
+        "length": 5958,
+        "sr": 22050
+    },
+    "worldc3m110.wav": {
+        "length": 3326,
+        "sr": 22050
+    },
+    "worldc3m111.wav": {
+        "length": 1777,
+        "sr": 22050
+    },
+    "worldc3m112.wav": {
+        "length": 3203,
+        "sr": 44100
+    },
+    "worldc3m113.wav": {
+        "length": 4650,
+        "sr": 22050
+    },
+    "worldc3m114.wav": {
+        "length": 1224,
+        "sr": 44100
+    },
+    "worldc3m115.wav": {
+        "length": 1204,
+        "sr": 22050
+    },
+    "worldc3m116.wav": {
+        "length": 2285,
+        "sr": 22050
+    },
+    "worldc3m117.wav": {
+        "length": 999,
+        "sr": 22050
+    },
+    "worldc3m118.wav": {
+        "length": 820,
+        "sr": 22050
+    },
+    "worldc3m119.wav": {
+        "length": 1122,
+        "sr": 22050
+    },
+    "worldc3m120.wav": {
+        "length": 1118,
+        "sr": 22050
+    },
+    "worldc3m121.wav": {
+        "length": 1375,
+        "sr": 22050
+    },
+    "worldc3m122.wav": {
+        "length": 1112,
+        "sr": 22050
+    },
+    "worldc3m123.wav": {
+        "length": 925,
+        "sr": 44100
+    },
+    "worldc3m124.wav": {
+        "length": 1437,
+        "sr": 22050
+    },
+    "worldc3m125.wav": {
+        "length": 794,
+        "sr": 22050
+    },
+    "worldc3m126.wav": {
+        "length": 1156,
+        "sr": 22050
+    },
+    "worldc3m127.wav": {
+        "length": 858,
+        "sr": 22050
+    },
+    "worldc3m128.wav": {
+        "length": 1096,
+        "sr": 22050
+    },
+    "worldc3m129.wav": {
+        "length": 2024,
+        "sr": 22050
+    },
+    "worldc3m130.wav": {
+        "length": 4110,
+        "sr": 22050
+    },
+    "worldc3m131.wav": {
+        "length": 5100,
+        "sr": 22050
+    },
+    "worldc3m132.wav": {
+        "length": 2027,
+        "sr": 22050
+    },
+    "worldc3m133.wav": {
+        "length": 4768,
+        "sr": 22050
+    },
+    "worldc3m134.wav": {
+        "length": 1747,
+        "sr": 22050
+    },
+    "worldc3m135.wav": {
+        "length": 2025,
+        "sr": 22050
+    },
+    "worldc3m136.wav": {
+        "length": 2519,
+        "sr": 22050
+    },
+    "worldc3m137.wav": {
+        "length": 4879,
+        "sr": 22050
+    },
+    "worldc3m138.wav": {
+        "length": 1127,
+        "sr": 44100
+    },
+    "worldc3m139.wav": {
+        "length": 3171,
+        "sr": 22050
+    },
+    "worldc3m140.wav": {
+        "length": 883,
+        "sr": 22050
+    },
+    "worldc3m141.wav": {
+        "length": 786,
+        "sr": 22050
+    },
+    "worldc3m142.wav": {
+        "length": 2003,
+        "sr": 22050
+    },
+    "worldc3m143.wav": {
+        "length": 1434,
+        "sr": 22050
+    },
+    "worldc3m144.wav": {
+        "length": 1209,
+        "sr": 22050
+    },
+    "worldc3m145.wav": {
+        "length": 3821,
+        "sr": 44100
+    },
+    "worldc3m146.wav": {
+        "length": 1615,
+        "sr": 22050
+    },
+    "worldc3m147.wav": {
+        "length": 1752,
+        "sr": 22050
+    },
+    "worldc3m148.wav": {
+        "length": 1519,
+        "sr": 22050
+    },
+    "worldc3m149.wav": {
+        "length": 1846,
+        "sr": 22050
+    },
+    "worldc3m150.wav": {
+        "length": 2253,
+        "sr": 22050
+    },
+    "worldc3m151.wav": {
+        "length": 4301,
+        "sr": 22050
+    },
+    "worldc3m152.wav": {
+        "length": 834,
+        "sr": 22050
+    },
+    "worldc3m153.wav": {
+        "length": 1275,
+        "sr": 22050
+    },
+    "worldc3m154.wav": {
+        "length": 1733,
+        "sr": 22050
+    },
+    "worldc3m155.wav": {
+        "length": 963,
+        "sr": 22050
+    },
+    "worldc3m156.wav": {
+        "length": 1152,
+        "sr": 22050
+    },
+    "worldc3m157.wav": {
+        "length": 830,
+        "sr": 22050
+    },
+    "worldc3m158.wav": {
+        "length": 941,
+        "sr": 22050
+    },
+    "worldc3m159.wav": {
+        "length": 1405,
+        "sr": 22050
+    },
+    "worldc3m160.wav": {
+        "length": 904,
+        "sr": 44100
+    },
+    "worldc3m161.wav": {
+        "length": 1213,
+        "sr": 22050
+    },
+    "worldc3m162.wav": {
+        "length": 1747,
+        "sr": 22050
+    },
+    "worldc3m163.wav": {
+        "length": 1311,
+        "sr": 22050
+    },
+    "worldc3m164.wav": {
+        "length": 2140,
+        "sr": 22050
+    },
+    "worldc3m165.wav": {
+        "length": 1099,
+        "sr": 22050
+    },
+    "worldc3m1b01.wav": {
+        "length": 2381,
+        "sr": 22050
+    },
+    "worldc3m1b02.wav": {
+        "length": 6296,
+        "sr": 22050
+    },
+    "worldc3m1b03.wav": {
+        "length": 7373,
+        "sr": 44100
+    },
+    "worldc3m1b04.wav": {
+        "length": 1978,
+        "sr": 22050
+    },
+    "worldc3m1b05.wav": {
+        "length": 3350,
+        "sr": 44100
+    },
+    "worldc3m1b06.wav": {
+        "length": 5654,
+        "sr": 22050
+    },
+    "worldc3m1b07.wav": {
+        "length": 2930,
+        "sr": 22050
+    },
+    "worldc3m1b08.wav": {
+        "length": 3763,
+        "sr": 22050
+    },
+    "worldc3m1b09.wav": {
+        "length": 1986,
+        "sr": 22050
+    },
+    "worldc3m1b10.wav": {
+        "length": 1703,
+        "sr": 22050
+    },
+    "worldc3m1b11.wav": {
+        "length": 2260,
+        "sr": 22050
+    },
+    "worldc3m1b12.wav": {
+        "length": 1687,
+        "sr": 44100
+    },
+    "worldc3m201.wav": {
+        "length": 2914,
+        "sr": 22050
+    },
+    "worldc3m202.wav": {
+        "length": 1247,
+        "sr": 22050
+    },
+    "worldc3m203.wav": {
+        "length": 889,
+        "sr": 22050
+    },
+    "worldc3m204.wav": {
+        "length": 903,
+        "sr": 22050
+    },
+    "worldc3m205.wav": {
+        "length": 3966,
+        "sr": 22050
+    },
+    "worldc3m206.wav": {
+        "length": 1720,
+        "sr": 22050
+    },
+    "worldc3m207.wav": {
+        "length": 4032,
+        "sr": 44100
+    },
+    "worldc3m208.wav": {
+        "length": 2636,
+        "sr": 44100
+    },
+    "worldc3m209.wav": {
+        "length": 2314,
+        "sr": 22050
+    },
+    "worldc3m210.wav": {
+        "length": 2422,
+        "sr": 22050
+    },
+    "worldc3m211.wav": {
+        "length": 1161,
+        "sr": 22050
+    },
+    "worldc3m212.wav": {
+        "length": 1022,
+        "sr": 44100
+    },
+    "worldc3m213.wav": {
+        "length": 1049,
+        "sr": 44100
+    },
+    "worldc3m214.wav": {
+        "length": 902,
+        "sr": 44100
+    },
+    "worldc3m215.wav": {
+        "length": 2300,
+        "sr": 44100
+    },
+    "worldc3m216.wav": {
+        "length": 2591,
+        "sr": 22050
+    },
+    "worldc3m217.wav": {
+        "length": 1711,
+        "sr": 22050
+    },
+    "worldc3m218.wav": {
+        "length": 3999,
+        "sr": 22050
+    },
+    "worldc3m219.wav": {
+        "length": 1678,
+        "sr": 22050
+    },
+    "worldc3m220.wav": {
+        "length": 1241,
+        "sr": 22050
+    },
+    "worldc3m221.wav": {
+        "length": 1231,
+        "sr": 22050
+    },
+    "worldc3m222.wav": {
+        "length": 2904,
+        "sr": 22050
+    },
+    "worldc3m223.wav": {
+        "length": 700,
+        "sr": 22050
+    },
+    "worldc3m224.wav": {
+        "length": 1063,
+        "sr": 22050
+    },
+    "worldc3m225.wav": {
+        "length": 2306,
+        "sr": 22050
+    },
+    "worldc3m226.wav": {
+        "length": 1552,
+        "sr": 22050
+    },
+    "worldc3m227.wav": {
+        "length": 1011,
+        "sr": 22050
+    },
+    "worldc3m228.wav": {
+        "length": 2350,
+        "sr": 22050
+    },
+    "worldc3m229.wav": {
+        "length": 1570,
+        "sr": 22050
+    },
+    "worldc3m230.wav": {
+        "length": 3336,
+        "sr": 44100
+    },
+    "worldc3m231.wav": {
+        "length": 2530,
+        "sr": 44100
+    },
+    "worldc3m232.wav": {
+        "length": 1732,
+        "sr": 44100
+    },
+    "worldc3m233.wav": {
+        "length": 1165,
+        "sr": 22050
+    },
+    "worldc3m234.wav": {
+        "length": 1132,
+        "sr": 22050
+    },
+    "worldc3m235.wav": {
+        "length": 575,
+        "sr": 22050
+    },
+    "worldc3m236.wav": {
+        "length": 1547,
+        "sr": 22050
+    },
+    "worldc3m237.wav": {
+        "length": 2997,
+        "sr": 22050
+    },
+    "worldc3m238.wav": {
+        "length": 1392,
+        "sr": 22050
+    },
+    "worldc3m239.wav": {
+        "length": 2717,
+        "sr": 44100
+    },
+    "worldc3m240.wav": {
+        "length": 923,
+        "sr": 22050
+    },
+    "worldc3m241.wav": {
+        "length": 1612,
+        "sr": 22050
+    },
+    "worldc3m242.wav": {
+        "length": 3699,
+        "sr": 22050
+    },
+    "worldc3m243.wav": {
+        "length": 2235,
+        "sr": 22050
+    },
+    "worldc3m244.wav": {
+        "length": 1894,
+        "sr": 22050
+    },
+    "worldc3m245.wav": {
+        "length": 4794,
+        "sr": 22050
+    },
+    "worldc3m246.wav": {
+        "length": 3837,
+        "sr": 22050
+    },
+    "worldc3m247.wav": {
+        "length": 923,
+        "sr": 44100
+    },
+    "worldc3m248.wav": {
+        "length": 1328,
+        "sr": 22050
+    },
+    "worldc3m249.wav": {
+        "length": 1764,
+        "sr": 22050
+    },
+    "worldc3m250.wav": {
+        "length": 1365,
+        "sr": 22050
+    },
+    "worldc3m251.wav": {
+        "length": 1201,
+        "sr": 22050
+    },
+    "worldc3m252.wav": {
+        "length": 1350,
+        "sr": 22050
+    },
+    "worldc3m253.wav": {
+        "length": 919,
+        "sr": 22050
+    },
+    "worldc3m301.wav": {
+        "length": 1541,
+        "sr": 44100
+    },
+    "worldc3m302.wav": {
+        "length": 2903,
+        "sr": 44100
+    },
+    "worldc3m303.wav": {
+        "length": 2104,
+        "sr": 22050
+    },
+    "worldc3m304.wav": {
+        "length": 2996,
+        "sr": 22050
+    },
+    "worldc3m305.wav": {
+        "length": 4391,
+        "sr": 22050
+    },
+    "worldc3m306.wav": {
+        "length": 3007,
+        "sr": 44100
+    },
+    "worldc3m307.wav": {
+        "length": 3158,
+        "sr": 44100
+    },
+    "worldc3m308.wav": {
+        "length": 2232,
+        "sr": 22050
+    },
+    "worldc3m309.wav": {
+        "length": 2041,
+        "sr": 44100
+    },
+    "worldc3m310.wav": {
+        "length": 1172,
+        "sr": 22050
+    },
+    "worldc3m311.wav": {
+        "length": 1662,
+        "sr": 44100
+    },
+    "worldc3m312.wav": {
+        "length": 1327,
+        "sr": 22050
+    },
+    "worldc3m313.wav": {
+        "length": 4955,
+        "sr": 22050
+    },
+    "worldc3m314.wav": {
+        "length": 1529,
+        "sr": 44100
+    },
+    "worldc3m315.wav": {
+        "length": 1961,
+        "sr": 22050
+    },
+    "worldc3m316.wav": {
+        "length": 2215,
+        "sr": 44100
+    },
+    "worldc3m317.wav": {
+        "length": 1691,
+        "sr": 22050
+    },
+    "worldc3m318.wav": {
+        "length": 1742,
+        "sr": 44100
+    },
+    "worldc3m319.wav": {
+        "length": 913,
+        "sr": 22050
+    },
+    "worldc3m320.wav": {
+        "length": 1015,
+        "sr": 22050
+    },
+    "worldc3m321.wav": {
+        "length": 2456,
+        "sr": 44100
+    },
+    "worldc3m322.wav": {
+        "length": 1067,
+        "sr": 22050
+    },
+    "worldc3m323.wav": {
+        "length": 686,
+        "sr": 22050
+    },
+    "worldc3m324.wav": {
+        "length": 1335,
+        "sr": 22050
+    },
+    "worldc3m325.wav": {
+        "length": 855,
+        "sr": 22050
+    },
+    "worldc3m326.wav": {
+        "length": 1008,
+        "sr": 22050
+    },
+    "worldc3m327.wav": {
+        "length": 1327,
+        "sr": 44100
+    },
+    "worldc3m328.wav": {
+        "length": 4092,
+        "sr": 44100
+    },
+    "worldc3m329.wav": {
+        "length": 2039,
+        "sr": 44100
+    },
+    "worldc3m330.wav": {
+        "length": 1779,
+        "sr": 22050
+    },
+    "worldc3m331.wav": {
+        "length": 1720,
+        "sr": 22050
+    },
+    "worldc3m332.wav": {
+        "length": 1749,
+        "sr": 22050
+    },
+    "worldc3m333.wav": {
+        "length": 1340,
+        "sr": 22050
+    },
+    "worldc3m334.wav": {
+        "length": 864,
+        "sr": 22050
+    },
+    "worldc3m335.wav": {
+        "length": 1000,
+        "sr": 22050
+    },
+    "worldc3m336.wav": {
+        "length": 2060,
+        "sr": 22050
+    },
+    "worldc3m337.wav": {
+        "length": 1621,
+        "sr": 22050
+    },
+    "worldc3m338.wav": {
+        "length": 1680,
+        "sr": 22050
+    },
+    "worldc3m339.wav": {
+        "length": 1186,
+        "sr": 44100
+    },
+    "worldc3m340.wav": {
+        "length": 1291,
+        "sr": 22050
+    },
+    "worldc3m341.wav": {
+        "length": 910,
+        "sr": 22050
+    },
+    "worldc3m342.wav": {
+        "length": 1064,
+        "sr": 22050
+    },
+    "worldc3m343.wav": {
+        "length": 1275,
+        "sr": 22050
+    },
+    "worldc3m344.wav": {
+        "length": 1243,
+        "sr": 22050
+    },
+    "worldc3m345.wav": {
+        "length": 874,
+        "sr": 22050
+    },
+    "worldc3m346.wav": {
+        "length": 1404,
+        "sr": 22050
+    },
+    "worldc3m347.wav": {
+        "length": 961,
+        "sr": 22050
+    },
+    "worldc3m348.wav": {
+        "length": 1155,
+        "sr": 22050
+    },
+    "worldc3m401.wav": {
+        "length": 2598,
+        "sr": 44100
+    },
+    "worldc3m402.wav": {
+        "length": 1237,
+        "sr": 22050
+    },
+    "worldc3m403.wav": {
+        "length": 689,
+        "sr": 22050
+    },
+    "worldc3m404.wav": {
+        "length": 1407,
+        "sr": 22050
+    },
+    "worldc3m405.wav": {
+        "length": 1343,
+        "sr": 44100
+    },
+    "worldc3m406.wav": {
+        "length": 1919,
+        "sr": 44100
+    },
+    "worldc3m407.wav": {
+        "length": 3465,
+        "sr": 44100
+    },
+    "worldc3m408.wav": {
+        "length": 2887,
+        "sr": 44100
+    },
+    "worldc3m409.wav": {
+        "length": 840,
+        "sr": 44100
+    },
+    "worldc3m410.wav": {
+        "length": 1163,
+        "sr": 22050
+    },
+    "worldc3m411.wav": {
+        "length": 1944,
+        "sr": 44100
+    },
+    "worldc3m412.wav": {
+        "length": 2983,
+        "sr": 44100
+    },
+    "worldc3m413.wav": {
+        "length": 1681,
+        "sr": 44100
+    },
+    "worldc3m414.wav": {
+        "length": 1225,
+        "sr": 44100
+    },
+    "worldc3m415.wav": {
+        "length": 1364,
+        "sr": 44100
+    },
+    "worldc3m416.wav": {
+        "length": 1730,
+        "sr": 44100
+    },
+    "worldc3m417.wav": {
+        "length": 2066,
+        "sr": 44100
+    },
+    "worldc3m418.wav": {
+        "length": 1423,
+        "sr": 44100
+    },
+    "worldc3m419.wav": {
+        "length": 2115,
+        "sr": 44100
+    },
+    "worldc3m420.wav": {
+        "length": 1107,
+        "sr": 22050
+    },
+    "worldc3m421.wav": {
+        "length": 2410,
+        "sr": 44100
+    },
+    "worldc3m422.wav": {
+        "length": 1497,
+        "sr": 44100
+    },
+    "worldc3m423.wav": {
+        "length": 989,
+        "sr": 22050
+    },
+    "worldc3m424.wav": {
+        "length": 1128,
+        "sr": 22050
+    },
+    "worldc3m425.wav": {
+        "length": 2107,
+        "sr": 44100
+    },
+    "worldc3m426.wav": {
+        "length": 1069,
+        "sr": 44100
+    },
+    "worldc3m427.wav": {
+        "length": 1993,
+        "sr": 44100
+    },
+    "worldc3m428.wav": {
+        "length": 1992,
+        "sr": 44100
+    },
+    "worldc3m429.wav": {
+        "length": 1627,
+        "sr": 22050
+    },
+    "worldc3m430.wav": {
+        "length": 803,
+        "sr": 44100
+    },
+    "worldc3m431.wav": {
+        "length": 1451,
+        "sr": 44100
+    },
+    "worldc3m432.wav": {
+        "length": 4690,
+        "sr": 44100
+    },
+    "worldc3m433.wav": {
+        "length": 3081,
+        "sr": 44100
+    },
+    "worldc3m434.wav": {
+        "length": 2001,
+        "sr": 44100
+    },
+    "worldc3m435.wav": {
+        "length": 1003,
+        "sr": 44100
+    },
+    "worldc3m436.wav": {
+        "length": 2352,
+        "sr": 44100
+    },
+    "worldc3m437.wav": {
+        "length": 1447,
+        "sr": 44100
+    },
+    "worldc4m101.wav": {
+        "length": 959,
+        "sr": 22050
+    },
+    "worldc4m102.wav": {
+        "length": 1407,
+        "sr": 44100
+    },
+    "worldc4m103.wav": {
+        "length": 1232,
+        "sr": 22050
+    },
+    "worldc4m104.wav": {
+        "length": 4722,
+        "sr": 44100
+    },
+    "worldc4m105.wav": {
+        "length": 1986,
+        "sr": 44100
+    },
+    "worldc4m106.wav": {
+        "length": 4048,
+        "sr": 44100
+    },
+    "worldc4m107.wav": {
+        "length": 3027,
+        "sr": 44100
+    },
+    "worldc4m108.wav": {
+        "length": 1810,
+        "sr": 44100
+    },
+    "worldc4m109.wav": {
+        "length": 951,
+        "sr": 44100
+    },
+    "worldc4m110.wav": {
+        "length": 1015,
+        "sr": 44100
+    },
+    "worldc4m111.wav": {
+        "length": 2288,
+        "sr": 44100
+    },
+    "worldc4m112.wav": {
+        "length": 1464,
+        "sr": 44100
+    },
+    "worldc4m113.wav": {
+        "length": 1184,
+        "sr": 44100
+    },
+    "worldc4m114.wav": {
+        "length": 2263,
+        "sr": 44100
+    },
+    "worldc4m115.wav": {
+        "length": 839,
+        "sr": 44100
+    },
+    "worldc4m116.wav": {
+        "length": 1399,
+        "sr": 44100
+    },
+    "worldc4m117.wav": {
+        "length": 1543,
+        "sr": 44100
+    },
+    "worldc4m118.wav": {
+        "length": 3271,
+        "sr": 44100
+    },
+    "worldc4m119.wav": {
+        "length": 2278,
+        "sr": 44100
+    },
+    "worldc4m120.wav": {
+        "length": 4001,
+        "sr": 44100
+    },
+    "worldc4m121.wav": {
+        "length": 4380,
+        "sr": 44100
+    },
+    "worldc4m122.wav": {
+        "length": 3399,
+        "sr": 44100
+    },
+    "worldc4m1b01.wav": {
+        "length": 5421,
+        "sr": 44100
+    },
+    "worldc4m1b02.wav": {
+        "length": 2163,
+        "sr": 44100
+    },
+    "worldc4m1b03.wav": {
+        "length": 4193,
+        "sr": 22050
+    },
+    "worldc4m1b04.wav": {
+        "length": 1145,
+        "sr": 44100
+    },
+    "worldc4m1b05.wav": {
+        "length": 1815,
+        "sr": 44100
+    },
+    "worldc4m1b06.wav": {
+        "length": 2880,
+        "sr": 44100
+    },
+    "worldc4m1b07.wav": {
+        "length": 1076,
+        "sr": 22050
+    },
+    "worldc4m1b08.wav": {
+        "length": 3539,
+        "sr": 44100
+    },
+    "worldc4m1b09.wav": {
+        "length": 2988,
+        "sr": 22050
+    },
+    "worldc4m1b10.wav": {
+        "length": 866,
+        "sr": 22050
+    },
+    "worldc4m1b11.wav": {
+        "length": 1049,
+        "sr": 22050
+    },
+    "worldc4m1b12.wav": {
+        "length": 1747,
+        "sr": 22050
+    },
+    "worldc4m1b13.wav": {
+        "length": 1761,
+        "sr": 22050
+    },
+    "worldc4m1b14.wav": {
+        "length": 1133,
+        "sr": 44100
+    },
+    "worldc4m1b15.wav": {
+        "length": 1104,
+        "sr": 44100
+    },
+    "worldc4m1b16.wav": {
+        "length": 1030,
+        "sr": 44100
+    },
+    "worldc4m2b01.wav": {
+        "length": 2095,
+        "sr": 22050
+    },
+    "worldc4m2b02.wav": {
+        "length": 1106,
+        "sr": 22050
+    },
+    "worldc4m2b03.wav": {
+        "length": 1772,
+        "sr": 22050
+    },
+    "worldc4m2b04.wav": {
+        "length": 2314,
+        "sr": 22050
+    },
+    "worldc4m2b05.wav": {
+        "length": 1442,
+        "sr": 22050
+    },
+    "worldc4m2b06.wav": {
+        "length": 2401,
+        "sr": 22050
+    },
+    "worldc4m2b07.wav": {
+        "length": 2820,
+        "sr": 44100
+    },
+    "worldc4m2b08.wav": {
+        "length": 2224,
+        "sr": 22050
+    },
+    "worldc4m2b09.wav": {
+        "length": 3392,
+        "sr": 44100
+    },
+    "worldc4m2b10.wav": {
+        "length": 1120,
+        "sr": 44100
+    },
+    "worldc4m2b11.wav": {
+        "length": 868,
+        "sr": 22050
+    },
+    "worldc4m2b12.wav": {
+        "length": 828,
+        "sr": 44100
+    },
+    "worldc4m2b13.wav": {
+        "length": 2039,
+        "sr": 22050
+    },
+    "worldc4m2b14.wav": {
+        "length": 1005,
+        "sr": 44100
+    },
+    "worldc4m2b15.wav": {
+        "length": 1785,
+        "sr": 44100
+    },
+    "worldc4m2b16.wav": {
+        "length": 1989,
+        "sr": 22050
+    },
+    "worldc4m2b17.wav": {
+        "length": 1528,
+        "sr": 44100
+    },
+    "worldc4m2b18.wav": {
+        "length": 912,
+        "sr": 22050
+    },
+    "worldc4m2b19.wav": {
+        "length": 463,
+        "sr": 44100
+    },
+    "worldc4m2b20.wav": {
+        "length": 1617,
+        "sr": 22050
+    },
+    "worldc4m2b21.wav": {
+        "length": 1025,
+        "sr": 44100
+    },
+    "worldc4m2b22.wav": {
+        "length": 793,
+        "sr": 44100
+    },
+    "worldc4m2b23.wav": {
+        "length": 2067,
+        "sr": 22050
+    },
+    "worldc4m2b24.wav": {
+        "length": 1116,
+        "sr": 22050
+    },
+    "worldc4m2b25.wav": {
+        "length": 806,
+        "sr": 22050
+    },
+    "worldc4m2b26.wav": {
+        "length": 1592,
+        "sr": 22050
+    },
+    "worldc4m2b27.wav": {
+        "length": 643,
+        "sr": 22050
+    },
+    "worldc4m2b28.wav": {
+        "length": 1415,
+        "sr": 22050
+    },
+    "worldc4m2b29.wav": {
+        "length": 1785,
+        "sr": 22050
+    },
+    "worldc4m3b01.wav": {
+        "length": 5364,
+        "sr": 22050
+    },
+    "worldc4m3b02.wav": {
+        "length": 921,
+        "sr": 44100
+    },
+    "worldc4m3b03.wav": {
+        "length": 1364,
+        "sr": 22050
+    },
+    "worldc4m4b01.wav": {
+        "length": 1059,
+        "sr": 22050
+    },
+    "worldc4m4b02.wav": {
+        "length": 1691,
+        "sr": 44100
+    },
+    "worldc4m4b03.wav": {
+        "length": 1844,
+        "sr": 22050
+    },
+    "worldc4m4b04.wav": {
+        "length": 2000,
+        "sr": 22050
+    },
+    "worldc4m4b05.wav": {
+        "length": 1572,
+        "sr": 44100
+    },
+    "worldc4m4b06.wav": {
+        "length": 1407,
+        "sr": 22050
+    },
+    "worldc4m4b07.wav": {
+        "length": 2461,
+        "sr": 22050
+    },
+    "worldc4m4b08.wav": {
+        "length": 1374,
+        "sr": 44100
+    },
+    "worldc4m4b09.wav": {
+        "length": 2190,
+        "sr": 44100
+    },
+    "worldc4m4b10.wav": {
+        "length": 1145,
+        "sr": 22050
+    },
+    "worldc4m4b11.wav": {
+        "length": 3064,
+        "sr": 44100
+    },
+    "worldc4m4b12.wav": {
+        "length": 1518,
+        "sr": 44100
+    },
+    "worldc4m4b13.wav": {
+        "length": 7026,
+        "sr": 44100
+    },
+    "worldc4m4b14.wav": {
+        "length": 961,
+        "sr": 44100
+    },
+    "worldc4m4b15.wav": {
+        "length": 1037,
+        "sr": 22050
+    },
+    "worldc4m4b16.wav": {
+        "length": 1932,
+        "sr": 22050
+    },
+    "worldc4m4b17.wav": {
+        "length": 1107,
+        "sr": 44100
+    },
+    "worldc4m4b18.wav": {
+        "length": 1491,
+        "sr": 44100
+    },
+    "worldc4m4b19.wav": {
+        "length": 1062,
+        "sr": 44100
+    },
+    "worldc4m4b20.wav": {
+        "length": 1072,
+        "sr": 44100
+    },
+    "worldc4m4b21.wav": {
+        "length": 1889,
+        "sr": 44100
+    },
+    "worldc4m4b22.wav": {
+        "length": 1426,
+        "sr": 22050
+    },
+    "worldc4m4b23.wav": {
+        "length": 871,
+        "sr": 22050
+    },
+    "worldc5m1b01.wav": {
+        "length": 1760,
+        "sr": 44100
+    },
+    "worldc5m1b02.wav": {
+        "length": 5104,
+        "sr": 44100
+    },
+    "worldc5m2b01.wav": {
+        "length": 1678,
+        "sr": 44100
+    },
+    "worldc5m2b02.wav": {
+        "length": 2164,
+        "sr": 44100
+    },
+    "worldc5m2b03.wav": {
+        "length": 1973,
+        "sr": 44100
+    },
+    "worldc5m2b04.wav": {
+        "length": 2180,
+        "sr": 44100
+    },
+    "worldc5m2b05.wav": {
+        "length": 864,
+        "sr": 22050
+    },
+    "worldc5m2b06.wav": {
+        "length": 1182,
+        "sr": 22050
+    },
+    "worldc5m2b07.wav": {
+        "length": 697,
+        "sr": 22050
+    },
+    "worldc5m2b08.wav": {
+        "length": 989,
+        "sr": 22050
+    },
+    "worldc5m2b09.wav": {
+        "length": 744,
+        "sr": 22050
+    },
+    "worldc5m2b10.wav": {
+        "length": 706,
+        "sr": 44100
+    },
+    "worldc5m2b11.wav": {
+        "length": 467,
+        "sr": 44100
+    },
+    "worldc5m2b12.wav": {
+        "length": 457,
+        "sr": 22050
+    },
+    "worldc5m3b01.wav": {
+        "length": 1873,
+        "sr": 44100
+    },
+    "worldc5m3b02.wav": {
+        "length": 1693,
+        "sr": 44100
+    },
+    "worldc5m3b03.wav": {
+        "length": 2282,
+        "sr": 22050
+    },
+    "worldc5m3b04.wav": {
+        "length": 3905,
+        "sr": 44100
+    },
+    "worldc5m3b05.wav": {
+        "length": 2408,
+        "sr": 22050
+    },
+    "worldc5m3b06.wav": {
+        "length": 2215,
+        "sr": 44100
+    },
+    "worldc5m3b07.wav": {
+        "length": 1927,
+        "sr": 44100
+    },
+    "worldc5m3b08.wav": {
+        "length": 855,
+        "sr": 22050
+    },
+    "worldc5m3b09.wav": {
+        "length": 1498,
+        "sr": 44100
+    },
+    "worldc5m3b10.wav": {
+        "length": 3264,
+        "sr": 44100
+    },
+    "worldc5m3b11.wav": {
+        "length": 1998,
+        "sr": 22050
+    },
+    "worldc5m3b12.wav": {
+        "length": 1066,
+        "sr": 44100
+    },
+    "worldc5m3b13.wav": {
+        "length": 1228,
+        "sr": 44100
+    },
+    "worldc5m4b01.wav": {
+        "length": 2103,
+        "sr": 22050
+    },
+    "worldc5m4b02.wav": {
+        "length": 888,
+        "sr": 44100
+    },
+    "worldc5m4b03.wav": {
+        "length": 968,
+        "sr": 22050
+    },
+    "worldc5m4b04.wav": {
+        "length": 3121,
+        "sr": 22050
+    },
+    "worldc5m501.wav": {
+        "length": 580,
+        "sr": 44100
+    },
+    "worldc5m502.wav": {
+        "length": 2694,
+        "sr": 44100
+    },
+    "worldc5m503.wav": {
+        "length": 2375,
+        "sr": 44100
+    },
+    "worldc5m504.wav": {
+        "length": 3926,
+        "sr": 44100
+    },
+    "worldc5m505.wav": {
+        "length": 1670,
+        "sr": 44100
+    },
+    "worldc5m5b01.wav": {
+        "length": 819,
+        "sr": 22050
+    },
+    "worldc5m5b02.wav": {
+        "length": 1575,
+        "sr": 22050
+    },
+    "worldc5m5b03.wav": {
+        "length": 3655,
+        "sr": 44100
+    },
+    "worldc5m5b04.wav": {
+        "length": 455,
+        "sr": 22050
+    },
+    "worldc5m5b05.wav": {
+        "length": 4834,
+        "sr": 22050
+    },
+    "worldc5m5b06.wav": {
+        "length": 1991,
+        "sr": 22050
+    },
+    "worldc5m5b07.wav": {
+        "length": 2028,
+        "sr": 22050
+    },
+    "worldc5m5b08.wav": {
+        "length": 2282,
+        "sr": 44100
+    },
+    "worldc5m5b09.wav": {
+        "length": 2026,
+        "sr": 22050
+    },
+    "worldc5m5b10.wav": {
+        "length": 9441,
+        "sr": 44100
+    },
+    "worldc5m5b11.wav": {
+        "length": 2398,
+        "sr": 22050
+    },
+    "worldc5m5b12.wav": {
+        "length": 1401,
+        "sr": 22050
+    },
+    "worldc5m5b13.wav": {
+        "length": 651,
+        "sr": 44100
+    },
+    "worldc5m5b14.wav": {
+        "length": 1651,
+        "sr": 22050
+    },
+    "worldc5m5b15.wav": {
+        "length": 2599,
+        "sr": 44100
+    },
+    "worldc5m5b16.wav": {
+        "length": 1513,
+        "sr": 44100
+    },
+    "worldc5m5b17.wav": {
+        "length": 843,
+        "sr": 44100
+    },
+    "worldc5m5b18.wav": {
+        "length": 1970,
+        "sr": 44100
+    },
+    "worldc5m5b19.wav": {
+        "length": 1002,
+        "sr": 22050
+    },
+    "worldc5m5b20.wav": {
+        "length": 1221,
+        "sr": 44100
+    },
+    "worldc5m5b21.wav": {
+        "length": 1130,
+        "sr": 44100
+    },
+    "worldc5m5b22.wav": {
+        "length": 953,
+        "sr": 22050
+    },
+    "worldc5m5b23.wav": {
+        "length": 2996,
+        "sr": 44100
+    },
+    "worldc5m5b24.wav": {
+        "length": 1930,
+        "sr": 44100
+    },
+    "worldgeneric01.wav": {
+        "length": 2954,
+        "sr": 44100
+    },
+    "worldgeneric02.wav": {
+        "length": 3145,
+        "sr": 44100
+    },
+    "worldgenericproducer01.wav": {
+        "length": 2428,
+        "sr": 44100
+    },
+    "worldgenericproducer02.wav": {
+        "length": 1256,
+        "sr": 44100
+    },
+    "worldgenericproducer03.wav": {
+        "length": 722,
+        "sr": 44100
+    },
+    "worldgenericproducer04.wav": {
+        "length": 1943,
+        "sr": 44100
+    },
+    "worldgenericproducer05.wav": {
+        "length": 5685,
+        "sr": 44100
+    },
+    "worldgenericproducer06.wav": {
+        "length": 2874,
+        "sr": 44100
+    },
+    "worldgenericproducer07.wav": {
+        "length": 2879,
+        "sr": 44100
+    },
+    "worldgenericproducer08.wav": {
+        "length": 4138,
+        "sr": 44100
+    },
+    "worldgenericproducer09.wav": {
+        "length": 6675,
+        "sr": 44100
+    },
+    "worldgenericproducer10.wav": {
+        "length": 1287,
+        "sr": 22050
+    },
+    "worldgenericproducer11.wav": {
+        "length": 1293,
+        "sr": 22050
+    },
+    "worldgenericproducer12.wav": {
+        "length": 1300,
+        "sr": 22050
+    },
+    "worldgenericproducer13.wav": {
+        "length": 1190,
+        "sr": 22050
+    },
+    "worldgenericproducer14.wav": {
+        "length": 1016,
+        "sr": 22050
+    },
+    "worldgenericproducer15.wav": {
+        "length": 1178,
+        "sr": 22050
+    },
+    "worldgenericproducer16.wav": {
+        "length": 1996,
+        "sr": 44100
+    },
+    "worldgenericproducer17.wav": {
+        "length": 1074,
+        "sr": 22050
+    },
+    "worldgenericproducer18.wav": {
+        "length": 981,
+        "sr": 22050
+    },
+    "worldgenericproducer19.wav": {
+        "length": 1219,
+        "sr": 22050
+    },
+    "worldgenericproducer20.wav": {
+        "length": 1902,
+        "sr": 22050
+    },
+    "worldgenericproducer21.wav": {
+        "length": 2264,
+        "sr": 44100
+    },
+    "worldgenericproducer22.wav": {
+        "length": 1983,
+        "sr": 44100
+    },
+    "worldgenericproducer23.wav": {
+        "length": 900,
+        "sr": 44100
+    },
+    "worldgenericproducer24.wav": {
+        "length": 3328,
+        "sr": 44100
+    },
+    "worldgenericproducer25.wav": {
+        "length": 3583,
+        "sr": 44100
+    },
+    "worldgenericproducer26.wav": {
+        "length": 3169,
+        "sr": 44100
+    },
+    "worldgenericproducer27.wav": {
+        "length": 4308,
+        "sr": 44100
+    },
+    "worldgenericproducer28.wav": {
+        "length": 4725,
+        "sr": 44100
+    },
+    "worldgenericproducer29.wav": {
+        "length": 2384,
+        "sr": 44100
+    },
+    "worldgenericproducer30.wav": {
+        "length": 3343,
+        "sr": 44100
+    },
+    "worldgenericproducer31.wav": {
+        "length": 5647,
+        "sr": 44100
+    },
+    "worldgenericproducer32.wav": {
+        "length": 5273,
+        "sr": 44100
+    },
+    "worldgenericproducer33.wav": {
+        "length": 4538,
+        "sr": 44100
+    },
+    "worldgenericproducer34.wav": {
+        "length": 3066,
+        "sr": 44100
+    },
+    "worldgenericproducer35.wav": {
+        "length": 1080,
+        "sr": 22050
+    },
+    "worldgenericproducer36.wav": {
+        "length": 849,
+        "sr": 22050
+    },
+    "worldgenericproducer37.wav": {
+        "length": 2364,
+        "sr": 44100
+    },
+    "worldgenericproducer38.wav": {
+        "length": 2972,
+        "sr": 44100
+    },
+    "worldgenericproducer39.wav": {
+        "length": 3414,
+        "sr": 44100
+    },
+    "worldgenericproducer40.wav": {
+        "length": 5130,
+        "sr": 44100
+    },
+    "worldgenericproducer41.wav": {
+        "length": 2695,
+        "sr": 22050
+    },
+    "worldgenericproducer42.wav": {
+        "length": 1207,
+        "sr": 22050
+    },
+    "worldgenericproducer43.wav": {
+        "length": 875,
+        "sr": 44100
+    },
+    "worldgenericproducer44.wav": {
+        "length": 754,
+        "sr": 22050
+    },
+    "worldgenericproducer45.wav": {
+        "length": 2467,
+        "sr": 22050
+    },
+    "worldgenericproducer46.wav": {
+        "length": 2849,
+        "sr": 22050
+    },
+    "worldgenericproducer47.wav": {
+        "length": 440,
+        "sr": 22050
+    },
+    "worldgenericproducer48.wav": {
+        "length": 555,
+        "sr": 22050
+    },
+    "worldgenericproducer49.wav": {
+        "length": 1195,
+        "sr": 22050
+    },
+    "worldgenericproducer50.wav": {
+        "length": 1932,
+        "sr": 22050
+    },
+    "worldgenericproducer51.wav": {
+        "length": 1805,
+        "sr": 44100
+    },
+    "worldgenericproducer52.wav": {
+        "length": 11120,
+        "sr": 22050
+    },
+    "worldgenericproducer53.wav": {
+        "length": 11653,
+        "sr": 22050
+    },
+    "worldgenericproducer54.wav": {
+        "length": 4310,
+        "sr": 22050
+    },
+    "worldgenericproducer55.wav": {
+        "length": 2688,
+        "sr": 22050
+    },
+    "worldgenericproducer56.wav": {
+        "length": 5051,
+        "sr": 22050
+    },
+    "worldgenericproducer57.wav": {
+        "length": 6283,
+        "sr": 22050
+    },
+    "worldgenericproducer58.wav": {
+        "length": 3325,
+        "sr": 44100
+    },
+    "worldgenericproducer59.wav": {
+        "length": 7461,
+        "sr": 44100
+    },
+    "worldgenericproducer60.wav": {
+        "length": 3072,
+        "sr": 44100
+    },
+    "worldgenericproducer61.wav": {
+        "length": 3927,
+        "sr": 22050
+    },
+    "worldgenericproducer61_work.wav": {
+        "length": 3927,
+        "sr": 22050
+    },
+    "worldgenericproducer61_work_work.wav": {
+        "length": 3927,
+        "sr": 22050
+    },
+    "worldgenericproducer62.wav": {
+        "length": 2573,
+        "sr": 22050
+    },
+    "worldgenericproducer63.wav": {
+        "length": 648,
+        "sr": 22050
+    },
+    "worldgenericproducer64.wav": {
+        "length": 7728,
+        "sr": 44100
+    },
+    "worldgenericproducer65.wav": {
+        "length": 1889,
+        "sr": 22050
+    },
+    "worldgenericproducer66.wav": {
+        "length": 4068,
+        "sr": 22050
+    },
+    "worldgenericproducer67.wav": {
+        "length": 651,
+        "sr": 22050
+    },
+    "worldgenericproducer68.wav": {
+        "length": 8347,
+        "sr": 44100
+    },
+    "worldgenericproducer69.wav": {
+        "length": 1027,
+        "sr": 22050
+    },
+    "worldgenericproducer70.wav": {
+        "length": 2732,
+        "sr": 22050
+    },
+    "worldgenericproducer71.wav": {
+        "length": 4637,
+        "sr": 22050
+    },
+    "worldgenericproducer72.wav": {
+        "length": 3454,
+        "sr": 44100
+    },
+    "worldgenericproducer73.wav": {
+        "length": 4308,
+        "sr": 44100
+    },
+    "worldgenericproducer74.wav": {
+        "length": 858,
+        "sr": 22050
+    },
+    "worldgenericproducer75.wav": {
+        "length": 1883,
+        "sr": 44100
+    },
+    "worldgenericproducer76.wav": {
+        "length": 2093,
+        "sr": 44100
+    },
+    "worldgenericproducer77.wav": {
+        "length": 1034,
+        "sr": 22050
+    },
+    "worldgenericproducer78.wav": {
+        "length": 862,
+        "sr": 22050
+    },
+    "worldgenericproducer79.wav": {
+        "length": 1592,
+        "sr": 22050
+    },
+    "worldgenericproducer80.wav": {
+        "length": 4412,
+        "sr": 44100
+    },
+    "worldgenericproducer81.wav": {
+        "length": 3361,
+        "sr": 22050
+    },
+    "worldgenericproducer82.wav": {
+        "length": 1423,
+        "sr": 44100
+    },
+    "worldgenericproducer83.wav": {
+        "length": 1707,
+        "sr": 44100
+    },
+    "worldgenericproducer84.wav": {
+        "length": 2015,
+        "sr": 44100
+    },
+    "worldgenericproducer85.wav": {
+        "length": 1141,
+        "sr": 44100
+    },
+    "worldgenericproducer86.wav": {
+        "length": 1792,
+        "sr": 44100
+    },
+    "worldgenericproducer87.wav": {
+        "length": 1519,
+        "sr": 44100
+    },
+    "worldgenericproducer88.wav": {
+        "length": 1334,
+        "sr": 44100
+    },
+    "worldgenericproducer89.wav": {
+        "length": 1400,
+        "sr": 44100
+    },
+    "worldgenericproducer90.wav": {
+        "length": 1729,
+        "sr": 44100
+    },
+    "worldgenericproducer91.wav": {
+        "length": 1505,
+        "sr": 44100
+    },
+    "worldgenericproducer92.wav": {
+        "length": 2166,
+        "sr": 44100
+    },
+    "worldgenericproducer93.wav": {
+        "length": 1656,
+        "sr": 44100
+    },
+    "worldsigns01.wav": {
+        "length": 3699,
+        "sr": 22050
+    },
+    "worldsigns02.wav": {
+        "length": 2442,
+        "sr": 44100
+    },
+    "worldsigns03.wav": {
+        "length": 3154,
+        "sr": 22050
+    },
+    "worldsigns04.wav": {
+        "length": 7614,
+        "sr": 44100
+    },
+    "worldsigns05.wav": {
+        "length": 2413,
+        "sr": 44100
+    },
+    "yellrun01.wav": {
+        "length": 997,
+        "sr": 22050
+    },
+    "yellrun02.wav": {
+        "length": 684,
+        "sr": 22050
+    },
+    "yellrun03.wav": {
+        "length": 1274,
+        "sr": 22050
+    },
+    "yellrun04.wav": {
+        "length": 671,
+        "sr": 22050
+    },
+    "yes01.wav": {
+        "length": 754,
+        "sr": 22050
+    },
+    "yes02.wav": {
+        "length": 776,
+        "sr": 22050
+    },
+    "yes03.wav": {
+        "length": 416,
+        "sr": 22050
+    },
+    "yes04.wav": {
+        "length": 455,
+        "sr": 22050
+    },
+    "yes05.wav": {
+        "length": 855,
+        "sr": 22050
+    },
+    "yes06.wav": {
+        "length": 465,
+        "sr": 22050
+    },
+    "yes07.wav": {
+        "length": 672,
+        "sr": 22050
+    },
+    "yes08.wav": {
+        "length": 508,
+        "sr": 22050
+    },
+    "yes09.wav": {
+        "length": 490,
+        "sr": 22050
+    },
+    "youarewelcome01.wav": {
+        "length": 1636,
+        "sr": 22050
+    },
+    "youarewelcome02.wav": {
+        "length": 1527,
+        "sr": 22050
+    },
+    "youarewelcome03.wav": {
+        "length": 598,
+        "sr": 22050
+    },
+    "youarewelcome04.wav": {
+        "length": 593,
+        "sr": 22050
+    },
+    "youarewelcome05.wav": {
+        "length": 1029,
+        "sr": 22050
+    },
+    "youarewelcome06.wav": {
+        "length": 737,
+        "sr": 22050
+    },
+    "youarewelcome07.wav": {
+        "length": 928,
+        "sr": 22050
+    },
+    "youarewelcome08.wav": {
+        "length": 1217,
+        "sr": 22050
+    },
+    "youarewelcome09.wav": {
+        "length": 720,
+        "sr": 22050
+    },
+    "youarewelcome10.wav": {
+        "length": 649,
+        "sr": 22050
+    },
+    "youarewelcomecoach01.wav": {
+        "length": 1166,
+        "sr": 22050
+    },
+    "youarewelcomecoach02.wav": {
+        "length": 1275,
+        "sr": 22050
+    },
+    "youarewelcomeellis01.wav": {
+        "length": 1184,
+        "sr": 22050
+    },
+    "youarewelcomenick01.wav": {
+        "length": 1034,
+        "sr": 22050
+    }
+}

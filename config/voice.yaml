@@ -1,0 +1,19 @@
+producer: 
+  mod_name: shenhe_voice
+  config: [132, 0.3, 0.668, 1.0]
+  filter_center: 150
+
+gambler:  
+  mod_name: huhtao_voice
+  config: [228, 0.5, 0.668, 1.0]
+  filter_center: 150
+
+mechanic:
+  mod_name: ying_voice
+  config: [ 91, 0.4, 0.668, 1.0]
+  filter_center: 150
+
+coach:    
+  mod_name: keqing_voice
+  config: [115, 0.3, 0.668, 1.0]
+  filter_center: 150

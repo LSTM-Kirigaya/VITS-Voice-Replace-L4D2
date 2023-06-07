@@ -385,3 +385,5 @@ sound
 test
 result
 *.pth
+dist
+*.backup
