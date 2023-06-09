@@ -1,0 +1,138 @@
+{
+    "chatter01.wav": {
+        "length": 1584,
+        "sr": 22050
+    },
+    "chatter02.wav": {
+        "length": 1550,
+        "sr": 22050
+    },
+    "chatter03.wav": {
+        "length": 1832,
+        "sr": 22050
+    },
+    "chatter04.wav": {
+        "length": 1118,
+        "sr": 22050
+    },
+    "chatter05.wav": {
+        "length": 9763,
+        "sr": 22050
+    },
+    "chatter06.wav": {
+        "length": 2535,
+        "sr": 22050
+    },
+    "chatter07.wav": {
+        "length": 2157,
+        "sr": 22050
+    },
+    "chatter08.wav": {
+        "length": 2160,
+        "sr": 22050
+    },
+    "chatter09.wav": {
+        "length": 8989,
+        "sr": 22050
+    },
+    "chatter10.wav": {
+        "length": 5753,
+        "sr": 22050
+    },
+    "chatter11.wav": {
+        "length": 1448,
+        "sr": 22050
+    },
+    "chatter12.wav": {
+        "length": 1319,
+        "sr": 22050
+    },
+    "choppernag01.wav": {
+        "length": 1541,
+        "sr": 22050
+    },
+    "choppernag02.wav": {
+        "length": 1144,
+        "sr": 22050
+    },
+    "choppernag03.wav": {
+        "length": 1177,
+        "sr": 22050
+    },
+    "choppernag04.wav": {
+        "length": 1241,
+        "sr": 22050
+    },
+    "choppernag05.wav": {
+        "length": 978,
+        "sr": 22050
+    },
+    "choppernag06.wav": {
+        "length": 1960,
+        "sr": 22050
+    },
+    "choppernag07.wav": {
+        "length": 1128,
+        "sr": 22050
+    },
+    "choppernag08.wav": {
+        "length": 1138,
+        "sr": 22050
+    },
+    "choppernag09.wav": {
+        "length": 2418,
+        "sr": 22050
+    },
+    "choppernag10.wav": {
+        "length": 1283,
+        "sr": 22050
+    },
+    "choppernag11.wav": {
+        "length": 1263,
+        "sr": 22050
+    },
+    "choppernag12.wav": {
+        "length": 1008,
+        "sr": 22050
+    },
+    "choppernag13.wav": {
+        "length": 842,
+        "sr": 22050
+    },
+    "choppernag14.wav": {
+        "length": 1344,
+        "sr": 22050
+    },
+    "choppernag15.wav": {
+        "length": 987,
+        "sr": 22050
+    },
+    "choppernag16.wav": {
+        "length": 1981,
+        "sr": 22050
+    },
+    "nags01.wav": {
+        "length": 1833,
+        "sr": 22050
+    },
+    "nags02.wav": {
+        "length": 4179,
+        "sr": 22050
+    },
+    "nags03.wav": {
+        "length": 1314,
+        "sr": 22050
+    },
+    "survivortalk01.wav": {
+        "length": 2439,
+        "sr": 22050
+    },
+    "survivortalk02.wav": {
+        "length": 1769,
+        "sr": 22050
+    },
+    "survivortalk03.wav": {
+        "length": 1516,
+        "sr": 22050
+    }
+}

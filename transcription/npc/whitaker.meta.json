@@ -1,0 +1,470 @@
+{
+    "comeupstairs01.wav": {
+        "length": 7848,
+        "sr": 22050
+    },
+    "comeupstairs02.wav": {
+        "length": 7941,
+        "sr": 22050
+    },
+    "comeupstairs03.wav": {
+        "length": 4567,
+        "sr": 22050
+    },
+    "comeupstairslongera01.wav": {
+        "length": 4399,
+        "sr": 22050
+    },
+    "comeupstairslongera02.wav": {
+        "length": 3894,
+        "sr": 22050
+    },
+    "comeupstairslongera03.wav": {
+        "length": 5805,
+        "sr": 22050
+    },
+    "comeupstairslongera04.wav": {
+        "length": 1841,
+        "sr": 22050
+    },
+    "comeupstairslongerb01.wav": {
+        "length": 4208,
+        "sr": 22050
+    },
+    "comeupstairslongerb02.wav": {
+        "length": 3110,
+        "sr": 22050
+    },
+    "comeupstairslongerb03.wav": {
+        "length": 3474,
+        "sr": 22050
+    },
+    "comeupstairslongerb04.wav": {
+        "length": 3126,
+        "sr": 22050
+    },
+    "comeupstairslongerb05.wav": {
+        "length": 3739,
+        "sr": 22050
+    },
+    "comeupstairslongerb06.wav": {
+        "length": 1820,
+        "sr": 22050
+    },
+    "comeupstairslongerc01.wav": {
+        "length": 11099,
+        "sr": 22050
+    },
+    "comeupstairslongerc02.wav": {
+        "length": 3251,
+        "sr": 22050
+    },
+    "comeupstairslongerc03.wav": {
+        "length": 5968,
+        "sr": 22050
+    },
+    "comeupstairslongerd01.wav": {
+        "length": 952,
+        "sr": 22050
+    },
+    "comeupstairslongerd02.wav": {
+        "length": 6609,
+        "sr": 22050
+    },
+    "comeupstairslongerd03.wav": {
+        "length": 1695,
+        "sr": 22050
+    },
+    "comeupstairslongerd04.wav": {
+        "length": 2196,
+        "sr": 22050
+    },
+    "comeupstairslongerd05.wav": {
+        "length": 1974,
+        "sr": 22050
+    },
+    "comeupstairslongerd06.wav": {
+        "length": 4274,
+        "sr": 22050
+    },
+    "comeupstairslongerd07.wav": {
+        "length": 3483,
+        "sr": 22050
+    },
+    "comeupstairslongerd08.wav": {
+        "length": 2152,
+        "sr": 22050
+    },
+    "conversation01.wav": {
+        "length": 3599,
+        "sr": 22050
+    },
+    "conversation02.wav": {
+        "length": 6502,
+        "sr": 22050
+    },
+    "conversation03.wav": {
+        "length": 10031,
+        "sr": 22050
+    },
+    "conversation04.wav": {
+        "length": 7135,
+        "sr": 22050
+    },
+    "conversation05.wav": {
+        "length": 9013,
+        "sr": 22050
+    },
+    "conversation06.wav": {
+        "length": 8442,
+        "sr": 22050
+    },
+    "conversation07.wav": {
+        "length": 4133,
+        "sr": 22050
+    },
+    "conversation08.wav": {
+        "length": 7291,
+        "sr": 22050
+    },
+    "conversation09.wav": {
+        "length": 3738,
+        "sr": 22050
+    },
+    "conversation10.wav": {
+        "length": 7385,
+        "sr": 22050
+    },
+    "conversation11.wav": {
+        "length": 7361,
+        "sr": 22050
+    },
+    "conversation12.wav": {
+        "length": 3692,
+        "sr": 22050
+    },
+    "conversation13.wav": {
+        "length": 2577,
+        "sr": 22050
+    },
+    "conversation14.wav": {
+        "length": 5921,
+        "sr": 22050
+    },
+    "conversation15.wav": {
+        "length": 4389,
+        "sr": 22050
+    },
+    "conversation16.wav": {
+        "length": 1997,
+        "sr": 22050
+    },
+    "conversation17.wav": {
+        "length": 5062,
+        "sr": 22050
+    },
+    "conversation18.wav": {
+        "length": 4830,
+        "sr": 22050
+    },
+    "conversation19.wav": {
+        "length": 4669,
+        "sr": 22050
+    },
+    "defendchatter01.wav": {
+        "length": 1509,
+        "sr": 22050
+    },
+    "defendchatter02.wav": {
+        "length": 1978,
+        "sr": 22050
+    },
+    "defendchatter03.wav": {
+        "length": 1788,
+        "sr": 22050
+    },
+    "defendchatter04.wav": {
+        "length": 1986,
+        "sr": 22050
+    },
+    "defendchatter05.wav": {
+        "length": 2717,
+        "sr": 22050
+    },
+    "defendchatter06.wav": {
+        "length": 1138,
+        "sr": 22050
+    },
+    "defendchatter07.wav": {
+        "length": 1068,
+        "sr": 22050
+    },
+    "defendchatter08.wav": {
+        "length": 4435,
+        "sr": 22050
+    },
+    "defendchatter09.wav": {
+        "length": 3344,
+        "sr": 22050
+    },
+    "defendchatter10.wav": {
+        "length": 2624,
+        "sr": 22050
+    },
+    "defendchatter11.wav": {
+        "length": 2113,
+        "sr": 22050
+    },
+    "defendchatter12.wav": {
+        "length": 2972,
+        "sr": 22050
+    },
+    "defendchatter13.wav": {
+        "length": 2554,
+        "sr": 22050
+    },
+    "defendchatter14.wav": {
+        "length": 882,
+        "sr": 22050
+    },
+    "defendchatter15.wav": {
+        "length": 3599,
+        "sr": 22050
+    },
+    "defendchatter16.wav": {
+        "length": 4319,
+        "sr": 22050
+    },
+    "defendchatter17.wav": {
+        "length": 4667,
+        "sr": 22050
+    },
+    "defendchatter18.wav": {
+        "length": 2856,
+        "sr": 22050
+    },
+    "defendchatter19.wav": {
+        "length": 3994,
+        "sr": 22050
+    },
+    "missioncompleted01.wav": {
+        "length": 1649,
+        "sr": 22050
+    },
+    "missioncompleted02.wav": {
+        "length": 1300,
+        "sr": 22050
+    },
+    "missioncompleted03.wav": {
+        "length": 1927,
+        "sr": 22050
+    },
+    "missioncompleted04.wav": {
+        "length": 2229,
+        "sr": 22050
+    },
+    "missioncompleted05.wav": {
+        "length": 1801,
+        "sr": 22050
+    },
+    "missioncompleted06.wav": {
+        "length": 3944,
+        "sr": 22050
+    },
+    "missioncompleted07.wav": {
+        "length": 4667,
+        "sr": 22050
+    },
+    "missioncompleted08.wav": {
+        "length": 6896,
+        "sr": 22050
+    },
+    "missioncompleted09.wav": {
+        "length": 4872,
+        "sr": 22050
+    },
+    "missioncompleted10.wav": {
+        "length": 5433,
+        "sr": 22050
+    },
+    "missioncompleted11.wav": {
+        "length": 10502,
+        "sr": 22050
+    },
+    "missioncompleted12.wav": {
+        "length": 12187,
+        "sr": 22050
+    },
+    "missioncompleted13.wav": {
+        "length": 2692,
+        "sr": 22050
+    },
+    "missioncompleted14.wav": {
+        "length": 1547,
+        "sr": 22050
+    },
+    "missioncompleted15.wav": {
+        "length": 2926,
+        "sr": 22050
+    },
+    "missioncompleted16.wav": {
+        "length": 1242,
+        "sr": 22050
+    },
+    "missioncompleted17.wav": {
+        "length": 914,
+        "sr": 22050
+    },
+    "missioncompleted18.wav": {
+        "length": 3204,
+        "sr": 22050
+    },
+    "missioncompleted19.wav": {
+        "length": 1003,
+        "sr": 22050
+    },
+    "missioncompleted20.wav": {
+        "length": 1199,
+        "sr": 22050
+    },
+    "missioncompleted21.wav": {
+        "length": 1094,
+        "sr": 22050
+    },
+    "missioncompleted22.wav": {
+        "length": 1780,
+        "sr": 22050
+    },
+    "missioncompleted23.wav": {
+        "length": 1834,
+        "sr": 22050
+    },
+    "nags01.wav": {
+        "length": 6641,
+        "sr": 22050
+    },
+    "nags02.wav": {
+        "length": 2674,
+        "sr": 22050
+    },
+    "nags03.wav": {
+        "length": 8569,
+        "sr": 22050
+    },
+    "nags04.wav": {
+        "length": 3994,
+        "sr": 22050
+    },
+    "nags05.wav": {
+        "length": 2090,
+        "sr": 22050
+    },
+    "nags06.wav": {
+        "length": 2276,
+        "sr": 22050
+    },
+    "nags07.wav": {
+        "length": 1625,
+        "sr": 22050
+    },
+    "nags08.wav": {
+        "length": 9451,
+        "sr": 22050
+    },
+    "wayblocked01.wav": {
+        "length": 3308,
+        "sr": 22050
+    },
+    "wayblocked02.wav": {
+        "length": 13309,
+        "sr": 22050
+    },
+    "wayblocked03.wav": {
+        "length": 14175,
+        "sr": 22050
+    },
+    "wayblockedlongera01.wav": {
+        "length": 3136,
+        "sr": 22050
+    },
+    "wayblockedlongera02.wav": {
+        "length": 3715,
+        "sr": 22050
+    },
+    "wayblockedlongera03.wav": {
+        "length": 4203,
+        "sr": 22050
+    },
+    "wayblockedlongera04.wav": {
+        "length": 1907,
+        "sr": 22050
+    },
+    "wayblockedlongerb01.wav": {
+        "length": 3761,
+        "sr": 22050
+    },
+    "wayblockedlongerb02.wav": {
+        "length": 7268,
+        "sr": 22050
+    },
+    "wayblockedlongerb03.wav": {
+        "length": 1672,
+        "sr": 22050
+    },
+    "wayblockedlongerc01.wav": {
+        "length": 9660,
+        "sr": 22050
+    },
+    "wayblockedlongerc02.wav": {
+        "length": 3091,
+        "sr": 22050
+    },
+    "wayblockedlongerd01.wav": {
+        "length": 7531,
+        "sr": 22050
+    },
+    "wayblockedlongere01.wav": {
+        "length": 3198,
+        "sr": 22050
+    },
+    "wayblockedlongere02.wav": {
+        "length": 2425,
+        "sr": 22050
+    },
+    "wayblockedlongerf01.wav": {
+        "length": 7430,
+        "sr": 22050
+    },
+    "wayblockedlongerg01.wav": {
+        "length": 6687,
+        "sr": 22050
+    },
+    "wayblockedlongerh01.wav": {
+        "length": 3483,
+        "sr": 22050
+    },
+    "wayblockedlongeri01.wav": {
+        "length": 3297,
+        "sr": 22050
+    },
+    "wayblockedlongerj01.wav": {
+        "length": 3320,
+        "sr": 22050
+    },
+    "wayblockedlongerj02.wav": {
+        "length": 5851,
+        "sr": 22050
+    },
+    "wayblockedlongerk01.wav": {
+        "length": 697,
+        "sr": 22050
+    },
+    "wayblockedlongerk02.wav": {
+        "length": 4337,
+        "sr": 22050
+    },
+    "wayblockedlongerk03.wav": {
+        "length": 1115,
+        "sr": 22050
+    }
+}

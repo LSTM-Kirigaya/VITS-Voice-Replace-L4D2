@@ -22,7 +22,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--device', type=str, default='cpu')
 parser.add_argument('--lang', type=str, default='zh', choices=['zh', 'ja'])
 parser.add_argument('--log', type=str, default='', help='xxx.exceed.json, only process those words')
-parser.add_argument('-n', default='producer', type=str, choices=['producer', 'coach', 'gambler', 'mechanic'])
+parser.add_argument('-n', default='whitaker', type=str, choices=['whitaker', 'virgil', 'pilot', 'soldier', 'soldier1', 'soldier2', '05_military'])
 args = parser.parse_args()
 
 device = torch.device(args.device)
@@ -90,15 +90,15 @@ if __name__ == '__main__':
     log: str = args.log
 
     lang_code: int = lang_code[lang]
-    with open(f'transcription/{name}_{lang}.json', 'r', encoding='utf-8') as fp:
+    with open(f'transcription/npc/{name}_{lang}.json', 'r', encoding='utf-8') as fp:
         transcription = json.load(fp)
     
-    with open(f'transcription/{name}.meta.json', 'r', encoding='utf-8') as fp:
+    with open(f'transcription/npc/{name}.meta.json', 'r', encoding='utf-8') as fp:
         meta_data = json.load(fp)
     
     mod_root = os.path.join('dist', config[name]['mod_name'])
     vpk_path = os.path.join('dist', config[name]['mod_name'] + '.vpk')
-    root = os.path.join(mod_root, 'sound', 'player', 'survivor', 'voice', name)
+    root = os.path.join(mod_root, 'sound', 'npc', name)
     
     if os.path.exists(vpk_path):
         os.remove(vpk_path)

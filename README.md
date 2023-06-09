@@ -58,15 +58,21 @@ producer:
   filter_center: 150
 ```
 
-the only vital number above is `132` (voice code), it represents the voice source, you can view it in `./config/vit_character.json`. As you see, 132 represents "申鹤". You can view the voice of different source via:
+the only vital number above is `132`, it represents the speaker id, you can view it in `./config/vit_character.json`. As you see, 132 represents "申鹤". You can view the voice of different source via:
 
 ```bash
 python app.py --device cuda
 ```
 This will open a application in your brower through http://127.0.0.1:7860/ , where you can quickly view different voice.
 
-Just edit the voice code as you like :D
+Just edit the speaker id as you like :D
 
 ## Publish your VITS voice MOD
 
 use `Left 4 Dead 2 Authoring Tools`, you can google its usage.
+
+---
+
+## Extra
+
+When you finish running `postprocess.py` or `postprocess_npc.py`, wave file whose length exceed original wave file's will be logged in `./log/<name>.exceed.json`. You can adjust transcription by it.

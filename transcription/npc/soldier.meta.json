@@ -1,0 +1,14 @@
+{
+    "radioinitialbroadcast05.wav": {
+        "length": 7274,
+        "sr": 44100
+    },
+    "radiointransit01.wav": {
+        "length": 4850,
+        "sr": 44100
+    },
+    "radiointransit02.wav": {
+        "length": 5529,
+        "sr": 44100
+    }
+}

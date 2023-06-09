@@ -17,3 +17,19 @@ coach:
   mod_name: keqing_voice
   config: [115, 0.3, 0.668, 1.0]
   filter_center: 150
+
+whitaker:
+  mod_name: npc_voice
+  config: [157, 0.1, 0.4, 1.0]
+
+virgil:
+  mod_name: npc_voice
+  config: [97, 0.3, 0.4, 1.0]
+
+soldier1: 
+  mod_name: npc_voice
+  config: [118, 0.1, 0.2, 1.0]
+
+soldier2:
+  mod_name: npc_voice
+  config: [93, 0.1, 0.2, 1.0]

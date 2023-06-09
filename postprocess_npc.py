@@ -23,12 +23,12 @@ def change_db(wav_file: str, target_dbfs: int=0, focus_freq = 1000) -> AudioSegm
 
 
 def align_audio_two_folders(name: str, wav_files: list=None):
-    meta_path = os.path.join('transcription', f'{name}.meta.json')
+    meta_path = os.path.join('transcription', 'npc', f'{name}.meta.json')
     with open(meta_path, 'r', encoding='utf-8') as fp:
         data = json.load(fp)
 
     target_folder = os.path.join('dist', config[name]['mod_name'])
-    root = os.path.join(target_folder, 'sound', 'player', 'survivor', 'voice', name)
+    root = os.path.join(target_folder, 'sound', 'npc', name)
 
     handle_files = os.listdir(root)
     if wav_files is not None:
@@ -83,10 +83,30 @@ def make_voice_brighter(root: str, wav_files: list=None):
 
         result_audio = change_db(wave_path, target_dbfs, focus_freq=config[name]['filter_center'])
         result_audio.export(target_path, format='wav')
-    
+
+def phone_like(wav: AudioSegment, low_center=2400, high_center=500) -> AudioSegment:
+    # audio = scipy_effects.low_pass_filter(wav, low_center)
+    audio = scipy_effects.high_pass_filter(wav, high_center)
+    audio = normalize(audio, headroom=0.05)
+    return audio
+
+
+def make_voice_like_phone(root: str, wav_files: list=None):
+    handle_files = os.listdir(root)
+    if wav_files is not None:
+        handle_files = wav_files
+
+    for wave_file in tqdm.tqdm(handle_files):
+        wave_path = os.path.join(root, wave_file)
+        target_path = os.path.join(root, wave_file)
+
+        input_audio = AudioSegment.from_file(wave_path)
+        result_audio = phone_like(input_audio)
+        result_audio.export(target_path, format='wav')    
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('-n', default='producer', type=str, choices=['producer', 'coach', 'gambler', 'mechanic'])
+    parser.add_argument('-n', default='producer', type=str, choices=['whitaker', 'virgil', 'pilot', 'soldier', 'soldier1', 'soldier2', '05_military'])
     parser.add_argument('-t', default=0, type=int)
     parser.add_argument('--log', type=str, default='', help='xxx.exceed.json, only process those words')
     args = parser.parse_args()
@@ -104,17 +124,27 @@ if __name__ == "__main__":
             log_data: dict = json.load(fp)
         wav_files = list(log_data.keys())
 
-    meta_path = os.path.join('transcription', f'{name}.meta.json')
+    meta_path = os.path.join('transcription', 'npc', f'{name}.meta.json')
     with open(meta_path, 'r', encoding='utf-8') as fp:
         data = json.load(fp)
 
     target_folder = os.path.join('dist', config[name]['mod_name'])
-    root = os.path.join(target_folder, 'sound', 'player', 'survivor', 'voice', name)
+    root = os.path.join(target_folder, 'sound', 'npc', name)
+
     if not os.path.exists(root):
         os.mkdir(root)
 
     print('postprocess voice...')
-    make_voice_brighter(root, wav_files)
+    if name == 'whitaker':
+        make_voice_like_phone(root, wav_files)
+    elif name == 'virgil':
+        make_voice_like_phone(root, wav_files)
+    elif name == 'soldier1':
+        make_voice_like_phone(root, wav_files)
+    elif name == 'soldier2':
+        make_voice_like_phone(root, wav_files)
+    else:
+        make_voice_brighter(root, wav_files)
 
     print('align length and sample rate...')
     align_audio_two_folders(name, wav_files)

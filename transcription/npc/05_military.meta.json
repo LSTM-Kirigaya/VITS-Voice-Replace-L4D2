@@ -1,0 +1,58 @@
+{
+    "bridge04a-01.wav": {
+        "length": 811,
+        "sr": 44100
+    },
+    "bridge04a-02.wav": {
+        "length": 832,
+        "sr": 44100
+    },
+    "bridge04a-03.wav": {
+        "length": 1851,
+        "sr": 44100
+    },
+    "bridge04a-04.wav": {
+        "length": 1739,
+        "sr": 44100
+    },
+    "bridge04a-05.wav": {
+        "length": 2706,
+        "sr": 44100
+    },
+    "bridge04a-06.wav": {
+        "length": 1641,
+        "sr": 44100
+    },
+    "bridge04a-07.wav": {
+        "length": 2939,
+        "sr": 44100
+    },
+    "bridge04b-01.wav": {
+        "length": 1910,
+        "sr": 44100
+    },
+    "bridge04b-02.wav": {
+        "length": 1359,
+        "sr": 44100
+    },
+    "bridge04b-03.wav": {
+        "length": 3037,
+        "sr": 44100
+    },
+    "bridge04b-04.wav": {
+        "length": 1727,
+        "sr": 44100
+    },
+    "bridge04b-05.wav": {
+        "length": 2327,
+        "sr": 44100
+    },
+    "bridge04b-06.wav": {
+        "length": 2473,
+        "sr": 44100
+    },
+    "bridge04b-07.wav": {
+        "length": 5522,
+        "sr": 44100
+    }
+}
