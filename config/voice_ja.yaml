@@ -1,0 +1,55 @@
+producer: 
+  mod_name: shenhe_voice_ja
+  config: [347, 0.3, 0.668, 1.0]
+  filter_center: 150
+
+gambler:  
+  mod_name: huhtao_voice_ja
+  config: [324, 0.5, 0.668, 1.0]
+  filter_center: 150
+
+mechanic:
+  mod_name: ying_voice_ja
+  config: [323, 0.4, 0.668, 1.0]
+  filter_center: 150
+
+coach:    
+  mod_name: keqing_voice_ja
+  config: [328, 0.3, 0.668, 1.0]
+  filter_center: 150
+
+namvet:
+  mod_name: wendi_voice_ja
+  config: [354, 0.3, 0.668, 1.0]
+  filter_center: 150
+
+biker:
+  mod_name: luoshaliya_voice_ja
+  config: [344, 0.2, 0.668, 1.0]
+  filter_center: 150
+
+manager:
+  mod_name: bachongshenzi_voice_ja
+  config: [359, 0.5, 0.5, 1.0]
+  filter_center: 150
+
+teengirl:
+  mod_name: xiaogong_voice_ja
+  config: [362, 0.5, 0.5, 1.0]
+  filter_center: 150
+
+whitaker:
+  mod_name: npc_voice_ja
+  config: [364, 0.1, 0.4, 1.0]
+
+virgil:
+  mod_name: npc_voice_ja
+  config: [354, 0.3, 0.4, 1.0]
+
+soldier1: 
+  mod_name: npc_voice_ja
+  config: [344, 0.1, 0.2, 1.0]
+
+soldier2:
+  mod_name: npc_voice_ja
+  config: [326, 0.1, 0.2, 1.0]

@@ -1,0 +1,1854 @@
+{
+    "dlc1_c6m1_alarmdoor01.wav": {
+        "length": 1878,
+        "sr": 44100
+    },
+    "dlc1_c6m1_alarmdoor02.wav": {
+        "length": 1965,
+        "sr": 44100
+    },
+    "dlc1_c6m1_alarmdoor03.wav": {
+        "length": 2433,
+        "sr": 44100
+    },
+    "dlc1_c6m1_alarmdoor04.wav": {
+        "length": 2088,
+        "sr": 44100
+    },
+    "dlc1_c6m1_alarmdoor05.wav": {
+        "length": 1754,
+        "sr": 44100
+    },
+    "dlc1_c6m1_alarmdooropen01.wav": {
+        "length": 744,
+        "sr": 44100
+    },
+    "dlc1_c6m1_alarmdooropen02.wav": {
+        "length": 1236,
+        "sr": 44100
+    },
+    "dlc1_c6m1_alarmdooropen03.wav": {
+        "length": 1741,
+        "sr": 44100
+    },
+    "dlc1_c6m1_alarmdooropen04.wav": {
+        "length": 1613,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley01.wav": {
+        "length": 929,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley02.wav": {
+        "length": 906,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley03.wav": {
+        "length": 2142,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley04.wav": {
+        "length": 1327,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley05.wav": {
+        "length": 1698,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley06.wav": {
+        "length": 1191,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley07.wav": {
+        "length": 617,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley08.wav": {
+        "length": 1005,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley09.wav": {
+        "length": 916,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley10.wav": {
+        "length": 871,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley11.wav": {
+        "length": 711,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley12.wav": {
+        "length": 968,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley13.wav": {
+        "length": 1425,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley14.wav": {
+        "length": 1335,
+        "sr": 44100
+    },
+    "dlc1_c6m1_backalley15.wav": {
+        "length": 1607,
+        "sr": 44100
+    },
+    "dlc1_c6m1_celebration01.wav": {
+        "length": 3631,
+        "sr": 44100
+    },
+    "dlc1_c6m1_celebration02.wav": {
+        "length": 2117,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting01.wav": {
+        "length": 6365,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting02.wav": {
+        "length": 982,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting03.wav": {
+        "length": 5025,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting04.wav": {
+        "length": 4221,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting05.wav": {
+        "length": 5011,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting06.wav": {
+        "length": 5419,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting07.wav": {
+        "length": 3459,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting08.wav": {
+        "length": 2932,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting09.wav": {
+        "length": 6880,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting10.wav": {
+        "length": 3143,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting11.wav": {
+        "length": 3245,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting12.wav": {
+        "length": 13161,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting13.wav": {
+        "length": 4691,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting14.wav": {
+        "length": 3537,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting15.wav": {
+        "length": 6079,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting16.wav": {
+        "length": 14217,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting17.wav": {
+        "length": 2565,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting18.wav": {
+        "length": 12798,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting19.wav": {
+        "length": 2841,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting20.wav": {
+        "length": 9550,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting21.wav": {
+        "length": 2512,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting22.wav": {
+        "length": 7488,
+        "sr": 44100
+    },
+    "dlc1_c6m1_initialmeeting23.wav": {
+        "length": 4369,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intopark01.wav": {
+        "length": 830,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intopark02.wav": {
+        "length": 778,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intopark03.wav": {
+        "length": 1338,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intopark04.wav": {
+        "length": 3673,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intopark05.wav": {
+        "length": 1894,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intopark06.wav": {
+        "length": 2571,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intopark07.wav": {
+        "length": 1624,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intopark08.wav": {
+        "length": 921,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intostore01.wav": {
+        "length": 705,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intostore02.wav": {
+        "length": 1070,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intostore03.wav": {
+        "length": 1196,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intostore04.wav": {
+        "length": 1241,
+        "sr": 44100
+    },
+    "dlc1_c6m1_intostore05.wav": {
+        "length": 851,
+        "sr": 44100
+    },
+    "dlc1_c6m1_saferoomahead01.wav": {
+        "length": 1227,
+        "sr": 44100
+    },
+    "dlc1_c6m1_saferoomahead02.wav": {
+        "length": 1418,
+        "sr": 44100
+    },
+    "dlc1_c6m1_upstairs01.wav": {
+        "length": 907,
+        "sr": 44100
+    },
+    "dlc1_c6m1_upstairs02.wav": {
+        "length": 875,
+        "sr": 44100
+    },
+    "dlc1_c6m1_upstairs03.wav": {
+        "length": 1018,
+        "sr": 44100
+    },
+    "dlc1_c6m1_upstairs04.wav": {
+        "length": 1009,
+        "sr": 44100
+    },
+    "dlc1_c6m1_wedding01.wav": {
+        "length": 3310,
+        "sr": 44100
+    },
+    "dlc1_c6m1_wedding02.wav": {
+        "length": 689,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingpostwitch01.wav": {
+        "length": 2761,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingpostwitch02.wav": {
+        "length": 3481,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingpostwitch03.wav": {
+        "length": 2750,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingpostwitch04.wav": {
+        "length": 2399,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingpostwitch05.wav": {
+        "length": 1392,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingpostwitch06.wav": {
+        "length": 4372,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitch01.wav": {
+        "length": 799,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitch02.wav": {
+        "length": 451,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitch03.wav": {
+        "length": 1339,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitch04.wav": {
+        "length": 1563,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitch05.wav": {
+        "length": 4056,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitch06.wav": {
+        "length": 3023,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitchattacking01.wav": {
+        "length": 3782,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitchattacking02.wav": {
+        "length": 2951,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitchchasing01.wav": {
+        "length": 2243,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitchchasing02.wav": {
+        "length": 2346,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitchchasing03.wav": {
+        "length": 1175,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitchdead01.wav": {
+        "length": 2222,
+        "sr": 44100
+    },
+    "dlc1_c6m1_weddingwitchdead02.wav": {
+        "length": 2160,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge1raise01.wav": {
+        "length": 2120,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge1raise02.wav": {
+        "length": 2394,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge1raise03.wav": {
+        "length": 2833,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge1raise04.wav": {
+        "length": 1735,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge1raiseactive01.wav": {
+        "length": 1510,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge1raiseactive02.wav": {
+        "length": 2625,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge1raiseactive03.wav": {
+        "length": 3173,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge1raisehitit01.wav": {
+        "length": 525,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge1raisehitit02.wav": {
+        "length": 941,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2raise01.wav": {
+        "length": 1164,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2raise02.wav": {
+        "length": 855,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2raise03.wav": {
+        "length": 1014,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2raise04.wav": {
+        "length": 1532,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2raise05.wav": {
+        "length": 988,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2raise06.wav": {
+        "length": 997,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2raise07.wav": {
+        "length": 1766,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2raise08.wav": {
+        "length": 627,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2raise09.wav": {
+        "length": 1228,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2up01.wav": {
+        "length": 1451,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2up02.wav": {
+        "length": 1481,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2up03.wav": {
+        "length": 1102,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2up04.wav": {
+        "length": 591,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2up05.wav": {
+        "length": 1497,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2up06.wav": {
+        "length": 1150,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridge2up07.wav": {
+        "length": 1273,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridgecollapse01.wav": {
+        "length": 1016,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridgecollapse02.wav": {
+        "length": 1557,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridgecollapse03.wav": {
+        "length": 1254,
+        "sr": 44100
+    },
+    "dlc1_c6m2_bridgecollapse04.wav": {
+        "length": 1175,
+        "sr": 44100
+    },
+    "dlc1_c6m2_constructionsite01.wav": {
+        "length": 952,
+        "sr": 44100
+    },
+    "dlc1_c6m2_constructionsite02.wav": {
+        "length": 1091,
+        "sr": 44100
+    },
+    "dlc1_c6m2_constructionsite03.wav": {
+        "length": 1314,
+        "sr": 44100
+    },
+    "dlc1_c6m2_finalwater01.wav": {
+        "length": 1706,
+        "sr": 44100
+    },
+    "dlc1_c6m2_finalwater02.wav": {
+        "length": 1028,
+        "sr": 44100
+    },
+    "dlc1_c6m2_finalwater03.wav": {
+        "length": 1302,
+        "sr": 44100
+    },
+    "dlc1_c6m2_finalwater04.wav": {
+        "length": 1085,
+        "sr": 44100
+    },
+    "dlc1_c6m2_finalwater05.wav": {
+        "length": 2258,
+        "sr": 44100
+    },
+    "dlc1_c6m2_finalwater06.wav": {
+        "length": 2517,
+        "sr": 44100
+    },
+    "dlc1_c6m2_historictour01.wav": {
+        "length": 4172,
+        "sr": 44100
+    },
+    "dlc1_c6m2_historictour02.wav": {
+        "length": 2200,
+        "sr": 44100
+    },
+    "dlc1_c6m2_historictour03.wav": {
+        "length": 3589,
+        "sr": 44100
+    },
+    "dlc1_c6m2_historictour04.wav": {
+        "length": 3758,
+        "sr": 44100
+    },
+    "dlc1_c6m2_intopoolhall01.wav": {
+        "length": 1260,
+        "sr": 44100
+    },
+    "dlc1_c6m2_intopoolhall02.wav": {
+        "length": 861,
+        "sr": 44100
+    },
+    "dlc1_c6m2_intopoolhall03.wav": {
+        "length": 1207,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder01.wav": {
+        "length": 1968,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder02.wav": {
+        "length": 1585,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder03.wav": {
+        "length": 1342,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder04.wav": {
+        "length": 1616,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder05.wav": {
+        "length": 946,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder06.wav": {
+        "length": 1877,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder07.wav": {
+        "length": 1727,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder08.wav": {
+        "length": 1310,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder09.wav": {
+        "length": 1720,
+        "sr": 44100
+    },
+    "dlc1_c6m2_inwaterfindladder10.wav": {
+        "length": 2176,
+        "sr": 44100
+    },
+    "dlc1_c6m2_jazzclub01.wav": {
+        "length": 1027,
+        "sr": 44100
+    },
+    "dlc1_c6m2_jazzclub02.wav": {
+        "length": 1309,
+        "sr": 44100
+    },
+    "dlc1_c6m2_jazzclub03.wav": {
+        "length": 1276,
+        "sr": 44100
+    },
+    "dlc1_c6m2_jazzclub04.wav": {
+        "length": 1002,
+        "sr": 44100
+    },
+    "dlc1_c6m2_jazzclub05.wav": {
+        "length": 1315,
+        "sr": 44100
+    },
+    "dlc1_c6m2_jazzclub06.wav": {
+        "length": 2338,
+        "sr": 44100
+    },
+    "dlc1_c6m2_leavingsaferoom01.wav": {
+        "length": 1667,
+        "sr": 44100
+    },
+    "dlc1_c6m2_leavingsaferoom02.wav": {
+        "length": 2326,
+        "sr": 44100
+    },
+    "dlc1_c6m2_leavingsaferoom03.wav": {
+        "length": 2278,
+        "sr": 44100
+    },
+    "dlc1_c6m2_loweringladder01.wav": {
+        "length": 2004,
+        "sr": 44100
+    },
+    "dlc1_c6m2_loweringladder02.wav": {
+        "length": 1911,
+        "sr": 44100
+    },
+    "dlc1_c6m2_loweringladder03.wav": {
+        "length": 1186,
+        "sr": 44100
+    },
+    "dlc1_c6m2_midnightriders01.wav": {
+        "length": 2108,
+        "sr": 44100
+    },
+    "dlc1_c6m2_midnightriders02.wav": {
+        "length": 574,
+        "sr": 44100
+    },
+    "dlc1_c6m2_midnightriders03.wav": {
+        "length": 778,
+        "sr": 44100
+    },
+    "dlc1_c6m2_overplank01.wav": {
+        "length": 1190,
+        "sr": 44100
+    },
+    "dlc1_c6m2_overplank02.wav": {
+        "length": 1174,
+        "sr": 44100
+    },
+    "dlc1_c6m2_overplank03.wav": {
+        "length": 1453,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase201.wav": {
+        "length": 1792,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase202.wav": {
+        "length": 1403,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase203.wav": {
+        "length": 2253,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase204.wav": {
+        "length": 3321,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase205.wav": {
+        "length": 3401,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase206.wav": {
+        "length": 1646,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase207.wav": {
+        "length": 992,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase208.wav": {
+        "length": 1291,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase209.wav": {
+        "length": 1645,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2inwater01.wav": {
+        "length": 999,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2inwater02.wav": {
+        "length": 4622,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2inwater03.wav": {
+        "length": 2795,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2inwater04.wav": {
+        "length": 749,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2inwater05.wav": {
+        "length": 994,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2inwater06.wav": {
+        "length": 2060,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2inwater07.wav": {
+        "length": 766,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2inwater08.wav": {
+        "length": 1382,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2jumpinwater01.wav": {
+        "length": 1769,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2jumpinwater02.wav": {
+        "length": 1344,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2jumpinwater03.wav": {
+        "length": 1062,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2jumpinwater04.wav": {
+        "length": 1138,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2jumpinwater05.wav": {
+        "length": 1054,
+        "sr": 44100
+    },
+    "dlc1_c6m2_phase2jumpinwater06.wav": {
+        "length": 1812,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoom01.wav": {
+        "length": 4259,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoom02.wav": {
+        "length": 4512,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoom03.wav": {
+        "length": 1703,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoom04.wav": {
+        "length": 1226,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoom05.wav": {
+        "length": 5261,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo01.wav": {
+        "length": 3509,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo02.wav": {
+        "length": 3330,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo03.wav": {
+        "length": 16180,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo04.wav": {
+        "length": 3113,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo05.wav": {
+        "length": 6763,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo06.wav": {
+        "length": 4069,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo07.wav": {
+        "length": 6728,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo08.wav": {
+        "length": 2922,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo09.wav": {
+        "length": 4114,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo10.wav": {
+        "length": 3684,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo11.wav": {
+        "length": 1763,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo12.wav": {
+        "length": 2559,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo13.wav": {
+        "length": 2940,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo14.wav": {
+        "length": 7751,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo15.wav": {
+        "length": 3626,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo16.wav": {
+        "length": 2705,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo17.wav": {
+        "length": 2249,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo18.wav": {
+        "length": 6193,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo19.wav": {
+        "length": 7005,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo20.wav": {
+        "length": 13508,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo21.wav": {
+        "length": 9107,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo22.wav": {
+        "length": 12293,
+        "sr": 44100
+    },
+    "dlc1_c6m2_saferoomconvo23.wav": {
+        "length": 2327,
+        "sr": 44100
+    },
+    "dlc1_c6m2_startingjukebox01.wav": {
+        "length": 2456,
+        "sr": 44100
+    },
+    "dlc1_c6m2_startingjukebox02.wav": {
+        "length": 3663,
+        "sr": 44100
+    },
+    "dlc1_c6m2_tattoo01.wav": {
+        "length": 2996,
+        "sr": 44100
+    },
+    "dlc1_c6m2_tattoo02.wav": {
+        "length": 1223,
+        "sr": 44100
+    },
+    "dlc1_c6m2_tattoo03.wav": {
+        "length": 1256,
+        "sr": 44100
+    },
+    "dlc1_c6m2_tattoo04.wav": {
+        "length": 2241,
+        "sr": 44100
+    },
+    "dlc1_c6m2_tattoo05.wav": {
+        "length": 6691,
+        "sr": 44100
+    },
+    "dlc1_c6m2_tattoo06.wav": {
+        "length": 5180,
+        "sr": 44100
+    },
+    "dlc1_c6m2_tattoo07.wav": {
+        "length": 8263,
+        "sr": 44100
+    },
+    "dlc1_c6m2_ticketcounter01.wav": {
+        "length": 1213,
+        "sr": 44100
+    },
+    "dlc1_c6m2_ticketcounter02.wav": {
+        "length": 1307,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upcatwalk01.wav": {
+        "length": 553,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upcatwalk02.wav": {
+        "length": 514,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upcatwalk03.wav": {
+        "length": 683,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upcatwalk04.wav": {
+        "length": 1567,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upladder01.wav": {
+        "length": 974,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upladder02.wav": {
+        "length": 983,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upladder03.wav": {
+        "length": 952,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upladder04.wav": {
+        "length": 1140,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upladder101.wav": {
+        "length": 868,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upladder102.wav": {
+        "length": 1474,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upladder103.wav": {
+        "length": 1089,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upladder104.wav": {
+        "length": 1293,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upladder105.wav": {
+        "length": 1438,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upstairs01.wav": {
+        "length": 731,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upstairs02.wav": {
+        "length": 1168,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upstairs03.wav": {
+        "length": 1106,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upthroughbuilding01.wav": {
+        "length": 878,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upthroughbuilding02.wav": {
+        "length": 1138,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upthroughbuilding03.wav": {
+        "length": 828,
+        "sr": 44100
+    },
+    "dlc1_c6m2_upthroughbuilding04.wav": {
+        "length": 849,
+        "sr": 44100
+    },
+    "dlc1_c6m3_cans01.wav": {
+        "length": 679,
+        "sr": 44100
+    },
+    "dlc1_c6m3_cans02.wav": {
+        "length": 749,
+        "sr": 44100
+    },
+    "dlc1_c6m3_cans03.wav": {
+        "length": 1120,
+        "sr": 44100
+    },
+    "dlc1_c6m3_cans04.wav": {
+        "length": 1275,
+        "sr": 44100
+    },
+    "dlc1_c6m3_cans05.wav": {
+        "length": 856,
+        "sr": 44100
+    },
+    "dlc1_c6m3_cans06.wav": {
+        "length": 1124,
+        "sr": 44100
+    },
+    "dlc1_c6m3_cans07.wav": {
+        "length": 1453,
+        "sr": 44100
+    },
+    "dlc1_c6m3_cans08.wav": {
+        "length": 1102,
+        "sr": 44100
+    },
+    "dlc1_c6m3_cans09.wav": {
+        "length": 1309,
+        "sr": 44100
+    },
+    "dlc1_c6m3_elevator01.wav": {
+        "length": 3514,
+        "sr": 44100
+    },
+    "dlc1_c6m3_elevator02.wav": {
+        "length": 2601,
+        "sr": 44100
+    },
+    "dlc1_c6m3_elevator03.wav": {
+        "length": 3181,
+        "sr": 44100
+    },
+    "dlc1_c6m3_elevator04.wav": {
+        "length": 3305,
+        "sr": 44100
+    },
+    "dlc1_c6m3_elevator05.wav": {
+        "length": 3792,
+        "sr": 44100
+    },
+    "dlc1_c6m3_elevator06.wav": {
+        "length": 3447,
+        "sr": 44100
+    },
+    "dlc1_c6m3_elevator07.wav": {
+        "length": 2712,
+        "sr": 44100
+    },
+    "dlc1_c6m3_elevator08.wav": {
+        "length": 3015,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalebridgerun01.wav": {
+        "length": 1830,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalebridgerun02.wav": {
+        "length": 1803,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalebridgerun03.wav": {
+        "length": 2360,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalebridgerun04.wav": {
+        "length": 2772,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalebridgerun05.wav": {
+        "length": 2578,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalebridgerun06.wav": {
+        "length": 2297,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalebridgerun07.wav": {
+        "length": 4828,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat01.wav": {
+        "length": 726,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat02.wav": {
+        "length": 835,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat03.wav": {
+        "length": 819,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat04.wav": {
+        "length": 1448,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat05.wav": {
+        "length": 2401,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat06.wav": {
+        "length": 2585,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat07.wav": {
+        "length": 1359,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat08.wav": {
+        "length": 3706,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat09.wav": {
+        "length": 6049,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat10.wav": {
+        "length": 1890,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat11.wav": {
+        "length": 1517,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat12.wav": {
+        "length": 1751,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat13.wav": {
+        "length": 2026,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat14.wav": {
+        "length": 5604,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat15.wav": {
+        "length": 5739,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat16.wav": {
+        "length": 6529,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat17.wav": {
+        "length": 7005,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat18.wav": {
+        "length": 1431,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat19.wav": {
+        "length": 575,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat20.wav": {
+        "length": 782,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalechat21.wav": {
+        "length": 794,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic01.wav": {
+        "length": 3853,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic02.wav": {
+        "length": 3779,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic03.wav": {
+        "length": 6703,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic04.wav": {
+        "length": 4768,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic05.wav": {
+        "length": 2116,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic06.wav": {
+        "length": 1801,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic07.wav": {
+        "length": 1980,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic08.wav": {
+        "length": 2347,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic09.wav": {
+        "length": 787,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic10.wav": {
+        "length": 1025,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic11.wav": {
+        "length": 1916,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic12.wav": {
+        "length": 1944,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic13.wav": {
+        "length": 3481,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic14.wav": {
+        "length": 2221,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic15.wav": {
+        "length": 1632,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalecinematic16.wav": {
+        "length": 1943,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas01.wav": {
+        "length": 2417,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas02.wav": {
+        "length": 3158,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas03.wav": {
+        "length": 1044,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas04.wav": {
+        "length": 2104,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas05.wav": {
+        "length": 3217,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas06.wav": {
+        "length": 856,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas07.wav": {
+        "length": 1910,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas08.wav": {
+        "length": 2710,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas09.wav": {
+        "length": 1360,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas10.wav": {
+        "length": 2695,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalefinalgas11.wav": {
+        "length": 2889,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1items01.wav": {
+        "length": 957,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1items02.wav": {
+        "length": 1080,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1items03.wav": {
+        "length": 904,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1items04.wav": {
+        "length": 2526,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1items05.wav": {
+        "length": 846,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1items06.wav": {
+        "length": 1004,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1items07.wav": {
+        "length": 1945,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1items08.wav": {
+        "length": 881,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing01.wav": {
+        "length": 2555,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing02.wav": {
+        "length": 3043,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing03.wav": {
+        "length": 2507,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing04.wav": {
+        "length": 1192,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing05.wav": {
+        "length": 2390,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing06.wav": {
+        "length": 1190,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing07.wav": {
+        "length": 3208,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing08.wav": {
+        "length": 2969,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing09.wav": {
+        "length": 2686,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing10.wav": {
+        "length": 2904,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing11.wav": {
+        "length": 498,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing12.wav": {
+        "length": 1170,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing13.wav": {
+        "length": 518,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing14.wav": {
+        "length": 921,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing15.wav": {
+        "length": 2138,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing16.wav": {
+        "length": 1148,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing17.wav": {
+        "length": 1663,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing18.wav": {
+        "length": 1206,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing19.wav": {
+        "length": 1352,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing20.wav": {
+        "length": 1062,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing21.wav": {
+        "length": 1455,
+        "sr": 44100
+    },
+    "dlc1_c6m3_finalel4d1killing22.wav": {
+        "length": 1238,
+        "sr": 44100
+    },
+    "dlc1_c6m3_loss01.wav": {
+        "length": 4243,
+        "sr": 44100
+    },
+    "dlc1_c6m3_loss02.wav": {
+        "length": 2984,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo01.wav": {
+        "length": 7373,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo02.wav": {
+        "length": 2793,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo03.wav": {
+        "length": 2096,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo04.wav": {
+        "length": 3970,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo05.wav": {
+        "length": 1575,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo06.wav": {
+        "length": 1496,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo07.wav": {
+        "length": 3410,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo08.wav": {
+        "length": 1144,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo09.wav": {
+        "length": 992,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo10.wav": {
+        "length": 1799,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo11.wav": {
+        "length": 3659,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo12.wav": {
+        "length": 3834,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo13.wav": {
+        "length": 2219,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo14.wav": {
+        "length": 2546,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo15.wav": {
+        "length": 3886,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo16.wav": {
+        "length": 5805,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo17.wav": {
+        "length": 2631,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo18.wav": {
+        "length": 2804,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo19.wav": {
+        "length": 5957,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo20.wav": {
+        "length": 1669,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo21.wav": {
+        "length": 1934,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo22.wav": {
+        "length": 1900,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo23.wav": {
+        "length": 936,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo24.wav": {
+        "length": 1581,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo25.wav": {
+        "length": 2608,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo26.wav": {
+        "length": 1479,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo27.wav": {
+        "length": 1364,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo28.wav": {
+        "length": 5514,
+        "sr": 44100
+    },
+    "dlc1_c6m3_saferoomconvo29.wav": {
+        "length": 13536,
+        "sr": 44100
+    },
+    "dlc1_communitye01.wav": {
+        "length": 2295,
+        "sr": 44100
+    },
+    "dlc1_communitye02.wav": {
+        "length": 935,
+        "sr": 44100
+    },
+    "dlc1_communitye03.wav": {
+        "length": 899,
+        "sr": 44100
+    },
+    "dlc1_communitye04.wav": {
+        "length": 1013,
+        "sr": 44100
+    },
+    "dlc1_communitye05.wav": {
+        "length": 1175,
+        "sr": 44100
+    },
+    "dlc1_communitye06.wav": {
+        "length": 2396,
+        "sr": 44100
+    },
+    "dlc1_communitye07.wav": {
+        "length": 2242,
+        "sr": 44100
+    },
+    "dlc1_communitye08.wav": {
+        "length": 21729,
+        "sr": 44100
+    },
+    "dlc1_communitye09.wav": {
+        "length": 1228,
+        "sr": 44100
+    },
+    "dlc1_communitye10.wav": {
+        "length": 1906,
+        "sr": 44100
+    },
+    "dlc1_communitye11.wav": {
+        "length": 2242,
+        "sr": 44100
+    },
+    "dlc1_communitye12.wav": {
+        "length": 1453,
+        "sr": 44100
+    },
+    "dlc1_communitye13.wav": {
+        "length": 1616,
+        "sr": 44100
+    },
+    "dlc1_communitye14.wav": {
+        "length": 1821,
+        "sr": 44100
+    },
+    "dlc1_communitye15.wav": {
+        "length": 2295,
+        "sr": 44100
+    },
+    "dlc1_communitye16.wav": {
+        "length": 3614,
+        "sr": 44100
+    },
+    "dlc1_communitye17.wav": {
+        "length": 1225,
+        "sr": 44100
+    },
+    "dlc1_communitye18.wav": {
+        "length": 1363,
+        "sr": 44100
+    },
+    "dlc1_communitye19.wav": {
+        "length": 4754,
+        "sr": 44100
+    },
+    "dlc1_communitye20.wav": {
+        "length": 2089,
+        "sr": 44100
+    },
+    "dlc1_communitye21.wav": {
+        "length": 4351,
+        "sr": 44100
+    },
+    "dlc1_communitye22.wav": {
+        "length": 2694,
+        "sr": 44100
+    },
+    "dlc1_communitye23.wav": {
+        "length": 4446,
+        "sr": 44100
+    },
+    "dlc1_communitye24.wav": {
+        "length": 4070,
+        "sr": 44100
+    },
+    "dlc1_communitye25.wav": {
+        "length": 861,
+        "sr": 44100
+    },
+    "dlc1_communitye26.wav": {
+        "length": 675,
+        "sr": 44100
+    },
+    "dlc1_communitye27.wav": {
+        "length": 2348,
+        "sr": 44100
+    },
+    "dlc1_communitye28.wav": {
+        "length": 4658,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior01.wav": {
+        "length": 1016,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior02.wav": {
+        "length": 1106,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior03.wav": {
+        "length": 1125,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior04.wav": {
+        "length": 1257,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior05.wav": {
+        "length": 1037,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior06.wav": {
+        "length": 1567,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior07.wav": {
+        "length": 1359,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior08.wav": {
+        "length": 1630,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior09.wav": {
+        "length": 930,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior10.wav": {
+        "length": 1206,
+        "sr": 44100
+    },
+    "dlc1_fallensurvior11.wav": {
+        "length": 1442,
+        "sr": 44100
+    },
+    "dlc1_footlocker01.wav": {
+        "length": 1002,
+        "sr": 44100
+    },
+    "dlc1_footlocker02.wav": {
+        "length": 1161,
+        "sr": 44100
+    },
+    "dlc1_footlocker03.wav": {
+        "length": 1222,
+        "sr": 44100
+    },
+    "dlc1_footlocker04.wav": {
+        "length": 1490,
+        "sr": 44100
+    },
+    "dlc1_footlocker05.wav": {
+        "length": 1028,
+        "sr": 44100
+    },
+    "dlc1_footlocker06.wav": {
+        "length": 1220,
+        "sr": 44100
+    },
+    "dlc1_footlocker07.wav": {
+        "length": 895,
+        "sr": 44100
+    },
+    "dlc1_footlocker08.wav": {
+        "length": 862,
+        "sr": 44100
+    },
+    "dlc1_footlocker09.wav": {
+        "length": 1395,
+        "sr": 44100
+    },
+    "dlc1_golfclub01.wav": {
+        "length": 630,
+        "sr": 44100
+    },
+    "dlc1_golfclub02.wav": {
+        "length": 999,
+        "sr": 44100
+    },
+    "dlc1_golfclub03.wav": {
+        "length": 620,
+        "sr": 44100
+    },
+    "dlc1_golfclub04.wav": {
+        "length": 1069,
+        "sr": 44100
+    },
+    "dlc1_golfclub05.wav": {
+        "length": 1539,
+        "sr": 44100
+    },
+    "dlc1_golfclub06.wav": {
+        "length": 1359,
+        "sr": 44100
+    },
+    "dlc1_golfclub07.wav": {
+        "length": 806,
+        "sr": 44100
+    },
+    "dlc1_keithstories01.wav": {
+        "length": 15424,
+        "sr": 44100
+    },
+    "dlc1_keithstories02a.wav": {
+        "length": 9234,
+        "sr": 44100
+    },
+    "dlc1_keithstories02b.wav": {
+        "length": 26929,
+        "sr": 44100
+    },
+    "dlc1_keithstories03a.wav": {
+        "length": 14211,
+        "sr": 44100
+    },
+    "dlc1_keithstories03b.wav": {
+        "length": 24618,
+        "sr": 44100
+    },
+    "dlc1_keithstories03c.wav": {
+        "length": 17732,
+        "sr": 44100
+    },
+    "dlc1_keithstories04.wav": {
+        "length": 41197,
+        "sr": 44100
+    },
+    "dlc1_keithstories05.wav": {
+        "length": 19997,
+        "sr": 44100
+    },
+    "dlc1_keithstories06_v1.wav": {
+        "length": 14185,
+        "sr": 44100
+    },
+    "dlc1_keithstories06_v2.wav": {
+        "length": 13037,
+        "sr": 44100
+    },
+    "dlc1_keithstories07.wav": {
+        "length": 18598,
+        "sr": 44100
+    },
+    "dlc1_l4d1tank01.wav": {
+        "length": 2263,
+        "sr": 44100
+    },
+    "dlc1_l4d1tank02.wav": {
+        "length": 1116,
+        "sr": 44100
+    },
+    "dlc1_l4d1tank03.wav": {
+        "length": 2272,
+        "sr": 44100
+    },
+    "dlc1_l4d1tank04.wav": {
+        "length": 1740,
+        "sr": 44100
+    },
+    "dlc1_l4d1tank05.wav": {
+        "length": 1388,
+        "sr": 44100
+    },
+    "dlc1_l4d1tank06.wav": {
+        "length": 2183,
+        "sr": 44100
+    },
+    "dlc1_l4d1tank07.wav": {
+        "length": 3197,
+        "sr": 44100
+    },
+    "dlc1_m6001.wav": {
+        "length": 1099,
+        "sr": 44100
+    },
+    "dlc1_m6002.wav": {
+        "length": 809,
+        "sr": 44100
+    },
+    "dlc1_m6003.wav": {
+        "length": 1151,
+        "sr": 44100
+    },
+    "dlc1_m6004.wav": {
+        "length": 831,
+        "sr": 44100
+    },
+    "dlc1_m6005.wav": {
+        "length": 1219,
+        "sr": 44100
+    },
+    "dlc1_m6006.wav": {
+        "length": 987,
+        "sr": 44100
+    },
+    "dlc1_m6007.wav": {
+        "length": 1270,
+        "sr": 44100
+    },
+    "dlc1_m6008.wav": {
+        "length": 1457,
+        "sr": 44100
+    },
+    "dlc1_m6009.wav": {
+        "length": 1452,
+        "sr": 44100
+    },
+    "dlc1_m6010.wav": {
+        "length": 1156,
+        "sr": 44100
+    },
+    "dlc1_m6011.wav": {
+        "length": 885,
+        "sr": 44100
+    },
+    "dlc1_m6012.wav": {
+        "length": 977,
+        "sr": 44100
+    },
+    "dlc1_m6013.wav": {
+        "length": 1212,
+        "sr": 44100
+    }
+}

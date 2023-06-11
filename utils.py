@@ -225,3 +225,13 @@ class HParams():
 
     def __repr__(self):
         return self.__dict__.__repr__()
+
+
+def read_json(path: str) -> dict:
+    with open(path, 'r', encoding='utf-8') as fp:
+        data = json.load(fp)
+    return data
+
+def write_json(path: str, obj: dict):
+    with open(path, 'w', encoding='utf-8') as fp:
+        json.dump(obj, fp, ensure_ascii=False, indent=4)

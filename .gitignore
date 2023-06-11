@@ -387,3 +387,6 @@ result
 *.pth
 dist
 *.backup
+
+dlc1_dist
+dlc2_dist

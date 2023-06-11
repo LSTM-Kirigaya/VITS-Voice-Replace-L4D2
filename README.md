@@ -40,11 +40,7 @@ vpk -h
 This is quite easy: 
 
 ```bash
-# Windows
-.\build_all.bat
-
-# Linux
-sh build_all.bash
+script/build_all.bat zh
 ```
 
 ### Custom Config

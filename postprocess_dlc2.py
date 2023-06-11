@@ -7,9 +7,10 @@ import os
 import tqdm
 import argparse
 import yaml
+import shutil
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-n', default='producer', type=str, choices=['producer', 'coach', 'gambler', 'mechanic'])
+parser.add_argument('-n', default='biker', type=str, choices=['biker', 'teengirl', 'manager', 'namvet'])
 parser.add_argument('-t', default=0, type=int)
 parser.add_argument('--lang', type=str, default='zh', choices=['zh', 'ja'])
 parser.add_argument('--log', type=str, default='', help='xxx.exceed.json, only process those words')
@@ -26,11 +27,8 @@ def change_db(wav_file: str, target_dbfs: int=0, focus_freq = 1000) -> AudioSegm
 
 
 def align_audio_two_folders(name: str, wav_files: list=None):
-    meta_path = os.path.join('transcription', f'{name}.meta.json')
+    meta_path = os.path.join('transcription', 'dlc2', f'{name}.meta.json')
     data = utils.read_json(meta_path)
-
-    target_folder = os.path.join('dist', config[name]['mod_name'])
-    root = os.path.join(target_folder, 'sound', 'player', 'survivor', 'voice', name)
 
     handle_files = os.listdir(root)
     if wav_files is not None:
@@ -86,7 +84,6 @@ def make_voice_brighter(root: str, wav_files: list=None):
         result_audio.export(target_path, format='wav')
     
 if __name__ == "__main__":
-
     if not os.path.exists('log'):
         os.makedirs('log')
 
@@ -100,23 +97,35 @@ if __name__ == "__main__":
         log_data = utils.read_json(log)
         wav_files = list(log_data.keys())
 
-    meta_path = os.path.join('transcription', f'{name}.meta.json')
+    meta_path = os.path.join('transcription', 'dlc2', f'{name}.meta.json')
     data = utils.read_json(meta_path)
-
+    
     with open(f'./config/voice_{lang}.yaml', 'r', encoding='utf-8') as fp:
         config = yaml.load(fp, Loader=yaml.FullLoader)
 
-    target_folder = os.path.join('dist', config[name]['mod_name'])
+    target_folder = os.path.join('dlc2_dist', config[name]['mod_name'])
     root = os.path.join(target_folder, 'sound', 'player', 'survivor', 'voice', name)
     if not os.path.exists(root):
         os.mkdir(root)
 
-    # print('postprocess voice...')
-    # make_voice_brighter(root, wav_files)
+    print('postprocess voice...')
+    make_voice_brighter(root, wav_files)
 
-    # print('align length and sample rate...')
-    # align_audio_two_folders(name, wav_files)
+    print('align length and sample rate...')
+    align_audio_two_folders(name, wav_files)
 
-    # print('generate vpk')
-    # os.system('vpk {}'.format(target_folder))
-    # print('bingo :D')
+    real_target_folder = os.path.join('dist', config[name]['mod_name'])
+    real_root = os.path.join(real_target_folder, 'sound', 'player', 'survivor', 'voice', name)
+
+    print('move wav to', real_root)
+    if not os.path.exists(real_root):
+        os.mkdir(real_root)
+    
+    for wav in os.listdir(root):
+        wav_path = os.path.join(root, wav)
+        real_wav_path = os.path.join(real_root, wav)
+        shutil.move(wav_path, real_wav_path)
+
+    print('generate vpk')
+    os.system('vpk {}'.format(real_target_folder))
+    print('bingo :D')

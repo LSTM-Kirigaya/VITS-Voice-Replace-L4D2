@@ -12,7 +12,6 @@ from torch import no_grad, LongTensor
 import soundfile as sf
 from pydub import AudioSegment
 import shutil
-import json
 import tqdm
 
 audio_postprocess_ori = gr.Audio.postprocess
@@ -72,12 +71,8 @@ def get_make_list(transcription: dict, log: str) -> list:
     if not os.path.exists(log):
         return list(transcription.keys())
     else:
-        with open(log, 'r', encoding='utf-8') as fp:
-            data: dict = json.load(fp)
+        data = utils.read_json(log)
         return list(data.keys())
-
-with open('./config/voice.yaml', 'r', encoding='utf-8') as fp:
-    config = yaml.load(fp, Loader=yaml.FullLoader)
 
 lang_code = {
     'zh': 0,
@@ -90,11 +85,12 @@ if __name__ == '__main__':
     log: str = args.log
 
     lang_code: int = lang_code[lang]
-    with open(f'transcription/npc/{name}_{lang}.json', 'r', encoding='utf-8') as fp:
-        transcription = json.load(fp)
+
+    transcription = utils.read_json(f'transcription/dlc1/{name}_{lang}.json')
+    meta_data = utils.read_json(f'transcription/dlc1/{name}.meta.json')
     
-    with open(f'transcription/npc/{name}.meta.json', 'r', encoding='utf-8') as fp:
-        meta_data = json.load(fp)
+    with open(f'./config/voice_{lang}.yaml', 'r', encoding='utf-8') as fp:
+        config = yaml.load(fp, Loader=yaml.FullLoader)
     
     mod_root = os.path.join('dist', config[name]['mod_name'])
     vpk_path = os.path.join('dist', config[name]['mod_name'] + '.vpk')
@@ -102,8 +98,7 @@ if __name__ == '__main__':
     
     if os.path.exists(vpk_path):
         os.remove(vpk_path)
-    # if os.path.exists(mod_root):
-    #     shutil.rmtree(mod_root)
+
     if not os.path.exists(root):
         os.makedirs(root)
         

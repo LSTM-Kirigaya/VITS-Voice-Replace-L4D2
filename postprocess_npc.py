@@ -1,16 +1,19 @@
 from pydub import AudioSegment
 from pydub.effects import compress_dynamic_range, normalize
 import pydub.scipy_effects as scipy_effects
-
+import utils
 
 import os
 import tqdm
 import argparse
 import yaml
-import json
 
-with open('./config/voice.yaml', 'r', encoding='utf-8') as fp:
-    config = yaml.load(fp, Loader=yaml.FullLoader)
+parser = argparse.ArgumentParser()
+parser.add_argument('-n', default='producer', type=str, choices=['whitaker', 'virgil', 'pilot', 'soldier', 'soldier1', 'soldier2', '05_military'])
+parser.add_argument('-t', default=0, type=int)
+parser.add_argument('--lang', type=str, default='zh', choices=['zh', 'ja'])
+parser.add_argument('--log', type=str, default='', help='xxx.exceed.json, only process those words')
+args = parser.parse_args()
 
 exceed_logs = {}
 
@@ -24,8 +27,7 @@ def change_db(wav_file: str, target_dbfs: int=0, focus_freq = 1000) -> AudioSegm
 
 def align_audio_two_folders(name: str, wav_files: list=None):
     meta_path = os.path.join('transcription', 'npc', f'{name}.meta.json')
-    with open(meta_path, 'r', encoding='utf-8') as fp:
-        data = json.load(fp)
+    data = utils.read_json(meta_path)
 
     target_folder = os.path.join('dist', config[name]['mod_name'])
     root = os.path.join(target_folder, 'sound', 'npc', name)
@@ -44,8 +46,7 @@ def align_audio_two_folders(name: str, wav_files: list=None):
             align_length(wav_path, target_wav_info['length'])
 
     if len(exceed_logs) > 0:
-        with open(f'./log/{name}.exceed.json', 'w', encoding='utf-8') as fp:
-            json.dump(exceed_logs, fp, ensure_ascii=False, indent=4)
+        utils.write_json(f'./log/{name}.exceed.json', exceed_logs)
 
 def align_length(target_wav_file: str, target_length: int):
     target_audio = AudioSegment.from_file(target_wav_file)
@@ -105,11 +106,6 @@ def make_voice_like_phone(root: str, wav_files: list=None):
         result_audio.export(target_path, format='wav')    
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-n', default='producer', type=str, choices=['whitaker', 'virgil', 'pilot', 'soldier', 'soldier1', 'soldier2', '05_military'])
-    parser.add_argument('-t', default=0, type=int)
-    parser.add_argument('--log', type=str, default='', help='xxx.exceed.json, only process those words')
-    args = parser.parse_args()
 
     if not os.path.exists('log'):
         os.makedirs('log')
@@ -117,16 +113,18 @@ if __name__ == "__main__":
     name: str = args.n
     target_dbfs: int = args.t
     log: str = args.log
+    lang: str = args.lang
 
     wav_files = None
     if os.path.exists(log):
-        with open(log, 'r', encoding='utf-8') as fp:
-            log_data: dict = json.load(fp)
+        log_data = utils.read_json(log)
         wav_files = list(log_data.keys())
 
     meta_path = os.path.join('transcription', 'npc', f'{name}.meta.json')
-    with open(meta_path, 'r', encoding='utf-8') as fp:
-        data = json.load(fp)
+    data = utils.read_json(meta_path)
+
+    with open(f'./config/voice_{lang}.yaml', 'r', encoding='utf-8') as fp:
+        config = yaml.load(fp, Loader=yaml.FullLoader)
 
     target_folder = os.path.join('dist', config[name]['mod_name'])
     root = os.path.join(target_folder, 'sound', 'npc', name)
