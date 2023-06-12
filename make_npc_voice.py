@@ -86,8 +86,8 @@ if __name__ == '__main__':
 
     lang_code: int = lang_code[lang]
 
-    transcription = utils.read_json(f'transcription/dlc1/{name}_{lang}.json')
-    meta_data = utils.read_json(f'transcription/dlc1/{name}.meta.json')
+    transcription = utils.read_json(f'transcription/npc/{name}_{lang}.json')
+    meta_data = utils.read_json(f'transcription/npc/{name}.meta.json')
     
     with open(f'./config/voice_{lang}.yaml', 'r', encoding='utf-8') as fp:
         config = yaml.load(fp, Loader=yaml.FullLoader)

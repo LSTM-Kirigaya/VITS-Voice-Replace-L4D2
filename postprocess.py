@@ -111,12 +111,12 @@ if __name__ == "__main__":
     if not os.path.exists(root):
         os.mkdir(root)
 
-    # print('postprocess voice...')
-    # make_voice_brighter(root, wav_files)
+    print('postprocess voice...')
+    make_voice_brighter(root, wav_files)
 
-    # print('align length and sample rate...')
-    # align_audio_two_folders(name, wav_files)
+    print('align length and sample rate...')
+    align_audio_two_folders(name, wav_files)
 
-    # print('generate vpk')
-    # os.system('vpk {}'.format(target_folder))
-    # print('bingo :D')
+    print('generate vpk')
+    os.system('vpk {}'.format(target_folder))
+    print('bingo :D')

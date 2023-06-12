@@ -119,7 +119,7 @@ if __name__ == "__main__":
 
     print('move wav to', real_root)
     if not os.path.exists(real_root):
-        os.mkdir(real_root)
+        os.makedirs(real_root)
     
     for wav in os.listdir(root):
         wav_path = os.path.join(root, wav)
