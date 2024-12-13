@@ -124,7 +124,7 @@ if __name__ == '__main__':
     _ = net_g_ms.eval().to(device)
     speakers = hps_ms.speakers
     model, optimizer, learning_rate, epochs = utils.load_checkpoint(
-        r'./model/G_953000.pth', net_g_ms, None)
+        r'./model/G_0.pth', net_g_ms, None)
 
     with gr.Blocks() as app:
         gr.Markdown(

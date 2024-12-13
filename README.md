@@ -18,10 +18,10 @@ pip install -r requirements.txt
 3. install model checkpoints:
 ```bash
 # Windows
-wget -O model/G_953000.pth https://huggingface.co/spaces/zomehwh/vits-uma-genshin-honkai/resolve/main/model/G_953000.pth
+wget -O model/G_0.pth https://huggingface.co/spaces/zomehwh/vits-uma-genshin-honkai/resolve/main/model/G_0.pth
 
 # Linux
-wget -P model/ https://huggingface.co/spaces/zomehwh/vits-uma-genshin-honkai/resolve/main/model/G_953000.pth
+wget -P model/ https://huggingface.co/spaces/zomehwh/vits-uma-genshin-honkai/resolve/main/model/G_0.pth
 ```
 4. add L4D2 tool bin to environment to ensure you can use `vpk` in your command. You should ensure no error take place when you enter the following command：
 ```
@@ -62,6 +62,20 @@ python app.py --device cuda
 This will open a application in your brower through http://127.0.0.1:7860/ , where you can quickly view different voice.
 
 Just edit the speaker id as you like :D
+
+---
+
+如果是一代人物，修改 `config/voice_zh.yaml` 后，输入
+
+```bash
+.\script\build_charater_1.bat <角色名称> <语言>
+```
+
+如果是二代人物，修改 `config/voice_zh.yaml` 后，输入：
+
+```bash
+.\script\build_character_2.bat <角色名称> <语言>
+```
 
 ## Publish your VITS voice MOD
 

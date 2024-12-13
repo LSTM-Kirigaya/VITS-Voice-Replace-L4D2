@@ -36,7 +36,7 @@ net_g_ms = SynthesizerTrn(
     **hps_ms.model)
 _ = net_g_ms.eval().to(device)
 speakers = hps_ms.speakers
-model, optimizer, learning_rate, epochs = utils.load_checkpoint(r'./model/G_953000.pth', net_g_ms, None)
+model, optimizer, learning_rate, epochs = utils.load_checkpoint(r'./model/G_0.pth', net_g_ms, None)
 
 def get_text(text, hps):
     text_norm, clean_text = text_to_sequence(text, hps.symbols, hps.data.text_cleaners)

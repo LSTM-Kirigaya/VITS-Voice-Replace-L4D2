@@ -1,23 +1,28 @@
+# Rochelle
 producer: 
-  mod_name: shenhe_voice
-  config: [132, 0.3, 0.668, 1.0]
+  mod_name: 妖精aili_voice
+  config: [215, 0.3, 0.668, 1.0]
   filter_center: 150
 
+# Nick
 gambler:  
-  mod_name: huhtao_voice
-  config: [119, 0.5, 0.668, 1.0]
+  mod_name: ludike_voice
+  config: [94, 0.5, 0.668, 1.0]
   filter_center: 150
 
+# Ellis
 mechanic:
-  mod_name: ying_voice
-  config: [ 91, 0.4, 0.668, 1.0]
-  filter_center: 150
+  mod_name: kiana_voice
+  config: [228, 0.3, 0.668, 1.0]
+  filter_center: 200
 
-coach:    
-  mod_name: keqing_voice
-  config: [115, 0.3, 0.668, 1.0]
-  filter_center: 150
+# 教练
+coach:
+  mod_name: theresa_voice
+  config: [205, 0.2, 0.668, 1.0]
+  filter_center: 350
 
+# 比尔
 namvet:
   mod_name: wendi_voice
   config: [ 97, 0.3, 0.668, 1.0]
@@ -28,19 +33,22 @@ namvet:
 #   config: [118, 0.2, 0.668, 1.0]
 #   filter_center: 150
 
+# 弗朗西斯
 biker:
-  mod_name: jiuqiren_voice
-  config: [136, 0.5, 0.5, 1.0]
+  mod_name: ayaka_voice
+  config: [87, 0.3, 0.5, 1.0]
   filter_center: 150
 
+# 路易斯
 manager:
-  mod_name: bachongshenzi_voice
-  config: [133, 0.5, 0.5, 1.0]
+  mod_name: shizhilvzhe_voice
+  config: [233, 0.3, 0.5, 1.0]
   filter_center: 150
 
+# 佐伊
 teengirl:
-  mod_name: xiaogong_voice
-  config: [122, 0.5, 0.5, 1.0]
+  mod_name: keqing_voice
+  config: [115, 0.3, 0.5, 1.0]
   filter_center: 150
 
 # teengirl:
@@ -56,7 +64,7 @@ virgil:
   mod_name: npc_voice
   config: [ 97, 0.3, 0.4, 1.0]
 
-soldier1: 
+soldier1:
   mod_name: npc_voice
   config: [118, 0.1, 0.2, 1.0]
 
